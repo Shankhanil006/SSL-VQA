@@ -54,9 +54,10 @@ class SemiSupervisedDataset(Dataset):
             self.id = np.linspace(0, len(self.dic) - 1 - delta, 500, dtype = int) +delta
             
         else:
-            idx = np.linspace(0, len(self.dic) - 1 - delta, 500, dtype = int) +delta
-            self.id = np.array(list(set(np.arange(len(self.dic))) - set(idx)))
-
+            idx = np.linspace(0, len(self.dic) - 1 - delta, 1500, dtype = int) +delta   
+            self.id = np.array(list(set(np.arange(len(self.dic))) - set(idx)))          # to make sure the labelled and unlabelled set are non-overlapping
+            self.id = np.random.choice(self.id, 1500, replace = False)
+            
     def __len__(self):
             return len(self.id)
         
