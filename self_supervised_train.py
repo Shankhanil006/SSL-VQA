@@ -29,7 +29,7 @@ from matplotlib import pyplot as plt
 from synthetic_datasets import SyntheticDataset
 # from apv_datasets import APVDataset
 # from pristine_datasets import PristineDataset
-from lsvd_datasets_v2 import LSVDDataset
+from synthetic_lsvd_datasets import LSVDDataset
 
 from niqe_loss import *
 from reference_loss import *
