@@ -1,5 +1,4 @@
 from numpy.random import randint
-# from loss_modular import NT_XENT
 import os, gc
 import argparse
 import json
@@ -32,8 +31,6 @@ from scipy.stats import pearsonr as plcc
 import math, copy
 
 import decord
-from contrastive_loss import *
-from reference_loss import *
 from itertools import chain, cycle
 from collections import OrderedDict
 from copy import deepcopy
