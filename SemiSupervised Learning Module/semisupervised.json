@@ -1,0 +1,7998 @@
+[
+  {
+    "filename": "yfcc-batch1/725.mp4",
+    "label": 76.84375
+  },
+  {
+    "filename": "yfcc-batch1/762.mp4",
+    "label": 63.0
+  },
+  {
+    "filename": "yfcc-batch1/792.mp4",
+    "label": 68.3333333333333
+  },
+  {
+    "filename": "yfcc-batch1/11.mp4",
+    "label": 56.3103448275862
+  },
+  {
+    "filename": "yfcc-batch1/80.mp4",
+    "label": 53.722222222222214
+  },
+  {
+    "filename": "yfcc-batch1/112.mp4",
+    "label": 52.17142857142861
+  },
+  {
+    "filename": "yfcc-batch1/141.mp4",
+    "label": 59.1666666666667
+  },
+  {
+    "filename": "yfcc-batch1/161.mp4",
+    "label": 72.2285714285714
+  },
+  {
+    "filename": "yfcc-batch1/189.mp4",
+    "label": 78.7741935483871
+  },
+  {
+    "filename": "yfcc-batch1/212.mp4",
+    "label": 82.9655172413793
+  },
+  {
+    "filename": "yfcc-batch1/241.mp4",
+    "label": 51.90625
+  },
+  {
+    "filename": "yfcc-batch1/275.mp4",
+    "label": 70.6969696969697
+  },
+  {
+    "filename": "yfcc-batch1/302.mp4",
+    "label": 67.5277777777778
+  },
+  {
+    "filename": "yfcc-batch1/325.mp4",
+    "label": 71.2571428571428
+  },
+  {
+    "filename": "yfcc-batch1/343.mp4",
+    "label": 87.05555555555559
+  },
+  {
+    "filename": "yfcc-batch1/371.mp4",
+    "label": 42.257142857142895
+  },
+  {
+    "filename": "yfcc-batch1/398.mp4",
+    "label": 64.05
+  },
+  {
+    "filename": "yfcc-batch1/423.mp4",
+    "label": 60.96428571428571
+  },
+  {
+    "filename": "yfcc-batch1/454.mp4",
+    "label": 68.65625
+  },
+  {
+    "filename": "yfcc-batch1/490.mp4",
+    "label": 45.55882352941179
+  },
+  {
+    "filename": "yfcc-batch1/543.mp4",
+    "label": 70.21428571428571
+  },
+  {
+    "filename": "yfcc-batch1/565.mp4",
+    "label": 68.5142857142857
+  },
+  {
+    "filename": "yfcc-batch1/601.mp4",
+    "label": 76.1785714285714
+  },
+  {
+    "filename": "yfcc-batch1/630.mp4",
+    "label": 82.7096774193548
+  },
+  {
+    "filename": "yfcc-batch1/659.mp4",
+    "label": 59.4838709677419
+  },
+  {
+    "filename": "yfcc-batch1/677.mp4",
+    "label": 81.9677419354839
+  },
+  {
+    "filename": "yfcc-batch1/698.mp4",
+    "label": 73.8695652173913
+  },
+  {
+    "filename": "yfcc-batch2/1194.mp4",
+    "label": 57.9387755102041
+  },
+  {
+    "filename": "yfcc-batch2/1212.mp4",
+    "label": 84.56
+  },
+  {
+    "filename": "yfcc-batch2/1229.mp4",
+    "label": 66.948275862069
+  },
+  {
+    "filename": "yfcc-batch2/1252.mp4",
+    "label": 56.1132075471698
+  },
+  {
+    "filename": "yfcc-batch2/1277.mp4",
+    "label": 62.1132075471698
+  },
+  {
+    "filename": "yfcc-batch2/1297.mp4",
+    "label": 67.08928571428571
+  },
+  {
+    "filename": "yfcc-batch2/1318.mp4",
+    "label": 54.290909090909096
+  },
+  {
+    "filename": "yfcc-batch2/1339.mp4",
+    "label": 75.9615384615385
+  },
+  {
+    "filename": "yfcc-batch2/1355.mp4",
+    "label": 69.2745098039216
+  },
+  {
+    "filename": "yfcc-batch2/1375.mp4",
+    "label": 55.5882352941177
+  },
+  {
+    "filename": "yfcc-batch2/1393.mp4",
+    "label": 44.19298245614039
+  },
+  {
+    "filename": "yfcc-batch2/1416.mp4",
+    "label": 55.4727272727273
+  },
+  {
+    "filename": "yfcc-batch2/1434.mp4",
+    "label": 50.584905660377395
+  },
+  {
+    "filename": "yfcc-batch2/1457.mp4",
+    "label": 76.6938775510204
+  },
+  {
+    "filename": "yfcc-batch2/1484.mp4",
+    "label": 68.3333333333333
+  },
+  {
+    "filename": "yfcc-batch2/1507.mp4",
+    "label": 65.82
+  },
+  {
+    "filename": "yfcc-batch2/1526.mp4",
+    "label": 71.58181818181819
+  },
+  {
+    "filename": "yfcc-batch2/1543.mp4",
+    "label": 61.2727272727273
+  },
+  {
+    "filename": "yfcc-batch2/1567.mp4",
+    "label": 63.788461538461505
+  },
+  {
+    "filename": "yfcc-batch2/1585.mp4",
+    "label": 56.05882352941179
+  },
+  {
+    "filename": "yfcc-batch2/1606.mp4",
+    "label": 43.8775510204082
+  },
+  {
+    "filename": "yfcc-batch2/1626.mp4",
+    "label": 58.7083333333333
+  },
+  {
+    "filename": "yfcc-batch2/841.mp4",
+    "label": 75.27450980392159
+  },
+  {
+    "filename": "yfcc-batch2/832.mp4",
+    "label": 74.3541666666667
+  },
+  {
+    "filename": "yfcc-batch2/849.mp4",
+    "label": 69.1929824561404
+  },
+  {
+    "filename": "yfcc-batch2/873.mp4",
+    "label": 77.4363636363636
+  },
+  {
+    "filename": "yfcc-batch2/890.mp4",
+    "label": 65.8478260869565
+  },
+  {
+    "filename": "yfcc-batch2/915.mp4",
+    "label": 55.6326530612245
+  },
+  {
+    "filename": "yfcc-batch2/940.mp4",
+    "label": 55.0555555555556
+  },
+  {
+    "filename": "yfcc-batch2/958.mp4",
+    "label": 79.4150943396226
+  },
+  {
+    "filename": "yfcc-batch2/976.mp4",
+    "label": 33.9591836734694
+  },
+  {
+    "filename": "yfcc-batch2/1001.mp4",
+    "label": 48.489795918367385
+  },
+  {
+    "filename": "yfcc-batch2/1022.mp4",
+    "label": 72.18
+  },
+  {
+    "filename": "yfcc-batch2/1044.mp4",
+    "label": 68.6111111111111
+  },
+  {
+    "filename": "yfcc-batch2/1072.mp4",
+    "label": 79.6274509803922
+  },
+  {
+    "filename": "yfcc-batch2/1090.mp4",
+    "label": 64.98
+  },
+  {
+    "filename": "yfcc-batch2/1109.mp4",
+    "label": 60.4423076923077
+  },
+  {
+    "filename": "yfcc-batch2/1128.mp4",
+    "label": 51.811320754716995
+  },
+  {
+    "filename": "yfcc-batch2/1149.mp4",
+    "label": 45.5
+  },
+  {
+    "filename": "yfcc-batch2/1169.mp4",
+    "label": 55.94
+  },
+  {
+    "filename": "yfcc-batch3/2014.mp4",
+    "label": 62.4117647058824
+  },
+  {
+    "filename": "yfcc-batch3/2031.mp4",
+    "label": 67.0
+  },
+  {
+    "filename": "yfcc-batch3/2049.mp4",
+    "label": 61.3548387096774
+  },
+  {
+    "filename": "yfcc-batch3/2072.mp4",
+    "label": 60.7714285714286
+  },
+  {
+    "filename": "yfcc-batch3/2093.mp4",
+    "label": 57.9444444444444
+  },
+  {
+    "filename": "yfcc-batch3/2112.mp4",
+    "label": 69.4054054054054
+  },
+  {
+    "filename": "yfcc-batch3/2132.mp4",
+    "label": 59.027777777777786
+  },
+  {
+    "filename": "yfcc-batch3/2155.mp4",
+    "label": 66.3055555555556
+  },
+  {
+    "filename": "yfcc-batch3/2173.mp4",
+    "label": 64.9117647058823
+  },
+  {
+    "filename": "yfcc-batch3/2194.mp4",
+    "label": 68.5135135135135
+  },
+  {
+    "filename": "yfcc-batch3/2213.mp4",
+    "label": 54.39473684210521
+  },
+  {
+    "filename": "yfcc-batch3/2234.mp4",
+    "label": 75.7948717948718
+  },
+  {
+    "filename": "yfcc-batch3/2254.mp4",
+    "label": 51.1081081081081
+  },
+  {
+    "filename": "yfcc-batch3/2270.mp4",
+    "label": 67.65625
+  },
+  {
+    "filename": "yfcc-batch3/2296.mp4",
+    "label": 62.846153846153896
+  },
+  {
+    "filename": "yfcc-batch3/2314.mp4",
+    "label": 76.79310344827591
+  },
+  {
+    "filename": "yfcc-batch3/2334.mp4",
+    "label": 63.7
+  },
+  {
+    "filename": "yfcc-batch3/2352.mp4",
+    "label": 55.3513513513514
+  },
+  {
+    "filename": "yfcc-batch3/2369.mp4",
+    "label": 65.7058823529412
+  },
+  {
+    "filename": "yfcc-batch3/2392.mp4",
+    "label": 64.9714285714286
+  },
+  {
+    "filename": "yfcc-batch3/2411.mp4",
+    "label": 48.972972972973004
+  },
+  {
+    "filename": "yfcc-batch3/2432.mp4",
+    "label": 63.9473684210526
+  },
+  {
+    "filename": "yfcc-batch3/2451.mp4",
+    "label": 73.7179487179487
+  },
+  {
+    "filename": "yfcc-batch3/2217.mp4",
+    "label": 68.5142857142857
+  },
+  {
+    "filename": "yfcc-batch3/1659.mp4",
+    "label": 69.9333333333333
+  },
+  {
+    "filename": "yfcc-batch3/1681.mp4",
+    "label": 66.2285714285714
+  },
+  {
+    "filename": "yfcc-batch3/1700.mp4",
+    "label": 41.5151515151515
+  },
+  {
+    "filename": "yfcc-batch3/1733.mp4",
+    "label": 61.70588235294121
+  },
+  {
+    "filename": "yfcc-batch3/1748.mp4",
+    "label": 58.2162162162162
+  },
+  {
+    "filename": "yfcc-batch3/1772.mp4",
+    "label": 67.4736842105263
+  },
+  {
+    "filename": "yfcc-batch3/1797.mp4",
+    "label": 60.4117647058824
+  },
+  {
+    "filename": "yfcc-batch3/1814.mp4",
+    "label": 62.085714285714296
+  },
+  {
+    "filename": "yfcc-batch3/1841.mp4",
+    "label": 52.9705882352941
+  },
+  {
+    "filename": "yfcc-batch3/1862.mp4",
+    "label": 49.32352941176471
+  },
+  {
+    "filename": "yfcc-batch3/1885.mp4",
+    "label": 66.4
+  },
+  {
+    "filename": "yfcc-batch3/1903.mp4",
+    "label": 78.0882352941177
+  },
+  {
+    "filename": "yfcc-batch3/1923.mp4",
+    "label": 46.5833333333333
+  },
+  {
+    "filename": "yfcc-batch3/1945.mp4",
+    "label": 72.0
+  },
+  {
+    "filename": "yfcc-batch3/1966.mp4",
+    "label": 47.375
+  },
+  {
+    "filename": "yfcc-batch3/1985.mp4",
+    "label": 62.540540540540505
+  },
+  {
+    "filename": "yfcc-batch3/2006.mp4",
+    "label": 62.8333333333333
+  },
+  {
+    "filename": "yfcc-batch4/2849.mp4",
+    "label": 53.857142857142804
+  },
+  {
+    "filename": "yfcc-batch4/2865.mp4",
+    "label": 72.3333333333333
+  },
+  {
+    "filename": "yfcc-batch4/2894.mp4",
+    "label": 63.405405405405396
+  },
+  {
+    "filename": "yfcc-batch4/2916.mp4",
+    "label": 67.030303030303
+  },
+  {
+    "filename": "yfcc-batch4/2941.mp4",
+    "label": 65.875
+  },
+  {
+    "filename": "yfcc-batch4/2962.mp4",
+    "label": 37.1818181818182
+  },
+  {
+    "filename": "yfcc-batch4/2984.mp4",
+    "label": 68.5588235294118
+  },
+  {
+    "filename": "yfcc-batch4/3006.mp4",
+    "label": 60.5882352941177
+  },
+  {
+    "filename": "yfcc-batch4/3026.mp4",
+    "label": 62.8918918918919
+  },
+  {
+    "filename": "yfcc-batch4/3047.mp4",
+    "label": 53.657894736842096
+  },
+  {
+    "filename": "yfcc-batch4/3068.mp4",
+    "label": 59.4864864864865
+  },
+  {
+    "filename": "yfcc-batch4/3084.mp4",
+    "label": 48.7714285714286
+  },
+  {
+    "filename": "yfcc-batch4/3104.mp4",
+    "label": 65.7837837837838
+  },
+  {
+    "filename": "yfcc-batch4/3123.mp4",
+    "label": 50.454545454545496
+  },
+  {
+    "filename": "yfcc-batch4/3141.mp4",
+    "label": 64.4736842105263
+  },
+  {
+    "filename": "yfcc-batch4/3163.mp4",
+    "label": 52.4444444444444
+  },
+  {
+    "filename": "yfcc-batch4/3183.mp4",
+    "label": 61.4848484848485
+  },
+  {
+    "filename": "yfcc-batch4/3204.mp4",
+    "label": 53.0
+  },
+  {
+    "filename": "yfcc-batch4/3221.mp4",
+    "label": 74.7352941176471
+  },
+  {
+    "filename": "yfcc-batch4/3240.mp4",
+    "label": 65.37142857142861
+  },
+  {
+    "filename": "yfcc-batch4/3260.mp4",
+    "label": 61.405405405405396
+  },
+  {
+    "filename": "yfcc-batch4/3275.mp4",
+    "label": 62.085714285714296
+  },
+  {
+    "filename": "yfcc-batch4/3055.mp4",
+    "label": 71.9722222222222
+  },
+  {
+    "filename": "yfcc-batch4/2480.mp4",
+    "label": 52.6285714285714
+  },
+  {
+    "filename": "yfcc-batch4/2499.mp4",
+    "label": 58.157894736842096
+  },
+  {
+    "filename": "yfcc-batch4/2521.mp4",
+    "label": 69.35294117647061
+  },
+  {
+    "filename": "yfcc-batch4/2544.mp4",
+    "label": 59.8571428571429
+  },
+  {
+    "filename": "yfcc-batch4/2560.mp4",
+    "label": 66.2647058823529
+  },
+  {
+    "filename": "yfcc-batch4/2577.mp4",
+    "label": 74.2121212121212
+  },
+  {
+    "filename": "yfcc-batch4/2598.mp4",
+    "label": 66.4705882352941
+  },
+  {
+    "filename": "yfcc-batch4/2623.mp4",
+    "label": 70.3611111111111
+  },
+  {
+    "filename": "yfcc-batch4/2645.mp4",
+    "label": 64.7428571428572
+  },
+  {
+    "filename": "yfcc-batch4/2666.mp4",
+    "label": 78.2285714285714
+  },
+  {
+    "filename": "yfcc-batch4/2687.mp4",
+    "label": 59.5757575757576
+  },
+  {
+    "filename": "yfcc-batch4/2708.mp4",
+    "label": 45.4705882352941
+  },
+  {
+    "filename": "yfcc-batch4/2725.mp4",
+    "label": 31.9714285714286
+  },
+  {
+    "filename": "yfcc-batch4/2741.mp4",
+    "label": 65.1315789473684
+  },
+  {
+    "filename": "yfcc-batch4/2761.mp4",
+    "label": 51.428571428571395
+  },
+  {
+    "filename": "yfcc-batch4/2782.mp4",
+    "label": 57.6315789473684
+  },
+  {
+    "filename": "yfcc-batch4/2802.mp4",
+    "label": 56.8333333333333
+  },
+  {
+    "filename": "yfcc-batch4/2821.mp4",
+    "label": 63.57142857142861
+  },
+  {
+    "filename": "yfcc-batch5/3664.mp4",
+    "label": 63.736842105263214
+  },
+  {
+    "filename": "yfcc-batch5/3687.mp4",
+    "label": 69.0
+  },
+  {
+    "filename": "yfcc-batch5/3705.mp4",
+    "label": 48.47368421052629
+  },
+  {
+    "filename": "yfcc-batch5/3723.mp4",
+    "label": 49.972972972973004
+  },
+  {
+    "filename": "yfcc-batch5/3740.mp4",
+    "label": 38.8285714285714
+  },
+  {
+    "filename": "yfcc-batch5/3755.mp4",
+    "label": 70.6470588235294
+  },
+  {
+    "filename": "yfcc-batch5/3776.mp4",
+    "label": 68.3428571428571
+  },
+  {
+    "filename": "yfcc-batch5/3797.mp4",
+    "label": 64.2285714285714
+  },
+  {
+    "filename": "yfcc-batch5/3817.mp4",
+    "label": 47.11428571428571
+  },
+  {
+    "filename": "yfcc-batch5/3843.mp4",
+    "label": 55.0
+  },
+  {
+    "filename": "yfcc-batch5/3861.mp4",
+    "label": 64.9722222222222
+  },
+  {
+    "filename": "yfcc-batch5/3879.mp4",
+    "label": 54.1176470588235
+  },
+  {
+    "filename": "yfcc-batch5/3899.mp4",
+    "label": 60.17142857142861
+  },
+  {
+    "filename": "yfcc-batch5/3916.mp4",
+    "label": 68.14705882352939
+  },
+  {
+    "filename": "yfcc-batch5/3936.mp4",
+    "label": 59.0833333333333
+  },
+  {
+    "filename": "yfcc-batch5/3954.mp4",
+    "label": 46.82857142857139
+  },
+  {
+    "filename": "yfcc-batch5/3976.mp4",
+    "label": 57.0833333333333
+  },
+  {
+    "filename": "yfcc-batch5/3994.mp4",
+    "label": 66.4210526315789
+  },
+  {
+    "filename": "yfcc-batch5/4015.mp4",
+    "label": 45.485714285714295
+  },
+  {
+    "filename": "yfcc-batch5/4035.mp4",
+    "label": 58.2
+  },
+  {
+    "filename": "yfcc-batch5/4055.mp4",
+    "label": 68.85714285714289
+  },
+  {
+    "filename": "yfcc-batch5/4080.mp4",
+    "label": 61.3529411764706
+  },
+  {
+    "filename": "yfcc-batch5/3337.mp4",
+    "label": 78.69444444444441
+  },
+  {
+    "filename": "yfcc-batch5/3291.mp4",
+    "label": 53.485714285714295
+  },
+  {
+    "filename": "yfcc-batch5/3311.mp4",
+    "label": 77.3333333333333
+  },
+  {
+    "filename": "yfcc-batch5/3333.mp4",
+    "label": 56.0285714285714
+  },
+  {
+    "filename": "yfcc-batch5/3352.mp4",
+    "label": 71.4411764705882
+  },
+  {
+    "filename": "yfcc-batch5/3370.mp4",
+    "label": 70.945945945946
+  },
+  {
+    "filename": "yfcc-batch5/3388.mp4",
+    "label": 60.9428571428571
+  },
+  {
+    "filename": "yfcc-batch5/3410.mp4",
+    "label": 58.5
+  },
+  {
+    "filename": "yfcc-batch5/3436.mp4",
+    "label": 65.8333333333333
+  },
+  {
+    "filename": "yfcc-batch5/3458.mp4",
+    "label": 74.5625
+  },
+  {
+    "filename": "yfcc-batch5/3482.mp4",
+    "label": 43.7575757575758
+  },
+  {
+    "filename": "yfcc-batch5/3503.mp4",
+    "label": 71.6
+  },
+  {
+    "filename": "yfcc-batch5/3518.mp4",
+    "label": 47.2162162162162
+  },
+  {
+    "filename": "yfcc-batch5/3537.mp4",
+    "label": 68.6363636363636
+  },
+  {
+    "filename": "yfcc-batch5/3561.mp4",
+    "label": 58.34285714285711
+  },
+  {
+    "filename": "yfcc-batch5/3583.mp4",
+    "label": 57.9166666666667
+  },
+  {
+    "filename": "yfcc-batch5/3602.mp4",
+    "label": 52.4117647058824
+  },
+  {
+    "filename": "yfcc-batch5/3623.mp4",
+    "label": 75.9166666666667
+  },
+  {
+    "filename": "yfcc-batch5/3642.mp4",
+    "label": 64.4444444444444
+  },
+  {
+    "filename": "yfcc-batch6/4477.mp4",
+    "label": 45.527777777777786
+  },
+  {
+    "filename": "yfcc-batch6/4495.mp4",
+    "label": 73.0
+  },
+  {
+    "filename": "yfcc-batch6/4516.mp4",
+    "label": 78.3142857142857
+  },
+  {
+    "filename": "yfcc-batch6/4536.mp4",
+    "label": 67.10526315789471
+  },
+  {
+    "filename": "yfcc-batch6/4559.mp4",
+    "label": 68.3333333333333
+  },
+  {
+    "filename": "yfcc-batch6/4580.mp4",
+    "label": 73.9411764705882
+  },
+  {
+    "filename": "yfcc-batch6/4601.mp4",
+    "label": 76.7222222222222
+  },
+  {
+    "filename": "yfcc-batch6/4619.mp4",
+    "label": 74.1842105263158
+  },
+  {
+    "filename": "yfcc-batch6/4639.mp4",
+    "label": 81.7941176470588
+  },
+  {
+    "filename": "yfcc-batch6/4658.mp4",
+    "label": 64.2702702702703
+  },
+  {
+    "filename": "yfcc-batch6/4680.mp4",
+    "label": 54.8888888888889
+  },
+  {
+    "filename": "yfcc-batch6/4700.mp4",
+    "label": 73.17142857142859
+  },
+  {
+    "filename": "yfcc-batch6/4723.mp4",
+    "label": 78.6571428571429
+  },
+  {
+    "filename": "yfcc-batch6/4744.mp4",
+    "label": 68.5277777777778
+  },
+  {
+    "filename": "yfcc-batch6/4772.mp4",
+    "label": 64.6857142857143
+  },
+  {
+    "filename": "yfcc-batch6/4799.mp4",
+    "label": 56.1470588235294
+  },
+  {
+    "filename": "yfcc-batch6/4822.mp4",
+    "label": 67.2894736842105
+  },
+  {
+    "filename": "yfcc-batch6/4850.mp4",
+    "label": 62.4117647058824
+  },
+  {
+    "filename": "yfcc-batch6/4872.mp4",
+    "label": 59.189189189189214
+  },
+  {
+    "filename": "yfcc-batch6/4896.mp4",
+    "label": 64.70270270270271
+  },
+  {
+    "filename": "yfcc-batch6/4290.mp4",
+    "label": 69.2
+  },
+  {
+    "filename": "yfcc-batch6/4109.mp4",
+    "label": 64.9722222222222
+  },
+  {
+    "filename": "yfcc-batch6/4127.mp4",
+    "label": 58.0810810810811
+  },
+  {
+    "filename": "yfcc-batch6/4152.mp4",
+    "label": 73.2432432432432
+  },
+  {
+    "filename": "yfcc-batch6/4170.mp4",
+    "label": 68.5
+  },
+  {
+    "filename": "yfcc-batch6/4185.mp4",
+    "label": 39.3421052631579
+  },
+  {
+    "filename": "yfcc-batch6/4207.mp4",
+    "label": 47.027027027026996
+  },
+  {
+    "filename": "yfcc-batch6/4223.mp4",
+    "label": 67.6388888888889
+  },
+  {
+    "filename": "yfcc-batch6/4246.mp4",
+    "label": 64.0
+  },
+  {
+    "filename": "yfcc-batch6/4264.mp4",
+    "label": 53.8333333333333
+  },
+  {
+    "filename": "yfcc-batch6/4287.mp4",
+    "label": 61.32352941176471
+  },
+  {
+    "filename": "yfcc-batch6/4306.mp4",
+    "label": 67.4166666666667
+  },
+  {
+    "filename": "yfcc-batch6/4323.mp4",
+    "label": 61.5555555555556
+  },
+  {
+    "filename": "yfcc-batch6/4344.mp4",
+    "label": 56.74285714285711
+  },
+  {
+    "filename": "yfcc-batch6/4370.mp4",
+    "label": 52.74285714285711
+  },
+  {
+    "filename": "yfcc-batch6/4389.mp4",
+    "label": 72.6176470588236
+  },
+  {
+    "filename": "yfcc-batch6/4410.mp4",
+    "label": 66.8684210526316
+  },
+  {
+    "filename": "yfcc-batch6/4435.mp4",
+    "label": 58.5
+  },
+  {
+    "filename": "yfcc-batch6/4462.mp4",
+    "label": 75.972972972973
+  },
+  {
+    "filename": "yfcc-batch7/5302.mp4",
+    "label": 63.189189189189214
+  },
+  {
+    "filename": "yfcc-batch7/5323.mp4",
+    "label": 61.9473684210526
+  },
+  {
+    "filename": "yfcc-batch7/5343.mp4",
+    "label": 66.70270270270271
+  },
+  {
+    "filename": "yfcc-batch7/5362.mp4",
+    "label": 68.3611111111111
+  },
+  {
+    "filename": "yfcc-batch7/5381.mp4",
+    "label": 67.71428571428571
+  },
+  {
+    "filename": "yfcc-batch7/5402.mp4",
+    "label": 61.4117647058824
+  },
+  {
+    "filename": "yfcc-batch7/5423.mp4",
+    "label": 66.5135135135135
+  },
+  {
+    "filename": "yfcc-batch7/5441.mp4",
+    "label": 69.73684210526321
+  },
+  {
+    "filename": "yfcc-batch7/5459.mp4",
+    "label": 60.17142857142861
+  },
+  {
+    "filename": "yfcc-batch7/5476.mp4",
+    "label": 60.31578947368421
+  },
+  {
+    "filename": "yfcc-batch7/5493.mp4",
+    "label": 79.0
+  },
+  {
+    "filename": "yfcc-batch7/5513.mp4",
+    "label": 70.7058823529412
+  },
+  {
+    "filename": "yfcc-batch7/5530.mp4",
+    "label": 42.547619047619
+  },
+  {
+    "filename": "yfcc-batch7/5552.mp4",
+    "label": 65.6666666666667
+  },
+  {
+    "filename": "yfcc-batch7/5568.mp4",
+    "label": 49.9444444444444
+  },
+  {
+    "filename": "yfcc-batch7/5587.mp4",
+    "label": 68.1282051282051
+  },
+  {
+    "filename": "yfcc-batch7/5610.mp4",
+    "label": 53.743589743589794
+  },
+  {
+    "filename": "yfcc-batch7/5632.mp4",
+    "label": 49.0571428571429
+  },
+  {
+    "filename": "yfcc-batch7/5650.mp4",
+    "label": 75.7297297297297
+  },
+  {
+    "filename": "yfcc-batch7/5670.mp4",
+    "label": 60.7105263157895
+  },
+  {
+    "filename": "yfcc-batch7/5691.mp4",
+    "label": 57.514285714285705
+  },
+  {
+    "filename": "yfcc-batch7/5709.mp4",
+    "label": 51.428571428571395
+  },
+  {
+    "filename": "yfcc-batch7/5737.mp4",
+    "label": 64.25
+  },
+  {
+    "filename": "yfcc-batch7/4937.mp4",
+    "label": 64.35
+  },
+  {
+    "filename": "yfcc-batch7/4956.mp4",
+    "label": 55.184210526315795
+  },
+  {
+    "filename": "yfcc-batch7/4975.mp4",
+    "label": 40.6486486486486
+  },
+  {
+    "filename": "yfcc-batch7/4991.mp4",
+    "label": 55.57142857142861
+  },
+  {
+    "filename": "yfcc-batch7/5011.mp4",
+    "label": 78.30769230769229
+  },
+  {
+    "filename": "yfcc-batch7/5031.mp4",
+    "label": 51.0555555555556
+  },
+  {
+    "filename": "yfcc-batch7/5053.mp4",
+    "label": 59.17142857142861
+  },
+  {
+    "filename": "yfcc-batch7/5069.mp4",
+    "label": 66.375
+  },
+  {
+    "filename": "yfcc-batch7/5088.mp4",
+    "label": 65.94285714285711
+  },
+  {
+    "filename": "yfcc-batch7/5105.mp4",
+    "label": 78.0
+  },
+  {
+    "filename": "yfcc-batch7/5122.mp4",
+    "label": 61.914285714285704
+  },
+  {
+    "filename": "yfcc-batch7/5142.mp4",
+    "label": 61.257142857142895
+  },
+  {
+    "filename": "yfcc-batch7/5161.mp4",
+    "label": 71.26315789473679
+  },
+  {
+    "filename": "yfcc-batch7/5187.mp4",
+    "label": 62.7105263157895
+  },
+  {
+    "filename": "yfcc-batch7/5214.mp4",
+    "label": 41.0810810810811
+  },
+  {
+    "filename": "yfcc-batch7/5239.mp4",
+    "label": 55.68571428571429
+  },
+  {
+    "filename": "yfcc-batch7/5259.mp4",
+    "label": 67.8648648648649
+  },
+  {
+    "filename": "yfcc-batch7/5281.mp4",
+    "label": 69.8333333333333
+  },
+  {
+    "filename": "yfcc-batch8/6115.mp4",
+    "label": 65.5384615384615
+  },
+  {
+    "filename": "yfcc-batch8/6134.mp4",
+    "label": 56.28125
+  },
+  {
+    "filename": "yfcc-batch8/6163.mp4",
+    "label": 79.64102564102559
+  },
+  {
+    "filename": "yfcc-batch8/6182.mp4",
+    "label": 56.9117647058824
+  },
+  {
+    "filename": "yfcc-batch8/6206.mp4",
+    "label": 68.9032258064516
+  },
+  {
+    "filename": "yfcc-batch8/6222.mp4",
+    "label": 63.8611111111111
+  },
+  {
+    "filename": "yfcc-batch8/6239.mp4",
+    "label": 50.675675675675706
+  },
+  {
+    "filename": "yfcc-batch8/6257.mp4",
+    "label": 62.625
+  },
+  {
+    "filename": "yfcc-batch8/6279.mp4",
+    "label": 64.3513513513513
+  },
+  {
+    "filename": "yfcc-batch8/6297.mp4",
+    "label": 66.6578947368421
+  },
+  {
+    "filename": "yfcc-batch8/6318.mp4",
+    "label": 72.05405405405409
+  },
+  {
+    "filename": "yfcc-batch8/6338.mp4",
+    "label": 55.28571428571429
+  },
+  {
+    "filename": "yfcc-batch8/6359.mp4",
+    "label": 67.025
+  },
+  {
+    "filename": "yfcc-batch8/6378.mp4",
+    "label": 50.9230769230769
+  },
+  {
+    "filename": "yfcc-batch8/6398.mp4",
+    "label": 59.2
+  },
+  {
+    "filename": "yfcc-batch8/6417.mp4",
+    "label": 64.3157894736842
+  },
+  {
+    "filename": "yfcc-batch8/6443.mp4",
+    "label": 54.735294117647115
+  },
+  {
+    "filename": "yfcc-batch8/6468.mp4",
+    "label": 69.8648648648649
+  },
+  {
+    "filename": "yfcc-batch8/6483.mp4",
+    "label": 64.2285714285714
+  },
+  {
+    "filename": "yfcc-batch8/6502.mp4",
+    "label": 63.9189189189189
+  },
+  {
+    "filename": "yfcc-batch8/6522.mp4",
+    "label": 70.2222222222222
+  },
+  {
+    "filename": "yfcc-batch8/6541.mp4",
+    "label": 71.52941176470591
+  },
+  {
+    "filename": "yfcc-batch8/5853.mp4",
+    "label": 46.0285714285714
+  },
+  {
+    "filename": "yfcc-batch8/5759.mp4",
+    "label": 70.2105263157895
+  },
+  {
+    "filename": "yfcc-batch8/5785.mp4",
+    "label": 69.2162162162162
+  },
+  {
+    "filename": "yfcc-batch8/5802.mp4",
+    "label": 55.8918918918919
+  },
+  {
+    "filename": "yfcc-batch8/5826.mp4",
+    "label": 42.6666666666667
+  },
+  {
+    "filename": "yfcc-batch8/5844.mp4",
+    "label": 60.6285714285714
+  },
+  {
+    "filename": "yfcc-batch8/5864.mp4",
+    "label": 41.1842105263158
+  },
+  {
+    "filename": "yfcc-batch8/5883.mp4",
+    "label": 66.6666666666667
+  },
+  {
+    "filename": "yfcc-batch8/5899.mp4",
+    "label": 62.8055555555556
+  },
+  {
+    "filename": "yfcc-batch8/5915.mp4",
+    "label": 63.5625
+  },
+  {
+    "filename": "yfcc-batch8/5934.mp4",
+    "label": 63.05
+  },
+  {
+    "filename": "yfcc-batch8/5953.mp4",
+    "label": 73.2777777777778
+  },
+  {
+    "filename": "yfcc-batch8/5974.mp4",
+    "label": 56.9705882352941
+  },
+  {
+    "filename": "yfcc-batch8/5995.mp4",
+    "label": 64.92307692307689
+  },
+  {
+    "filename": "yfcc-batch8/6018.mp4",
+    "label": 70.23076923076921
+  },
+  {
+    "filename": "yfcc-batch8/6038.mp4",
+    "label": 64.0
+  },
+  {
+    "filename": "yfcc-batch8/6057.mp4",
+    "label": 66.027027027027
+  },
+  {
+    "filename": "yfcc-batch8/6073.mp4",
+    "label": 66.0833333333333
+  },
+  {
+    "filename": "yfcc-batch8/6090.mp4",
+    "label": 44.1666666666667
+  },
+  {
+    "filename": "yfcc-batch9/6933.mp4",
+    "label": 52.1666666666667
+  },
+  {
+    "filename": "yfcc-batch9/6953.mp4",
+    "label": 66.2051282051282
+  },
+  {
+    "filename": "yfcc-batch9/6972.mp4",
+    "label": 58.027777777777786
+  },
+  {
+    "filename": "yfcc-batch9/6995.mp4",
+    "label": 48.0789473684211
+  },
+  {
+    "filename": "yfcc-batch9/7016.mp4",
+    "label": 55.82857142857139
+  },
+  {
+    "filename": "yfcc-batch9/7031.mp4",
+    "label": 70.5714285714286
+  },
+  {
+    "filename": "yfcc-batch9/7051.mp4",
+    "label": 56.39473684210521
+  },
+  {
+    "filename": "yfcc-batch9/7075.mp4",
+    "label": 66.1944444444444
+  },
+  {
+    "filename": "yfcc-batch9/7093.mp4",
+    "label": 62.9428571428571
+  },
+  {
+    "filename": "yfcc-batch9/7113.mp4",
+    "label": 61.44117647058821
+  },
+  {
+    "filename": "yfcc-batch9/7133.mp4",
+    "label": 54.6470588235294
+  },
+  {
+    "filename": "yfcc-batch9/7153.mp4",
+    "label": 71.4358974358974
+  },
+  {
+    "filename": "yfcc-batch9/7171.mp4",
+    "label": 66.25
+  },
+  {
+    "filename": "yfcc-batch9/7189.mp4",
+    "label": 72.91428571428571
+  },
+  {
+    "filename": "yfcc-batch9/7210.mp4",
+    "label": 65.09375
+  },
+  {
+    "filename": "yfcc-batch9/7234.mp4",
+    "label": 59.684210526315795
+  },
+  {
+    "filename": "yfcc-batch9/7253.mp4",
+    "label": 74.6
+  },
+  {
+    "filename": "yfcc-batch9/7275.mp4",
+    "label": 71.1818181818182
+  },
+  {
+    "filename": "yfcc-batch9/7298.mp4",
+    "label": 69.4722222222222
+  },
+  {
+    "filename": "yfcc-batch9/7318.mp4",
+    "label": 66.8055555555556
+  },
+  {
+    "filename": "yfcc-batch9/7337.mp4",
+    "label": 67.4411764705882
+  },
+  {
+    "filename": "yfcc-batch9/7353.mp4",
+    "label": 57.810810810810786
+  },
+  {
+    "filename": "yfcc-batch9/7375.mp4",
+    "label": 60.277777777777786
+  },
+  {
+    "filename": "yfcc-batch9/6570.mp4",
+    "label": 68.8205128205128
+  },
+  {
+    "filename": "yfcc-batch9/6597.mp4",
+    "label": 68.3783783783784
+  },
+  {
+    "filename": "yfcc-batch9/6614.mp4",
+    "label": 55.8378378378378
+  },
+  {
+    "filename": "yfcc-batch9/6628.mp4",
+    "label": 77.7222222222222
+  },
+  {
+    "filename": "yfcc-batch9/6651.mp4",
+    "label": 41.3055555555556
+  },
+  {
+    "filename": "yfcc-batch9/6672.mp4",
+    "label": 61.5
+  },
+  {
+    "filename": "yfcc-batch9/6693.mp4",
+    "label": 56.7567567567568
+  },
+  {
+    "filename": "yfcc-batch9/6715.mp4",
+    "label": 66.76923076923079
+  },
+  {
+    "filename": "yfcc-batch9/6736.mp4",
+    "label": 69.4210526315789
+  },
+  {
+    "filename": "yfcc-batch9/6755.mp4",
+    "label": 68.945945945946
+  },
+  {
+    "filename": "yfcc-batch9/6772.mp4",
+    "label": 70.3846153846154
+  },
+  {
+    "filename": "yfcc-batch9/6795.mp4",
+    "label": 68.89473684210529
+  },
+  {
+    "filename": "yfcc-batch9/6817.mp4",
+    "label": 62.45
+  },
+  {
+    "filename": "yfcc-batch9/6835.mp4",
+    "label": 68.5
+  },
+  {
+    "filename": "yfcc-batch9/6856.mp4",
+    "label": 63.472222222222214
+  },
+  {
+    "filename": "yfcc-batch9/6875.mp4",
+    "label": 64.945945945946
+  },
+  {
+    "filename": "yfcc-batch9/6895.mp4",
+    "label": 65.7297297297297
+  },
+  {
+    "filename": "yfcc-batch9/6915.mp4",
+    "label": 68.4615384615385
+  },
+  {
+    "filename": "yfcc-batch10/7765.mp4",
+    "label": 78.75
+  },
+  {
+    "filename": "yfcc-batch10/7784.mp4",
+    "label": 70.6666666666667
+  },
+  {
+    "filename": "yfcc-batch10/7807.mp4",
+    "label": 63.405405405405396
+  },
+  {
+    "filename": "yfcc-batch10/7828.mp4",
+    "label": 57.1111111111111
+  },
+  {
+    "filename": "yfcc-batch10/7848.mp4",
+    "label": 43.51282051282049
+  },
+  {
+    "filename": "yfcc-batch10/7869.mp4",
+    "label": 71.3333333333333
+  },
+  {
+    "filename": "yfcc-batch10/7890.mp4",
+    "label": 69.4864864864865
+  },
+  {
+    "filename": "yfcc-batch10/7913.mp4",
+    "label": 54.222222222222214
+  },
+  {
+    "filename": "yfcc-batch10/7931.mp4",
+    "label": 68.0
+  },
+  {
+    "filename": "yfcc-batch10/7949.mp4",
+    "label": 73.29729729729729
+  },
+  {
+    "filename": "yfcc-batch10/7968.mp4",
+    "label": 67.6578947368421
+  },
+  {
+    "filename": "yfcc-batch10/7989.mp4",
+    "label": 63.1388888888889
+  },
+  {
+    "filename": "yfcc-batch10/8015.mp4",
+    "label": 79.1388888888889
+  },
+  {
+    "filename": "yfcc-batch10/8036.mp4",
+    "label": 71.26315789473679
+  },
+  {
+    "filename": "yfcc-batch10/8050.mp4",
+    "label": 46.29411764705879
+  },
+  {
+    "filename": "yfcc-batch10/8068.mp4",
+    "label": 65.5277777777778
+  },
+  {
+    "filename": "yfcc-batch10/8085.mp4",
+    "label": 63.0625
+  },
+  {
+    "filename": "yfcc-batch10/8106.mp4",
+    "label": 75.1428571428571
+  },
+  {
+    "filename": "yfcc-batch10/8128.mp4",
+    "label": 77.2820512820513
+  },
+  {
+    "filename": "yfcc-batch10/8148.mp4",
+    "label": 59.31578947368421
+  },
+  {
+    "filename": "yfcc-batch10/8170.mp4",
+    "label": 78.10344827586209
+  },
+  {
+    "filename": "yfcc-batch10/8192.mp4",
+    "label": 63.3888888888889
+  },
+  {
+    "filename": "yfcc-batch10/7382.mp4",
+    "label": 71.3529411764706
+  },
+  {
+    "filename": "yfcc-batch10/7401.mp4",
+    "label": 72.425
+  },
+  {
+    "filename": "yfcc-batch10/7425.mp4",
+    "label": 62.7894736842105
+  },
+  {
+    "filename": "yfcc-batch10/7444.mp4",
+    "label": 73.3888888888889
+  },
+  {
+    "filename": "yfcc-batch10/7474.mp4",
+    "label": 69.0555555555556
+  },
+  {
+    "filename": "yfcc-batch10/7499.mp4",
+    "label": 57.1621621621622
+  },
+  {
+    "filename": "yfcc-batch10/7515.mp4",
+    "label": 58.3333333333333
+  },
+  {
+    "filename": "yfcc-batch10/7536.mp4",
+    "label": 64.97435897435899
+  },
+  {
+    "filename": "yfcc-batch10/7562.mp4",
+    "label": 59.0810810810811
+  },
+  {
+    "filename": "yfcc-batch10/7589.mp4",
+    "label": 65.8
+  },
+  {
+    "filename": "yfcc-batch10/7604.mp4",
+    "label": 75.2571428571428
+  },
+  {
+    "filename": "yfcc-batch10/7624.mp4",
+    "label": 59.925
+  },
+  {
+    "filename": "yfcc-batch10/7643.mp4",
+    "label": 74.0277777777778
+  },
+  {
+    "filename": "yfcc-batch10/7663.mp4",
+    "label": 48.7837837837838
+  },
+  {
+    "filename": "yfcc-batch10/7687.mp4",
+    "label": 63.6923076923077
+  },
+  {
+    "filename": "yfcc-batch10/7707.mp4",
+    "label": 58.825
+  },
+  {
+    "filename": "yfcc-batch10/7730.mp4",
+    "label": 70.5714285714286
+  },
+  {
+    "filename": "yfcc-batch11/8555.mp4",
+    "label": 70.18918918918922
+  },
+  {
+    "filename": "yfcc-batch11/8574.mp4",
+    "label": 40.4166666666667
+  },
+  {
+    "filename": "yfcc-batch11/8593.mp4",
+    "label": 65.9166666666667
+  },
+  {
+    "filename": "yfcc-batch11/8619.mp4",
+    "label": 61.9428571428571
+  },
+  {
+    "filename": "yfcc-batch11/8638.mp4",
+    "label": 60.89473684210521
+  },
+  {
+    "filename": "yfcc-batch11/8657.mp4",
+    "label": 62.7105263157895
+  },
+  {
+    "filename": "yfcc-batch11/8675.mp4",
+    "label": 50.189189189189214
+  },
+  {
+    "filename": "yfcc-batch11/8693.mp4",
+    "label": 67.3783783783784
+  },
+  {
+    "filename": "yfcc-batch11/8717.mp4",
+    "label": 54.1666666666667
+  },
+  {
+    "filename": "yfcc-batch11/8745.mp4",
+    "label": 45.512820512820504
+  },
+  {
+    "filename": "yfcc-batch11/8765.mp4",
+    "label": 55.17142857142861
+  },
+  {
+    "filename": "yfcc-batch11/8782.mp4",
+    "label": 43.3783783783784
+  },
+  {
+    "filename": "yfcc-batch11/8806.mp4",
+    "label": 51.2894736842105
+  },
+  {
+    "filename": "yfcc-batch11/8827.mp4",
+    "label": 55.5833333333333
+  },
+  {
+    "filename": "yfcc-batch11/8847.mp4",
+    "label": 64.4
+  },
+  {
+    "filename": "yfcc-batch11/8869.mp4",
+    "label": 65.0555555555556
+  },
+  {
+    "filename": "yfcc-batch11/8886.mp4",
+    "label": 61.67647058823529
+  },
+  {
+    "filename": "yfcc-batch11/8914.mp4",
+    "label": 65.3142857142857
+  },
+  {
+    "filename": "yfcc-batch11/8933.mp4",
+    "label": 40.0
+  },
+  {
+    "filename": "yfcc-batch11/8954.mp4",
+    "label": 79.17142857142859
+  },
+  {
+    "filename": "yfcc-batch11/8973.mp4",
+    "label": 65.71428571428571
+  },
+  {
+    "filename": "yfcc-batch11/8993.mp4",
+    "label": 67.2105263157895
+  },
+  {
+    "filename": "yfcc-batch11/9011.mp4",
+    "label": 68.21428571428571
+  },
+  {
+    "filename": "yfcc-batch11/8206.mp4",
+    "label": 67.62857142857139
+  },
+  {
+    "filename": "yfcc-batch11/8223.mp4",
+    "label": 52.1666666666667
+  },
+  {
+    "filename": "yfcc-batch11/8239.mp4",
+    "label": 80.0909090909091
+  },
+  {
+    "filename": "yfcc-batch11/8256.mp4",
+    "label": 54.3055555555556
+  },
+  {
+    "filename": "yfcc-batch11/8280.mp4",
+    "label": 75.1428571428571
+  },
+  {
+    "filename": "yfcc-batch11/8300.mp4",
+    "label": 56.8484848484849
+  },
+  {
+    "filename": "yfcc-batch11/8318.mp4",
+    "label": 61.3333333333333
+  },
+  {
+    "filename": "yfcc-batch11/8338.mp4",
+    "label": 76.45714285714291
+  },
+  {
+    "filename": "yfcc-batch11/8359.mp4",
+    "label": 57.8611111111111
+  },
+  {
+    "filename": "yfcc-batch11/8374.mp4",
+    "label": 72.08571428571429
+  },
+  {
+    "filename": "yfcc-batch11/8396.mp4",
+    "label": 60.25
+  },
+  {
+    "filename": "yfcc-batch11/8414.mp4",
+    "label": 49.59459459459461
+  },
+  {
+    "filename": "yfcc-batch11/8444.mp4",
+    "label": 49.8529411764706
+  },
+  {
+    "filename": "yfcc-batch11/8463.mp4",
+    "label": 46.657142857142894
+  },
+  {
+    "filename": "yfcc-batch11/8485.mp4",
+    "label": 51.421052631579
+  },
+  {
+    "filename": "yfcc-batch11/8505.mp4",
+    "label": 54.6388888888889
+  },
+  {
+    "filename": "yfcc-batch11/8526.mp4",
+    "label": 58.8684210526316
+  },
+  {
+    "filename": "yfcc-batch11/8549.mp4",
+    "label": 82.5142857142857
+  },
+  {
+    "filename": "yfcc-batch12/9397.mp4",
+    "label": 68.7714285714286
+  },
+  {
+    "filename": "yfcc-batch12/9413.mp4",
+    "label": 65.75
+  },
+  {
+    "filename": "yfcc-batch12/9433.mp4",
+    "label": 72.027027027027
+  },
+  {
+    "filename": "yfcc-batch12/9457.mp4",
+    "label": 62.4166666666667
+  },
+  {
+    "filename": "yfcc-batch12/9477.mp4",
+    "label": 66.4054054054054
+  },
+  {
+    "filename": "yfcc-batch12/9505.mp4",
+    "label": 77.7714285714286
+  },
+  {
+    "filename": "yfcc-batch12/9531.mp4",
+    "label": 59.948717948718006
+  },
+  {
+    "filename": "yfcc-batch12/9551.mp4",
+    "label": 64.2222222222222
+  },
+  {
+    "filename": "yfcc-batch12/9576.mp4",
+    "label": 63.212121212121204
+  },
+  {
+    "filename": "yfcc-batch12/9598.mp4",
+    "label": 67.6486486486487
+  },
+  {
+    "filename": "yfcc-batch12/9616.mp4",
+    "label": 73.9117647058823
+  },
+  {
+    "filename": "yfcc-batch12/9638.mp4",
+    "label": 75.05555555555559
+  },
+  {
+    "filename": "yfcc-batch12/9655.mp4",
+    "label": 55.74285714285711
+  },
+  {
+    "filename": "yfcc-batch12/9675.mp4",
+    "label": 65.15151515151521
+  },
+  {
+    "filename": "yfcc-batch12/9693.mp4",
+    "label": 64.91428571428571
+  },
+  {
+    "filename": "yfcc-batch12/9722.mp4",
+    "label": 43.027777777777786
+  },
+  {
+    "filename": "yfcc-batch12/9743.mp4",
+    "label": 44.7714285714286
+  },
+  {
+    "filename": "yfcc-batch12/9769.mp4",
+    "label": 71.3513513513513
+  },
+  {
+    "filename": "yfcc-batch12/9788.mp4",
+    "label": 63.8888888888889
+  },
+  {
+    "filename": "yfcc-batch12/9805.mp4",
+    "label": 64.60526315789471
+  },
+  {
+    "filename": "yfcc-batch12/9825.mp4",
+    "label": 67.8181818181818
+  },
+  {
+    "filename": "yfcc-batch12/9123.mp4",
+    "label": 68.3125
+  },
+  {
+    "filename": "yfcc-batch12/9037.mp4",
+    "label": 54.212121212121204
+  },
+  {
+    "filename": "yfcc-batch12/9062.mp4",
+    "label": 63.2
+  },
+  {
+    "filename": "yfcc-batch12/9081.mp4",
+    "label": 57.09375
+  },
+  {
+    "filename": "yfcc-batch12/9104.mp4",
+    "label": 49.6470588235294
+  },
+  {
+    "filename": "yfcc-batch12/9124.mp4",
+    "label": 59.3714285714286
+  },
+  {
+    "filename": "yfcc-batch12/9145.mp4",
+    "label": 63.485714285714295
+  },
+  {
+    "filename": "yfcc-batch12/9164.mp4",
+    "label": 46.55882352941179
+  },
+  {
+    "filename": "yfcc-batch12/9181.mp4",
+    "label": 67.1714285714286
+  },
+  {
+    "filename": "yfcc-batch12/9206.mp4",
+    "label": 60.5
+  },
+  {
+    "filename": "yfcc-batch12/9222.mp4",
+    "label": 55.9166666666667
+  },
+  {
+    "filename": "yfcc-batch12/9242.mp4",
+    "label": 70.0
+  },
+  {
+    "filename": "yfcc-batch12/9265.mp4",
+    "label": 66.5294117647059
+  },
+  {
+    "filename": "yfcc-batch12/9282.mp4",
+    "label": 69.7297297297297
+  },
+  {
+    "filename": "yfcc-batch12/9301.mp4",
+    "label": 73.29729729729729
+  },
+  {
+    "filename": "yfcc-batch12/9319.mp4",
+    "label": 70.2702702702703
+  },
+  {
+    "filename": "yfcc-batch12/9342.mp4",
+    "label": 67.1818181818182
+  },
+  {
+    "filename": "yfcc-batch12/9361.mp4",
+    "label": 64.7714285714286
+  },
+  {
+    "filename": "yfcc-batch13/10359.mp4",
+    "label": 65.6842105263158
+  },
+  {
+    "filename": "yfcc-batch13/10376.mp4",
+    "label": 54.6486486486487
+  },
+  {
+    "filename": "yfcc-batch13/10399.mp4",
+    "label": 68.6944444444444
+  },
+  {
+    "filename": "yfcc-batch13/10431.mp4",
+    "label": 67.4166666666667
+  },
+  {
+    "filename": "yfcc-batch13/10453.mp4",
+    "label": 69.91891891891889
+  },
+  {
+    "filename": "yfcc-batch13/10470.mp4",
+    "label": 61.28571428571429
+  },
+  {
+    "filename": "yfcc-batch13/10492.mp4",
+    "label": 66.945945945946
+  },
+  {
+    "filename": "yfcc-batch13/10508.mp4",
+    "label": 60.277777777777786
+  },
+  {
+    "filename": "yfcc-batch13/10529.mp4",
+    "label": 57.5757575757576
+  },
+  {
+    "filename": "yfcc-batch13/10547.mp4",
+    "label": 70.82352941176471
+  },
+  {
+    "filename": "yfcc-batch13/10564.mp4",
+    "label": 69.0
+  },
+  {
+    "filename": "yfcc-batch13/10586.mp4",
+    "label": 52.027777777777786
+  },
+  {
+    "filename": "yfcc-batch13/10605.mp4",
+    "label": 58.4
+  },
+  {
+    "filename": "yfcc-batch13/10625.mp4",
+    "label": 63.8918918918919
+  },
+  {
+    "filename": "yfcc-batch13/10640.mp4",
+    "label": 44.1081081081081
+  },
+  {
+    "filename": "yfcc-batch13/10660.mp4",
+    "label": 73.3636363636364
+  },
+  {
+    "filename": "yfcc-batch13/9861.mp4",
+    "label": 59.743589743589794
+  },
+  {
+    "filename": "yfcc-batch13/9878.mp4",
+    "label": 56.60526315789479
+  },
+  {
+    "filename": "yfcc-batch13/9900.mp4",
+    "label": 64.9487179487179
+  },
+  {
+    "filename": "yfcc-batch13/9921.mp4",
+    "label": 72.30555555555559
+  },
+  {
+    "filename": "yfcc-batch13/9940.mp4",
+    "label": 78.11428571428571
+  },
+  {
+    "filename": "yfcc-batch13/9958.mp4",
+    "label": 57.027777777777786
+  },
+  {
+    "filename": "yfcc-batch13/9982.mp4",
+    "label": 61.1428571428571
+  },
+  {
+    "filename": "yfcc-batch13/10001.mp4",
+    "label": 74.6388888888889
+  },
+  {
+    "filename": "yfcc-batch13/10014.mp4",
+    "label": 59.6451612903226
+  },
+  {
+    "filename": "yfcc-batch13/10033.mp4",
+    "label": 30.7941176470588
+  },
+  {
+    "filename": "yfcc-batch13/10054.mp4",
+    "label": 62.3783783783784
+  },
+  {
+    "filename": "yfcc-batch13/10079.mp4",
+    "label": 67.8888888888889
+  },
+  {
+    "filename": "yfcc-batch13/10098.mp4",
+    "label": 70.027027027027
+  },
+  {
+    "filename": "yfcc-batch13/10116.mp4",
+    "label": 68.225
+  },
+  {
+    "filename": "yfcc-batch13/10142.mp4",
+    "label": 59.9166666666667
+  },
+  {
+    "filename": "yfcc-batch13/10163.mp4",
+    "label": 49.894736842105296
+  },
+  {
+    "filename": "yfcc-batch13/10184.mp4",
+    "label": 48.8333333333333
+  },
+  {
+    "filename": "yfcc-batch13/10206.mp4",
+    "label": 68.6216216216216
+  },
+  {
+    "filename": "yfcc-batch13/10224.mp4",
+    "label": 74.94736842105259
+  },
+  {
+    "filename": "yfcc-batch13/10247.mp4",
+    "label": 56.3888888888889
+  },
+  {
+    "filename": "yfcc-batch13/10270.mp4",
+    "label": 63.0
+  },
+  {
+    "filename": "yfcc-batch13/10299.mp4",
+    "label": 66.9375
+  },
+  {
+    "filename": "yfcc-batch13/10321.mp4",
+    "label": 62.8611111111111
+  },
+  {
+    "filename": "yfcc-batch13/10340.mp4",
+    "label": 66.7931034482759
+  },
+  {
+    "filename": "yfcc-batch14/11020.mp4",
+    "label": 63.8611111111111
+  },
+  {
+    "filename": "yfcc-batch14/11034.mp4",
+    "label": 59.4
+  },
+  {
+    "filename": "yfcc-batch14/11053.mp4",
+    "label": 56.0
+  },
+  {
+    "filename": "yfcc-batch14/11072.mp4",
+    "label": 76.2666666666667
+  },
+  {
+    "filename": "yfcc-batch14/11104.mp4",
+    "label": 52.8055555555556
+  },
+  {
+    "filename": "yfcc-batch14/11124.mp4",
+    "label": 71.6756756756757
+  },
+  {
+    "filename": "yfcc-batch14/11147.mp4",
+    "label": 70.0
+  },
+  {
+    "filename": "yfcc-batch14/11171.mp4",
+    "label": 62.70588235294121
+  },
+  {
+    "filename": "yfcc-batch14/11187.mp4",
+    "label": 68.7647058823529
+  },
+  {
+    "filename": "yfcc-batch14/11208.mp4",
+    "label": 70.0975609756098
+  },
+  {
+    "filename": "yfcc-batch14/11226.mp4",
+    "label": 59.2972972972973
+  },
+  {
+    "filename": "yfcc-batch14/11250.mp4",
+    "label": 65.6486486486487
+  },
+  {
+    "filename": "yfcc-batch14/11273.mp4",
+    "label": 51.325
+  },
+  {
+    "filename": "yfcc-batch14/11290.mp4",
+    "label": 76.1212121212121
+  },
+  {
+    "filename": "yfcc-batch14/11310.mp4",
+    "label": 63.94117647058821
+  },
+  {
+    "filename": "yfcc-batch14/11331.mp4",
+    "label": 45.257142857142895
+  },
+  {
+    "filename": "yfcc-batch14/11350.mp4",
+    "label": 65.9166666666667
+  },
+  {
+    "filename": "yfcc-batch14/11370.mp4",
+    "label": 74.5666666666667
+  },
+  {
+    "filename": "yfcc-batch14/11393.mp4",
+    "label": 67.18918918918922
+  },
+  {
+    "filename": "yfcc-batch14/11408.mp4",
+    "label": 58.735294117647115
+  },
+  {
+    "filename": "yfcc-batch14/11433.mp4",
+    "label": 78.19444444444441
+  },
+  {
+    "filename": "yfcc-batch14/11452.mp4",
+    "label": 61.8125
+  },
+  {
+    "filename": "yfcc-batch14/11477.mp4",
+    "label": 48.2162162162162
+  },
+  {
+    "filename": "yfcc-batch14/10987.mp4",
+    "label": 60.3333333333333
+  },
+  {
+    "filename": "yfcc-batch14/10698.mp4",
+    "label": 50.7575757575758
+  },
+  {
+    "filename": "yfcc-batch14/10713.mp4",
+    "label": 73.1538461538462
+  },
+  {
+    "filename": "yfcc-batch14/10732.mp4",
+    "label": 43.189189189189214
+  },
+  {
+    "filename": "yfcc-batch14/10754.mp4",
+    "label": 77.88571428571429
+  },
+  {
+    "filename": "yfcc-batch14/10766.mp4",
+    "label": 69.3888888888889
+  },
+  {
+    "filename": "yfcc-batch14/10786.mp4",
+    "label": 73.9230769230769
+  },
+  {
+    "filename": "yfcc-batch14/10801.mp4",
+    "label": 71.47058823529409
+  },
+  {
+    "filename": "yfcc-batch14/10819.mp4",
+    "label": 62.34375
+  },
+  {
+    "filename": "yfcc-batch14/10841.mp4",
+    "label": 60.63636363636361
+  },
+  {
+    "filename": "yfcc-batch14/10864.mp4",
+    "label": 66.6206896551724
+  },
+  {
+    "filename": "yfcc-batch14/10883.mp4",
+    "label": 37.3055555555556
+  },
+  {
+    "filename": "yfcc-batch14/10905.mp4",
+    "label": 65.8888888888889
+  },
+  {
+    "filename": "yfcc-batch14/10926.mp4",
+    "label": 60.3684210526316
+  },
+  {
+    "filename": "yfcc-batch14/10946.mp4",
+    "label": 82.9166666666667
+  },
+  {
+    "filename": "yfcc-batch14/10964.mp4",
+    "label": 61.722222222222214
+  },
+  {
+    "filename": "yfcc-batch14/10988.mp4",
+    "label": 62.810810810810786
+  },
+  {
+    "filename": "yfcc-batch14/11008.mp4",
+    "label": 68.4166666666667
+  },
+  {
+    "filename": "yfcc-batch15/11850.mp4",
+    "label": 71.1666666666667
+  },
+  {
+    "filename": "yfcc-batch15/11870.mp4",
+    "label": 68.7878787878788
+  },
+  {
+    "filename": "yfcc-batch15/11885.mp4",
+    "label": 64.1944444444444
+  },
+  {
+    "filename": "yfcc-batch15/11903.mp4",
+    "label": 56.8787878787879
+  },
+  {
+    "filename": "yfcc-batch15/11919.mp4",
+    "label": 53.6969696969697
+  },
+  {
+    "filename": "yfcc-batch15/11942.mp4",
+    "label": 75.4
+  },
+  {
+    "filename": "yfcc-batch15/11963.mp4",
+    "label": 39.131578947368396
+  },
+  {
+    "filename": "yfcc-batch15/11985.mp4",
+    "label": 74.75
+  },
+  {
+    "filename": "yfcc-batch15/12000.mp4",
+    "label": 71.82857142857141
+  },
+  {
+    "filename": "yfcc-batch15/12021.mp4",
+    "label": 63.6060606060606
+  },
+  {
+    "filename": "yfcc-batch15/12036.mp4",
+    "label": 58.0
+  },
+  {
+    "filename": "yfcc-batch15/12067.mp4",
+    "label": 73.5
+  },
+  {
+    "filename": "yfcc-batch15/12091.mp4",
+    "label": 67.6571428571429
+  },
+  {
+    "filename": "yfcc-batch15/12108.mp4",
+    "label": 72.9189189189189
+  },
+  {
+    "filename": "yfcc-batch15/12134.mp4",
+    "label": 67.1351351351351
+  },
+  {
+    "filename": "yfcc-batch15/12158.mp4",
+    "label": 75.3888888888889
+  },
+  {
+    "filename": "yfcc-batch15/12180.mp4",
+    "label": 54.60526315789479
+  },
+  {
+    "filename": "yfcc-batch15/12196.mp4",
+    "label": 57.44117647058821
+  },
+  {
+    "filename": "yfcc-batch15/12218.mp4",
+    "label": 76.3428571428571
+  },
+  {
+    "filename": "yfcc-batch15/12239.mp4",
+    "label": 51.030303030303
+  },
+  {
+    "filename": "yfcc-batch15/12267.mp4",
+    "label": 62.428571428571395
+  },
+  {
+    "filename": "yfcc-batch15/12284.mp4",
+    "label": 68.70270270270271
+  },
+  {
+    "filename": "yfcc-batch15/11650.mp4",
+    "label": 63.1212121212121
+  },
+  {
+    "filename": "yfcc-batch15/11699.mp4",
+    "label": 32.6388888888889
+  },
+  {
+    "filename": "yfcc-batch15/11516.mp4",
+    "label": 66.9166666666667
+  },
+  {
+    "filename": "yfcc-batch15/12283.mp4",
+    "label": 52.972972972973004
+  },
+  {
+    "filename": "yfcc-batch15/11547.mp4",
+    "label": 64.4594594594595
+  },
+  {
+    "filename": "yfcc-batch15/11570.mp4",
+    "label": 52.94117647058821
+  },
+  {
+    "filename": "yfcc-batch15/11590.mp4",
+    "label": 55.1666666666667
+  },
+  {
+    "filename": "yfcc-batch15/11619.mp4",
+    "label": 72.2647058823529
+  },
+  {
+    "filename": "yfcc-batch15/11643.mp4",
+    "label": 76.9428571428571
+  },
+  {
+    "filename": "yfcc-batch15/11668.mp4",
+    "label": 66.6111111111111
+  },
+  {
+    "filename": "yfcc-batch15/11687.mp4",
+    "label": 65.4705882352941
+  },
+  {
+    "filename": "yfcc-batch15/11707.mp4",
+    "label": 74.5454545454546
+  },
+  {
+    "filename": "yfcc-batch15/11729.mp4",
+    "label": 70.8571428571429
+  },
+  {
+    "filename": "yfcc-batch15/11749.mp4",
+    "label": 50.030303030303
+  },
+  {
+    "filename": "yfcc-batch15/11770.mp4",
+    "label": 77.7105263157895
+  },
+  {
+    "filename": "yfcc-batch15/11794.mp4",
+    "label": 58.5428571428571
+  },
+  {
+    "filename": "yfcc-batch15/11812.mp4",
+    "label": 71.19444444444441
+  },
+  {
+    "filename": "yfcc-batch15/11829.mp4",
+    "label": 57.31578947368421
+  },
+  {
+    "filename": "yfcc-batch16/12667.mp4",
+    "label": 74.2432432432432
+  },
+  {
+    "filename": "yfcc-batch16/12691.mp4",
+    "label": 62.4117647058824
+  },
+  {
+    "filename": "yfcc-batch16/12711.mp4",
+    "label": 57.3513513513514
+  },
+  {
+    "filename": "yfcc-batch16/12733.mp4",
+    "label": 50.6666666666667
+  },
+  {
+    "filename": "yfcc-batch16/12752.mp4",
+    "label": 70.3611111111111
+  },
+  {
+    "filename": "yfcc-batch16/12775.mp4",
+    "label": 59.722222222222214
+  },
+  {
+    "filename": "yfcc-batch16/12798.mp4",
+    "label": 49.1470588235294
+  },
+  {
+    "filename": "yfcc-batch16/12817.mp4",
+    "label": 60.0
+  },
+  {
+    "filename": "yfcc-batch16/12837.mp4",
+    "label": 64.9166666666667
+  },
+  {
+    "filename": "yfcc-batch16/12854.mp4",
+    "label": 54.972972972973004
+  },
+  {
+    "filename": "yfcc-batch16/12873.mp4",
+    "label": 53.9393939393939
+  },
+  {
+    "filename": "yfcc-batch16/12895.mp4",
+    "label": 52.3783783783784
+  },
+  {
+    "filename": "yfcc-batch16/12920.mp4",
+    "label": 57.405405405405396
+  },
+  {
+    "filename": "yfcc-batch16/12944.mp4",
+    "label": 58.59459459459461
+  },
+  {
+    "filename": "yfcc-batch16/12965.mp4",
+    "label": 58.4117647058824
+  },
+  {
+    "filename": "yfcc-batch16/12983.mp4",
+    "label": 66.8
+  },
+  {
+    "filename": "yfcc-batch16/13000.mp4",
+    "label": 53.2105263157895
+  },
+  {
+    "filename": "yfcc-batch16/13022.mp4",
+    "label": 75.3243243243243
+  },
+  {
+    "filename": "yfcc-batch16/13039.mp4",
+    "label": 72.1666666666667
+  },
+  {
+    "filename": "yfcc-batch16/13060.mp4",
+    "label": 70.3333333333333
+  },
+  {
+    "filename": "yfcc-batch16/13077.mp4",
+    "label": 59.0625
+  },
+  {
+    "filename": "yfcc-batch16/13097.mp4",
+    "label": 59.2
+  },
+  {
+    "filename": "yfcc-batch16/13114.mp4",
+    "label": 45.9444444444444
+  },
+  {
+    "filename": "yfcc-batch16/12314.mp4",
+    "label": 68.0512820512821
+  },
+  {
+    "filename": "yfcc-batch16/12331.mp4",
+    "label": 73.1428571428571
+  },
+  {
+    "filename": "yfcc-batch16/12348.mp4",
+    "label": 56.6285714285714
+  },
+  {
+    "filename": "yfcc-batch16/12367.mp4",
+    "label": 49.5454545454546
+  },
+  {
+    "filename": "yfcc-batch16/12392.mp4",
+    "label": 64.56756756756761
+  },
+  {
+    "filename": "yfcc-batch16/12411.mp4",
+    "label": 62.55882352941179
+  },
+  {
+    "filename": "yfcc-batch16/12430.mp4",
+    "label": 69.6486486486487
+  },
+  {
+    "filename": "yfcc-batch16/12451.mp4",
+    "label": 64.25
+  },
+  {
+    "filename": "yfcc-batch16/12472.mp4",
+    "label": 52.428571428571395
+  },
+  {
+    "filename": "yfcc-batch16/12497.mp4",
+    "label": 56.3529411764706
+  },
+  {
+    "filename": "yfcc-batch16/12513.mp4",
+    "label": 55.44117647058821
+  },
+  {
+    "filename": "yfcc-batch16/12535.mp4",
+    "label": 54.2285714285714
+  },
+  {
+    "filename": "yfcc-batch16/12555.mp4",
+    "label": 48.085714285714296
+  },
+  {
+    "filename": "yfcc-batch16/12574.mp4",
+    "label": 65.2
+  },
+  {
+    "filename": "yfcc-batch16/12597.mp4",
+    "label": 75.3714285714286
+  },
+  {
+    "filename": "yfcc-batch16/12614.mp4",
+    "label": 70.2162162162162
+  },
+  {
+    "filename": "yfcc-batch16/12632.mp4",
+    "label": 57.9117647058824
+  },
+  {
+    "filename": "yfcc-batch16/12654.mp4",
+    "label": 68.0909090909091
+  },
+  {
+    "filename": "yfcc-batch17/13496.mp4",
+    "label": 57.34285714285711
+  },
+  {
+    "filename": "yfcc-batch17/13517.mp4",
+    "label": 33.742857142857105
+  },
+  {
+    "filename": "yfcc-batch17/13535.mp4",
+    "label": 66.6060606060606
+  },
+  {
+    "filename": "yfcc-batch17/13551.mp4",
+    "label": 75.0571428571429
+  },
+  {
+    "filename": "yfcc-batch17/13575.mp4",
+    "label": 69.7647058823529
+  },
+  {
+    "filename": "yfcc-batch17/13589.mp4",
+    "label": 75.7647058823529
+  },
+  {
+    "filename": "yfcc-batch17/13607.mp4",
+    "label": 70.0
+  },
+  {
+    "filename": "yfcc-batch17/13628.mp4",
+    "label": 72.8611111111111
+  },
+  {
+    "filename": "yfcc-batch17/13651.mp4",
+    "label": 64.14285714285711
+  },
+  {
+    "filename": "yfcc-batch17/13675.mp4",
+    "label": 56.5428571428572
+  },
+  {
+    "filename": "yfcc-batch17/13698.mp4",
+    "label": 67.32352941176471
+  },
+  {
+    "filename": "yfcc-batch17/13718.mp4",
+    "label": 56.32352941176471
+  },
+  {
+    "filename": "yfcc-batch17/13740.mp4",
+    "label": 56.135135135135094
+  },
+  {
+    "filename": "yfcc-batch17/13756.mp4",
+    "label": 76.8
+  },
+  {
+    "filename": "yfcc-batch17/13774.mp4",
+    "label": 74.45714285714291
+  },
+  {
+    "filename": "yfcc-batch17/13799.mp4",
+    "label": 35.514285714285705
+  },
+  {
+    "filename": "yfcc-batch17/13820.mp4",
+    "label": 71.79310344827591
+  },
+  {
+    "filename": "yfcc-batch17/13849.mp4",
+    "label": 59.212121212121204
+  },
+  {
+    "filename": "yfcc-batch17/13866.mp4",
+    "label": 75.5405405405405
+  },
+  {
+    "filename": "yfcc-batch17/13885.mp4",
+    "label": 39.2972972972973
+  },
+  {
+    "filename": "yfcc-batch17/13904.mp4",
+    "label": 71.5263157894737
+  },
+  {
+    "filename": "yfcc-batch17/13919.mp4",
+    "label": 60.4864864864865
+  },
+  {
+    "filename": "yfcc-batch17/13939.mp4",
+    "label": 42.1578947368421
+  },
+  {
+    "filename": "yfcc-batch17/13138.mp4",
+    "label": 62.8
+  },
+  {
+    "filename": "yfcc-batch17/13154.mp4",
+    "label": 75.5882352941177
+  },
+  {
+    "filename": "yfcc-batch17/13179.mp4",
+    "label": 63.29411764705879
+  },
+  {
+    "filename": "yfcc-batch17/13202.mp4",
+    "label": 65.5588235294118
+  },
+  {
+    "filename": "yfcc-batch17/13222.mp4",
+    "label": 58.487179487179496
+  },
+  {
+    "filename": "yfcc-batch17/13237.mp4",
+    "label": 69.3055555555556
+  },
+  {
+    "filename": "yfcc-batch17/13258.mp4",
+    "label": 55.736842105263214
+  },
+  {
+    "filename": "yfcc-batch17/13275.mp4",
+    "label": 48.0571428571429
+  },
+  {
+    "filename": "yfcc-batch17/13298.mp4",
+    "label": 53.82857142857139
+  },
+  {
+    "filename": "yfcc-batch17/13314.mp4",
+    "label": 70.8
+  },
+  {
+    "filename": "yfcc-batch17/13337.mp4",
+    "label": 67.1111111111111
+  },
+  {
+    "filename": "yfcc-batch17/13359.mp4",
+    "label": 48.1428571428571
+  },
+  {
+    "filename": "yfcc-batch17/13384.mp4",
+    "label": 61.82352941176471
+  },
+  {
+    "filename": "yfcc-batch17/13401.mp4",
+    "label": 44.1315789473684
+  },
+  {
+    "filename": "yfcc-batch17/13420.mp4",
+    "label": 63.88571428571429
+  },
+  {
+    "filename": "yfcc-batch17/13439.mp4",
+    "label": 47.527777777777786
+  },
+  {
+    "filename": "yfcc-batch17/13453.mp4",
+    "label": 56.222222222222214
+  },
+  {
+    "filename": "yfcc-batch17/13471.mp4",
+    "label": 69.84848484848479
+  },
+  {
+    "filename": "yfcc-batch18/14312.mp4",
+    "label": 72.2777777777778
+  },
+  {
+    "filename": "yfcc-batch18/14332.mp4",
+    "label": 64.6666666666667
+  },
+  {
+    "filename": "yfcc-batch18/14354.mp4",
+    "label": 61.125
+  },
+  {
+    "filename": "yfcc-batch18/14372.mp4",
+    "label": 64.6857142857143
+  },
+  {
+    "filename": "yfcc-batch18/14388.mp4",
+    "label": 66.6571428571429
+  },
+  {
+    "filename": "yfcc-batch18/14415.mp4",
+    "label": 50.027027027026996
+  },
+  {
+    "filename": "yfcc-batch18/14431.mp4",
+    "label": 65.1714285714286
+  },
+  {
+    "filename": "yfcc-batch18/14451.mp4",
+    "label": 61.05882352941179
+  },
+  {
+    "filename": "yfcc-batch18/14471.mp4",
+    "label": 67.0526315789474
+  },
+  {
+    "filename": "yfcc-batch18/14494.mp4",
+    "label": 52.28571428571429
+  },
+  {
+    "filename": "yfcc-batch18/14523.mp4",
+    "label": 56.9354838709677
+  },
+  {
+    "filename": "yfcc-batch18/14543.mp4",
+    "label": 45.0882352941177
+  },
+  {
+    "filename": "yfcc-batch18/14558.mp4",
+    "label": 62.8055555555556
+  },
+  {
+    "filename": "yfcc-batch18/14583.mp4",
+    "label": 68.8611111111111
+  },
+  {
+    "filename": "yfcc-batch18/14606.mp4",
+    "label": 43.5294117647059
+  },
+  {
+    "filename": "yfcc-batch18/14627.mp4",
+    "label": 72.0
+  },
+  {
+    "filename": "yfcc-batch18/14648.mp4",
+    "label": 67.08571428571429
+  },
+  {
+    "filename": "yfcc-batch18/14665.mp4",
+    "label": 66.94285714285711
+  },
+  {
+    "filename": "yfcc-batch18/14684.mp4",
+    "label": 62.6486486486487
+  },
+  {
+    "filename": "yfcc-batch18/14700.mp4",
+    "label": 69.9090909090909
+  },
+  {
+    "filename": "yfcc-batch18/14718.mp4",
+    "label": 54.0
+  },
+  {
+    "filename": "yfcc-batch18/14735.mp4",
+    "label": 64.0
+  },
+  {
+    "filename": "yfcc-batch18/14760.mp4",
+    "label": 65.3333333333333
+  },
+  {
+    "filename": "yfcc-batch18/13956.mp4",
+    "label": 71.7428571428572
+  },
+  {
+    "filename": "yfcc-batch18/14487.mp4",
+    "label": 33.0
+  },
+  {
+    "filename": "yfcc-batch18/14001.mp4",
+    "label": 66.030303030303
+  },
+  {
+    "filename": "yfcc-batch18/14021.mp4",
+    "label": 56.7837837837838
+  },
+  {
+    "filename": "yfcc-batch18/14042.mp4",
+    "label": 59.6111111111111
+  },
+  {
+    "filename": "yfcc-batch18/14062.mp4",
+    "label": 62.454545454545496
+  },
+  {
+    "filename": "yfcc-batch18/14082.mp4",
+    "label": 60.71428571428571
+  },
+  {
+    "filename": "yfcc-batch18/14104.mp4",
+    "label": 69.7941176470588
+  },
+  {
+    "filename": "yfcc-batch18/14122.mp4",
+    "label": 50.1111111111111
+  },
+  {
+    "filename": "yfcc-batch18/14137.mp4",
+    "label": 51.589743589743605
+  },
+  {
+    "filename": "yfcc-batch18/14164.mp4",
+    "label": 49.68571428571429
+  },
+  {
+    "filename": "yfcc-batch18/14181.mp4",
+    "label": 63.2285714285714
+  },
+  {
+    "filename": "yfcc-batch18/14200.mp4",
+    "label": 61.2285714285714
+  },
+  {
+    "filename": "yfcc-batch18/14220.mp4",
+    "label": 68.8
+  },
+  {
+    "filename": "yfcc-batch18/14246.mp4",
+    "label": 66.4166666666667
+  },
+  {
+    "filename": "yfcc-batch18/14264.mp4",
+    "label": 65.1111111111111
+  },
+  {
+    "filename": "yfcc-batch18/14281.mp4",
+    "label": 68.11428571428571
+  },
+  {
+    "filename": "yfcc-batch19/15119.mp4",
+    "label": 65.6875
+  },
+  {
+    "filename": "yfcc-batch19/15137.mp4",
+    "label": 69.9705882352941
+  },
+  {
+    "filename": "yfcc-batch19/15163.mp4",
+    "label": 62.8333333333333
+  },
+  {
+    "filename": "yfcc-batch19/15179.mp4",
+    "label": 60.4705882352941
+  },
+  {
+    "filename": "yfcc-batch19/15200.mp4",
+    "label": 37.7714285714286
+  },
+  {
+    "filename": "yfcc-batch19/15222.mp4",
+    "label": 43.68571428571429
+  },
+  {
+    "filename": "yfcc-batch19/15244.mp4",
+    "label": 71.05555555555559
+  },
+  {
+    "filename": "yfcc-batch19/15265.mp4",
+    "label": 51.15
+  },
+  {
+    "filename": "yfcc-batch19/15281.mp4",
+    "label": 71.2352941176471
+  },
+  {
+    "filename": "yfcc-batch19/15303.mp4",
+    "label": 65.1842105263158
+  },
+  {
+    "filename": "yfcc-batch19/15326.mp4",
+    "label": 71.0645161290323
+  },
+  {
+    "filename": "yfcc-batch19/15347.mp4",
+    "label": 63.9459459459459
+  },
+  {
+    "filename": "yfcc-batch19/15368.mp4",
+    "label": 54.67647058823529
+  },
+  {
+    "filename": "yfcc-batch19/15387.mp4",
+    "label": 63.4848484848485
+  },
+  {
+    "filename": "yfcc-batch19/15403.mp4",
+    "label": 67.1111111111111
+  },
+  {
+    "filename": "yfcc-batch19/15422.mp4",
+    "label": 61.0
+  },
+  {
+    "filename": "yfcc-batch19/15442.mp4",
+    "label": 64.4571428571429
+  },
+  {
+    "filename": "yfcc-batch19/15461.mp4",
+    "label": 37.5526315789474
+  },
+  {
+    "filename": "yfcc-batch19/15480.mp4",
+    "label": 62.31428571428571
+  },
+  {
+    "filename": "yfcc-batch19/15499.mp4",
+    "label": 64.1111111111111
+  },
+  {
+    "filename": "yfcc-batch19/15520.mp4",
+    "label": 59.9090909090909
+  },
+  {
+    "filename": "yfcc-batch19/15543.mp4",
+    "label": 34.6285714285714
+  },
+  {
+    "filename": "yfcc-batch19/15562.mp4",
+    "label": 50.40625
+  },
+  {
+    "filename": "yfcc-batch19/14761.mp4",
+    "label": 71.3888888888889
+  },
+  {
+    "filename": "yfcc-batch19/14782.mp4",
+    "label": 53.6
+  },
+  {
+    "filename": "yfcc-batch19/14796.mp4",
+    "label": 36.3142857142857
+  },
+  {
+    "filename": "yfcc-batch19/14814.mp4",
+    "label": 57.71428571428571
+  },
+  {
+    "filename": "yfcc-batch19/14832.mp4",
+    "label": 48.31428571428571
+  },
+  {
+    "filename": "yfcc-batch19/14855.mp4",
+    "label": 67.5945945945946
+  },
+  {
+    "filename": "yfcc-batch19/14877.mp4",
+    "label": 48.027777777777786
+  },
+  {
+    "filename": "yfcc-batch19/14899.mp4",
+    "label": 52.3333333333333
+  },
+  {
+    "filename": "yfcc-batch19/14921.mp4",
+    "label": 42.8181818181818
+  },
+  {
+    "filename": "yfcc-batch19/14940.mp4",
+    "label": 65.3157894736842
+  },
+  {
+    "filename": "yfcc-batch19/14964.mp4",
+    "label": 72.5833333333333
+  },
+  {
+    "filename": "yfcc-batch19/14981.mp4",
+    "label": 80.1176470588236
+  },
+  {
+    "filename": "yfcc-batch19/15006.mp4",
+    "label": 40.1428571428571
+  },
+  {
+    "filename": "yfcc-batch19/15023.mp4",
+    "label": 35.0645161290323
+  },
+  {
+    "filename": "yfcc-batch19/15048.mp4",
+    "label": 61.0
+  },
+  {
+    "filename": "yfcc-batch19/15071.mp4",
+    "label": 57.459459459459495
+  },
+  {
+    "filename": "yfcc-batch19/15087.mp4",
+    "label": 68.0645161290323
+  },
+  {
+    "filename": "yfcc-batch19/15103.mp4",
+    "label": 58.9189189189189
+  },
+  {
+    "filename": "yfcc-batch20/15949.mp4",
+    "label": 71.3170731707317
+  },
+  {
+    "filename": "yfcc-batch20/15972.mp4",
+    "label": 39.6666666666667
+  },
+  {
+    "filename": "yfcc-batch20/15993.mp4",
+    "label": 66.7428571428571
+  },
+  {
+    "filename": "yfcc-batch20/16015.mp4",
+    "label": 76.60526315789471
+  },
+  {
+    "filename": "yfcc-batch20/16041.mp4",
+    "label": 71.75
+  },
+  {
+    "filename": "yfcc-batch20/16054.mp4",
+    "label": 65.3846153846154
+  },
+  {
+    "filename": "yfcc-batch20/16080.mp4",
+    "label": 35.6216216216216
+  },
+  {
+    "filename": "yfcc-batch20/16098.mp4",
+    "label": 49.7567567567568
+  },
+  {
+    "filename": "yfcc-batch20/16118.mp4",
+    "label": 72.5277777777778
+  },
+  {
+    "filename": "yfcc-batch20/16132.mp4",
+    "label": 61.540540540540505
+  },
+  {
+    "filename": "yfcc-batch20/16154.mp4",
+    "label": 54.275
+  },
+  {
+    "filename": "yfcc-batch20/16171.mp4",
+    "label": 58.972222222222214
+  },
+  {
+    "filename": "yfcc-batch20/16192.mp4",
+    "label": 71.5128205128205
+  },
+  {
+    "filename": "yfcc-batch20/16208.mp4",
+    "label": 63.5428571428571
+  },
+  {
+    "filename": "yfcc-batch20/16234.mp4",
+    "label": 70.4594594594595
+  },
+  {
+    "filename": "yfcc-batch20/16253.mp4",
+    "label": 69.0
+  },
+  {
+    "filename": "yfcc-batch20/16268.mp4",
+    "label": 69.8918918918919
+  },
+  {
+    "filename": "yfcc-batch20/16288.mp4",
+    "label": 49.972972972973004
+  },
+  {
+    "filename": "yfcc-batch20/16315.mp4",
+    "label": 63.410256410256395
+  },
+  {
+    "filename": "yfcc-batch20/16337.mp4",
+    "label": 58.921052631579
+  },
+  {
+    "filename": "yfcc-batch20/16356.mp4",
+    "label": 64.5714285714286
+  },
+  {
+    "filename": "yfcc-batch20/16377.mp4",
+    "label": 64.56756756756761
+  },
+  {
+    "filename": "yfcc-batch20/16398.mp4",
+    "label": 50.974358974359
+  },
+  {
+    "filename": "yfcc-batch20/15584.mp4",
+    "label": 72.81081081081079
+  },
+  {
+    "filename": "yfcc-batch20/15604.mp4",
+    "label": 68.3513513513513
+  },
+  {
+    "filename": "yfcc-batch20/15622.mp4",
+    "label": 40.525
+  },
+  {
+    "filename": "yfcc-batch20/15646.mp4",
+    "label": 74.18918918918921
+  },
+  {
+    "filename": "yfcc-batch20/15665.mp4",
+    "label": 80.32352941176471
+  },
+  {
+    "filename": "yfcc-batch20/15684.mp4",
+    "label": 42.394736842105296
+  },
+  {
+    "filename": "yfcc-batch20/15708.mp4",
+    "label": 56.3076923076923
+  },
+  {
+    "filename": "yfcc-batch20/15726.mp4",
+    "label": 70.2820512820513
+  },
+  {
+    "filename": "yfcc-batch20/15747.mp4",
+    "label": 58.4117647058824
+  },
+  {
+    "filename": "yfcc-batch20/15767.mp4",
+    "label": 60.6923076923077
+  },
+  {
+    "filename": "yfcc-batch20/15787.mp4",
+    "label": 59.1111111111111
+  },
+  {
+    "filename": "yfcc-batch20/15809.mp4",
+    "label": 69.3243243243243
+  },
+  {
+    "filename": "yfcc-batch20/15831.mp4",
+    "label": 66.2222222222222
+  },
+  {
+    "filename": "yfcc-batch20/15851.mp4",
+    "label": 61.0
+  },
+  {
+    "filename": "yfcc-batch20/15871.mp4",
+    "label": 82.02857142857141
+  },
+  {
+    "filename": "yfcc-batch20/15898.mp4",
+    "label": 44.2820512820513
+  },
+  {
+    "filename": "yfcc-batch20/15916.mp4",
+    "label": 68.8378378378378
+  },
+  {
+    "filename": "yfcc-batch20/15940.mp4",
+    "label": 61.8684210526316
+  },
+  {
+    "filename": "yfcc-batch21/16779.mp4",
+    "label": 61.589743589743605
+  },
+  {
+    "filename": "yfcc-batch21/16801.mp4",
+    "label": 65.5789473684211
+  },
+  {
+    "filename": "yfcc-batch21/16819.mp4",
+    "label": 57.2894736842105
+  },
+  {
+    "filename": "yfcc-batch21/16844.mp4",
+    "label": 67.7777777777778
+  },
+  {
+    "filename": "yfcc-batch21/16872.mp4",
+    "label": 65.1212121212121
+  },
+  {
+    "filename": "yfcc-batch21/16889.mp4",
+    "label": 66.7837837837838
+  },
+  {
+    "filename": "yfcc-batch21/16907.mp4",
+    "label": 74.6578947368421
+  },
+  {
+    "filename": "yfcc-batch21/16924.mp4",
+    "label": 70.88571428571429
+  },
+  {
+    "filename": "yfcc-batch21/16945.mp4",
+    "label": 43.1176470588235
+  },
+  {
+    "filename": "yfcc-batch21/16971.mp4",
+    "label": 67.1714285714286
+  },
+  {
+    "filename": "yfcc-batch21/16994.mp4",
+    "label": 70.027027027027
+  },
+  {
+    "filename": "yfcc-batch21/17014.mp4",
+    "label": 72.6578947368421
+  },
+  {
+    "filename": "yfcc-batch21/17039.mp4",
+    "label": 84.1025641025641
+  },
+  {
+    "filename": "yfcc-batch21/17060.mp4",
+    "label": 44.6388888888889
+  },
+  {
+    "filename": "yfcc-batch21/17077.mp4",
+    "label": 63.6944444444444
+  },
+  {
+    "filename": "yfcc-batch21/17101.mp4",
+    "label": 70.0555555555556
+  },
+  {
+    "filename": "yfcc-batch21/17122.mp4",
+    "label": 75.23684210526321
+  },
+  {
+    "filename": "yfcc-batch21/17142.mp4",
+    "label": 64.8918918918919
+  },
+  {
+    "filename": "yfcc-batch21/17164.mp4",
+    "label": 52.25
+  },
+  {
+    "filename": "yfcc-batch21/17180.mp4",
+    "label": 68.8378378378378
+  },
+  {
+    "filename": "yfcc-batch21/17202.mp4",
+    "label": 61.769230769230795
+  },
+  {
+    "filename": "yfcc-batch21/16879.mp4",
+    "label": 78.6857142857143
+  },
+  {
+    "filename": "yfcc-batch21/16418.mp4",
+    "label": 54.0
+  },
+  {
+    "filename": "yfcc-batch21/16436.mp4",
+    "label": 53.472222222222214
+  },
+  {
+    "filename": "yfcc-batch21/16455.mp4",
+    "label": 42.8421052631579
+  },
+  {
+    "filename": "yfcc-batch21/16476.mp4",
+    "label": 65.56756756756761
+  },
+  {
+    "filename": "yfcc-batch21/16495.mp4",
+    "label": 63.3055555555556
+  },
+  {
+    "filename": "yfcc-batch21/16516.mp4",
+    "label": 68.8611111111111
+  },
+  {
+    "filename": "yfcc-batch21/16537.mp4",
+    "label": 59.8823529411765
+  },
+  {
+    "filename": "yfcc-batch21/16559.mp4",
+    "label": 78.69230769230771
+  },
+  {
+    "filename": "yfcc-batch21/16577.mp4",
+    "label": 59.589743589743605
+  },
+  {
+    "filename": "yfcc-batch21/16599.mp4",
+    "label": 65.4736842105263
+  },
+  {
+    "filename": "yfcc-batch21/16624.mp4",
+    "label": 63.085714285714296
+  },
+  {
+    "filename": "yfcc-batch21/16645.mp4",
+    "label": 67.85714285714289
+  },
+  {
+    "filename": "yfcc-batch21/16667.mp4",
+    "label": 50.6315789473684
+  },
+  {
+    "filename": "yfcc-batch21/16685.mp4",
+    "label": 66.8055555555556
+  },
+  {
+    "filename": "yfcc-batch21/16706.mp4",
+    "label": 64.37142857142861
+  },
+  {
+    "filename": "yfcc-batch21/16723.mp4",
+    "label": 53.027777777777786
+  },
+  {
+    "filename": "yfcc-batch21/16743.mp4",
+    "label": 50.43243243243239
+  },
+  {
+    "filename": "yfcc-batch21/16760.mp4",
+    "label": 71.8125
+  },
+  {
+    "filename": "yfcc-batch22/17600.mp4",
+    "label": 61.514285714285705
+  },
+  {
+    "filename": "yfcc-batch22/17618.mp4",
+    "label": 63.974358974359
+  },
+  {
+    "filename": "yfcc-batch22/17640.mp4",
+    "label": 53.11428571428571
+  },
+  {
+    "filename": "yfcc-batch22/17664.mp4",
+    "label": 70.3428571428571
+  },
+  {
+    "filename": "yfcc-batch22/17686.mp4",
+    "label": 61.225
+  },
+  {
+    "filename": "yfcc-batch22/17704.mp4",
+    "label": 69.6842105263158
+  },
+  {
+    "filename": "yfcc-batch22/17718.mp4",
+    "label": 59.3783783783784
+  },
+  {
+    "filename": "yfcc-batch22/17736.mp4",
+    "label": 72.54285714285709
+  },
+  {
+    "filename": "yfcc-batch22/17760.mp4",
+    "label": 68.969696969697
+  },
+  {
+    "filename": "yfcc-batch22/17780.mp4",
+    "label": 49.9444444444444
+  },
+  {
+    "filename": "yfcc-batch22/17801.mp4",
+    "label": 58.75
+  },
+  {
+    "filename": "yfcc-batch22/17819.mp4",
+    "label": 67.6944444444444
+  },
+  {
+    "filename": "yfcc-batch22/17841.mp4",
+    "label": 42.4571428571429
+  },
+  {
+    "filename": "yfcc-batch22/17857.mp4",
+    "label": 58.5
+  },
+  {
+    "filename": "yfcc-batch22/17874.mp4",
+    "label": 54.236842105263214
+  },
+  {
+    "filename": "yfcc-batch22/17901.mp4",
+    "label": 68.81081081081078
+  },
+  {
+    "filename": "yfcc-batch22/17927.mp4",
+    "label": 70.3055555555556
+  },
+  {
+    "filename": "yfcc-batch22/17948.mp4",
+    "label": 62.864864864864906
+  },
+  {
+    "filename": "yfcc-batch22/17970.mp4",
+    "label": 64.4722222222222
+  },
+  {
+    "filename": "yfcc-batch22/17988.mp4",
+    "label": 63.972972972973004
+  },
+  {
+    "filename": "yfcc-batch22/18011.mp4",
+    "label": 64.1944444444444
+  },
+  {
+    "filename": "yfcc-batch22/18032.mp4",
+    "label": 64.2352941176471
+  },
+  {
+    "filename": "yfcc-batch22/17227.mp4",
+    "label": 70.17647058823529
+  },
+  {
+    "filename": "yfcc-batch22/17246.mp4",
+    "label": 50.43243243243239
+  },
+  {
+    "filename": "yfcc-batch22/17271.mp4",
+    "label": 64.7631578947369
+  },
+  {
+    "filename": "yfcc-batch22/17288.mp4",
+    "label": 66.1666666666667
+  },
+  {
+    "filename": "yfcc-batch22/17306.mp4",
+    "label": 61.4705882352941
+  },
+  {
+    "filename": "yfcc-batch22/17328.mp4",
+    "label": 64.4594594594595
+  },
+  {
+    "filename": "yfcc-batch22/17350.mp4",
+    "label": 50.051282051281994
+  },
+  {
+    "filename": "yfcc-batch22/17365.mp4",
+    "label": 53.9714285714286
+  },
+  {
+    "filename": "yfcc-batch22/17388.mp4",
+    "label": 68.7567567567568
+  },
+  {
+    "filename": "yfcc-batch22/17411.mp4",
+    "label": 64.6842105263158
+  },
+  {
+    "filename": "yfcc-batch22/17430.mp4",
+    "label": 55.026315789473706
+  },
+  {
+    "filename": "yfcc-batch22/17453.mp4",
+    "label": 63.5161290322581
+  },
+  {
+    "filename": "yfcc-batch22/17471.mp4",
+    "label": 68.7428571428571
+  },
+  {
+    "filename": "yfcc-batch22/17493.mp4",
+    "label": 57.43243243243239
+  },
+  {
+    "filename": "yfcc-batch22/17514.mp4",
+    "label": 70.4411764705882
+  },
+  {
+    "filename": "yfcc-batch22/17534.mp4",
+    "label": 62.184210526315795
+  },
+  {
+    "filename": "yfcc-batch22/17556.mp4",
+    "label": 62.0285714285714
+  },
+  {
+    "filename": "yfcc-batch22/17574.mp4",
+    "label": 66.6571428571429
+  },
+  {
+    "filename": "yfcc-batch23/18420.mp4",
+    "label": 55.428571428571395
+  },
+  {
+    "filename": "yfcc-batch23/18440.mp4",
+    "label": 56.722222222222214
+  },
+  {
+    "filename": "yfcc-batch23/18457.mp4",
+    "label": 65.17647058823529
+  },
+  {
+    "filename": "yfcc-batch23/18477.mp4",
+    "label": 76.1428571428571
+  },
+  {
+    "filename": "yfcc-batch23/18497.mp4",
+    "label": 61.5
+  },
+  {
+    "filename": "yfcc-batch23/18513.mp4",
+    "label": 70.1176470588235
+  },
+  {
+    "filename": "yfcc-batch23/18536.mp4",
+    "label": 69.56756756756761
+  },
+  {
+    "filename": "yfcc-batch23/18555.mp4",
+    "label": 36.969696969697
+  },
+  {
+    "filename": "yfcc-batch23/18574.mp4",
+    "label": 62.9428571428571
+  },
+  {
+    "filename": "yfcc-batch23/18595.mp4",
+    "label": 72.0571428571429
+  },
+  {
+    "filename": "yfcc-batch23/18620.mp4",
+    "label": 55.5
+  },
+  {
+    "filename": "yfcc-batch23/18639.mp4",
+    "label": 56.4117647058824
+  },
+  {
+    "filename": "yfcc-batch23/18665.mp4",
+    "label": 58.0
+  },
+  {
+    "filename": "yfcc-batch23/18687.mp4",
+    "label": 67.3888888888889
+  },
+  {
+    "filename": "yfcc-batch23/18710.mp4",
+    "label": 48.1515151515151
+  },
+  {
+    "filename": "yfcc-batch23/18726.mp4",
+    "label": 72.4166666666667
+  },
+  {
+    "filename": "yfcc-batch23/18752.mp4",
+    "label": 77.35483870967741
+  },
+  {
+    "filename": "yfcc-batch23/18774.mp4",
+    "label": 64.5833333333333
+  },
+  {
+    "filename": "yfcc-batch23/18798.mp4",
+    "label": 72.88571428571429
+  },
+  {
+    "filename": "yfcc-batch23/18817.mp4",
+    "label": 68.9714285714286
+  },
+  {
+    "filename": "yfcc-batch23/18837.mp4",
+    "label": 71.05128205128209
+  },
+  {
+    "filename": "yfcc-batch23/18857.mp4",
+    "label": 59.4117647058824
+  },
+  {
+    "filename": "yfcc-batch23/18051.mp4",
+    "label": 58.189189189189214
+  },
+  {
+    "filename": "yfcc-batch23/18071.mp4",
+    "label": 69.0555555555556
+  },
+  {
+    "filename": "yfcc-batch23/18089.mp4",
+    "label": 54.17647058823529
+  },
+  {
+    "filename": "yfcc-batch23/18110.mp4",
+    "label": 52.11428571428571
+  },
+  {
+    "filename": "yfcc-batch23/18126.mp4",
+    "label": 67.1621621621622
+  },
+  {
+    "filename": "yfcc-batch23/18144.mp4",
+    "label": 60.8529411764706
+  },
+  {
+    "filename": "yfcc-batch23/18161.mp4",
+    "label": 68.1388888888889
+  },
+  {
+    "filename": "yfcc-batch23/18181.mp4",
+    "label": 72.1351351351351
+  },
+  {
+    "filename": "yfcc-batch23/18200.mp4",
+    "label": 57.0
+  },
+  {
+    "filename": "yfcc-batch23/18217.mp4",
+    "label": 64.4571428571429
+  },
+  {
+    "filename": "yfcc-batch23/18237.mp4",
+    "label": 63.34285714285711
+  },
+  {
+    "filename": "yfcc-batch23/18258.mp4",
+    "label": 63.3513513513514
+  },
+  {
+    "filename": "yfcc-batch23/18276.mp4",
+    "label": 53.57142857142861
+  },
+  {
+    "filename": "yfcc-batch23/18298.mp4",
+    "label": 65.0285714285714
+  },
+  {
+    "filename": "yfcc-batch23/18318.mp4",
+    "label": 63.11428571428571
+  },
+  {
+    "filename": "yfcc-batch23/18338.mp4",
+    "label": 61.8484848484849
+  },
+  {
+    "filename": "yfcc-batch23/18355.mp4",
+    "label": 58.5882352941177
+  },
+  {
+    "filename": "yfcc-batch23/18376.mp4",
+    "label": 71.027027027027
+  },
+  {
+    "filename": "yfcc-batch23/18397.mp4",
+    "label": 56.9375
+  },
+  {
+    "filename": "yfcc-batch24/19243.mp4",
+    "label": 70.30769230769229
+  },
+  {
+    "filename": "yfcc-batch24/19267.mp4",
+    "label": 57.9047619047619
+  },
+  {
+    "filename": "yfcc-batch24/19291.mp4",
+    "label": 67.35
+  },
+  {
+    "filename": "yfcc-batch24/19318.mp4",
+    "label": 53.4047619047619
+  },
+  {
+    "filename": "yfcc-batch24/19337.mp4",
+    "label": 72.390243902439
+  },
+  {
+    "filename": "yfcc-batch24/19363.mp4",
+    "label": 69.25641025641029
+  },
+  {
+    "filename": "yfcc-batch24/19384.mp4",
+    "label": 66.12195121951221
+  },
+  {
+    "filename": "yfcc-batch24/19402.mp4",
+    "label": 71.0277777777778
+  },
+  {
+    "filename": "yfcc-batch24/19419.mp4",
+    "label": 69.5789473684211
+  },
+  {
+    "filename": "yfcc-batch24/19435.mp4",
+    "label": 65.921052631579
+  },
+  {
+    "filename": "yfcc-batch24/19451.mp4",
+    "label": 62.487179487179496
+  },
+  {
+    "filename": "yfcc-batch24/19468.mp4",
+    "label": 54.2
+  },
+  {
+    "filename": "yfcc-batch24/19487.mp4",
+    "label": 71.5365853658537
+  },
+  {
+    "filename": "yfcc-batch24/19510.mp4",
+    "label": 62.837209302325604
+  },
+  {
+    "filename": "yfcc-batch24/19533.mp4",
+    "label": 59.236842105263214
+  },
+  {
+    "filename": "yfcc-batch24/19557.mp4",
+    "label": 57.60526315789479
+  },
+  {
+    "filename": "yfcc-batch24/19574.mp4",
+    "label": 72.0909090909091
+  },
+  {
+    "filename": "yfcc-batch24/19592.mp4",
+    "label": 60.6216216216216
+  },
+  {
+    "filename": "yfcc-batch24/19615.mp4",
+    "label": 71.075
+  },
+  {
+    "filename": "yfcc-batch24/19637.mp4",
+    "label": 65.2631578947369
+  },
+  {
+    "filename": "yfcc-batch24/19666.mp4",
+    "label": 72.4871794871795
+  },
+  {
+    "filename": "yfcc-batch24/19509.mp4",
+    "label": 61.0769230769231
+  },
+  {
+    "filename": "yfcc-batch24/18882.mp4",
+    "label": 74.1842105263158
+  },
+  {
+    "filename": "yfcc-batch24/18903.mp4",
+    "label": 64.87804878048779
+  },
+  {
+    "filename": "yfcc-batch24/18923.mp4",
+    "label": 75.9761904761905
+  },
+  {
+    "filename": "yfcc-batch24/18937.mp4",
+    "label": 64.6904761904762
+  },
+  {
+    "filename": "yfcc-batch24/18965.mp4",
+    "label": 71.6585365853658
+  },
+  {
+    "filename": "yfcc-batch24/18987.mp4",
+    "label": 75.4615384615385
+  },
+  {
+    "filename": "yfcc-batch24/19006.mp4",
+    "label": 72.10526315789471
+  },
+  {
+    "filename": "yfcc-batch24/19023.mp4",
+    "label": 73.3658536585366
+  },
+  {
+    "filename": "yfcc-batch24/19042.mp4",
+    "label": 70.1951219512195
+  },
+  {
+    "filename": "yfcc-batch24/19062.mp4",
+    "label": 69.25641025641029
+  },
+  {
+    "filename": "yfcc-batch24/19083.mp4",
+    "label": 69.71428571428571
+  },
+  {
+    "filename": "yfcc-batch24/19103.mp4",
+    "label": 54.948717948718006
+  },
+  {
+    "filename": "yfcc-batch24/19126.mp4",
+    "label": 59.3414634146342
+  },
+  {
+    "filename": "yfcc-batch24/19147.mp4",
+    "label": 73.73684210526321
+  },
+  {
+    "filename": "yfcc-batch24/19164.mp4",
+    "label": 66.5833333333333
+  },
+  {
+    "filename": "yfcc-batch24/19190.mp4",
+    "label": 57.7179487179487
+  },
+  {
+    "filename": "yfcc-batch24/19210.mp4",
+    "label": 57.575
+  },
+  {
+    "filename": "yfcc-batch25/19684.mp4",
+    "label": 65.7560975609756
+  },
+  {
+    "filename": "yfcc-batch25/19707.mp4",
+    "label": 77.5
+  },
+  {
+    "filename": "yfcc-batch25/19725.mp4",
+    "label": 61.05
+  },
+  {
+    "filename": "yfcc-batch25/19746.mp4",
+    "label": 61.65
+  },
+  {
+    "filename": "yfcc-batch25/19768.mp4",
+    "label": 62.3414634146342
+  },
+  {
+    "filename": "yfcc-batch25/19785.mp4",
+    "label": 74.2631578947369
+  },
+  {
+    "filename": "yfcc-batch25/19811.mp4",
+    "label": 70.3414634146341
+  },
+  {
+    "filename": "yfcc-batch25/19838.mp4",
+    "label": 78.14634146341459
+  },
+  {
+    "filename": "yfcc-batch25/19864.mp4",
+    "label": 68.2926829268293
+  },
+  {
+    "filename": "yfcc-batch25/19880.mp4",
+    "label": 55.5853658536585
+  },
+  {
+    "filename": "backup/24941.mp4",
+    "label": 71.1694915254237
+  },
+  {
+    "filename": "backup/24938.mp4",
+    "label": 56.0
+  },
+  {
+    "filename": "backup/24990.mp4",
+    "label": 63.9090909090909
+  },
+  {
+    "filename": "backup2/b8.mp4",
+    "label": 46.405405405405396
+  },
+  {
+    "filename": "backup2/b27.mp4",
+    "label": 54.928571428571395
+  },
+  {
+    "filename": "backup2/b50.mp4",
+    "label": 47.609756097561
+  },
+  {
+    "filename": "backup2/b69.mp4",
+    "label": 72.6
+  },
+  {
+    "filename": "ia-batch1/dayoh-Dayton_City_Commission_Meeting_12-26-18.mp4",
+    "label": 59.75
+  },
+  {
+    "filename": "ia-batch1/Community_Connection_September_2017_Fridley_MN.mp4",
+    "label": 83.5882352941177
+  },
+  {
+    "filename": "ia-batch1/mctvca-Millbrae_School_District_Meeting_-_March_5_2019.mp4",
+    "label": 64.85294117647061
+  },
+  {
+    "filename": "ia-batch1/Showcase_01801_Episode_3.mp4",
+    "label": 61.735294117647115
+  },
+  {
+    "filename": "ia-batch1/The_Aerial_Arborist.mp4",
+    "label": 50.65625
+  },
+  {
+    "filename": "ia-batch1/Farming_in_Torrance_a_Farming_Legacy_-_Torrance_Centennial.mp4",
+    "label": 42.8235294117647
+  },
+  {
+    "filename": "ia-batch1/SCVTV.com_3_28_2012_U.S._Rep._Howard_Buck_McKeon_Asks_for_Comments_on_Obamacare_s_Individual_Man.mp4",
+    "label": 51.4864864864865
+  },
+  {
+    "filename": "ia-batch1/The_SportsDesk_38.12_-_Torrance_CitiCABLE_-_November_13-19_2012.mp4",
+    "label": 46.9090909090909
+  },
+  {
+    "filename": "ia-batch1/youtube-wcDTjLTCL5Y.mp4",
+    "label": 41.8857142857143
+  },
+  {
+    "filename": "ia-batch1/youtube-ZkeGse0zw90.mp4",
+    "label": 38.6388888888889
+  },
+  {
+    "filename": "ia-batch1/Should_the_Wizards_breakup_Wall_and_Beal_-_The_Roundball_Report.mp4",
+    "label": 40.3529411764706
+  },
+  {
+    "filename": "ia-batch1/youtube-ga2HQYf8J1g.mp4",
+    "label": 32.0333333333333
+  },
+  {
+    "filename": "ia-batch1/San_Benito_Student_Digital_Media_Festival_7_11.mp4",
+    "label": 35.5806451612903
+  },
+  {
+    "filename": "ia-batch1/vf_splice_ql_061812_3500.mp4",
+    "label": 68.5833333333333
+  },
+  {
+    "filename": "ia-batch1/Norfolk_ForKids_helps_homeless_youth.mp4",
+    "label": 57.5161290322581
+  },
+  {
+    "filename": "ia-batch1/Veterans_Voices_-_Ray_Chesley.mp4",
+    "label": 65.9411764705882
+  },
+  {
+    "filename": "ia-batch1/stvma-Rte_117_Improvements_Sept_2018_Jan_2019.mp4",
+    "label": 70.9090909090909
+  },
+  {
+    "filename": "ia-batch1/MWSD_10_3_13_-_Montara_Water_and_Sanitary_District_Meeting_-_October_3_2013.mp4",
+    "label": 59.28571428571429
+  },
+  {
+    "filename": "ia-batch1/colcav-Topco_Solar_Field_Press_Conference_City_of_Lancaster.mp4",
+    "label": 76.9032258064516
+  },
+  {
+    "filename": "ia-batch1/youtube-JQb2mvPB6E0.mp4",
+    "label": 40.575757575757606
+  },
+  {
+    "filename": "ia-batch1/Planning_Board_13feb19.mp4",
+    "label": 63.9354838709677
+  },
+  {
+    "filename": "ia-batch1/DhimmathirigaeFullVideoSongSrimanthuduMovieMaheshBabuShrutiHaasanDSP.mp4",
+    "label": 86.0
+  },
+  {
+    "filename": "ia-batch1/Drpoulette-CSIAdvertisementInMexicoCity301.mp4",
+    "label": 50.2424242424242
+  },
+  {
+    "filename": "ia-batch1/cosny-Outdoor_Classroom_at_Kirk_Park_10-28-2014.mp4",
+    "label": 71.5483870967742
+  },
+  {
+    "filename": "ia-batch1/whctvct-Shalom_Hartford_-_Interview_with_Walter_Harrison_July_2017.mp4",
+    "label": 60.5
+  },
+  {
+    "filename": "ia-batch1/Que_Pasa_Polk_043_-_Augusto_7_2014.mp4",
+    "label": 59.11428571428571
+  },
+  {
+    "filename": "ia-batch1/youtube-f-QkdA3SXkw.mp4",
+    "label": 50.3793103448276
+  },
+  {
+    "filename": "ia-batch1/NeurosurgeonDr.EricLeuthardtSaysBrainChipImplantsAreTheFuture.mp4",
+    "label": 69.2727272727273
+  },
+  {
+    "filename": "ia-batch1/youtube-zxIaBzGzI_A.mp4",
+    "label": 23.0
+  },
+  {
+    "filename": "ia-batch1/Community_Journal_October_1st.mp4",
+    "label": 49.03125
+  },
+  {
+    "filename": "ia-batch1/cocoh-Central_Ohio_Workforce_Investment_Corporation_s_S.O.A.R.hire_Youth_Job_Expo.mp4",
+    "label": 61.2424242424242
+  },
+  {
+    "filename": "ia-batch1/St_Louis_Charter_School.mp4",
+    "label": 53.45161290322579
+  },
+  {
+    "filename": "ia-batch1/VideoHighlightsMercyhurstCollegeVs.NiagaraUniversity02142008_109.mp4",
+    "label": 37.5
+  },
+  {
+    "filename": "ia-batch1/Mel_Franklin_Weight_Loss.mp4",
+    "label": 71.7352941176471
+  },
+  {
+    "filename": "ia-batch1/School_Committee_-_July_21st_2016.mp4",
+    "label": 57.59375
+  },
+  {
+    "filename": "ia-batch1/What_s_Happening_Waupaca_9_28_-_Hutching_House_and_King_Cottage.mp4",
+    "label": 53.3125
+  },
+  {
+    "filename": "ia-batch1/bptvpa-Down_on_the_Homestead_A_Frontier_Thanksgiving.mp4",
+    "label": 52.375
+  },
+  {
+    "filename": "ia-batch1/MichaelMariaTichyTREE3.mp4",
+    "label": 65.6896551724138
+  },
+  {
+    "filename": "ia-batch1/spanishrevolution-AcampadaVigo_20-05-2011-4dSP9EYgNoU.mp4.mp4",
+    "label": 52.4
+  },
+  {
+    "filename": "ia-batch1/New_Hope_School_Demolition_Project.mp4",
+    "label": 55.1081081081081
+  },
+  {
+    "filename": "ia-batch2/County_increases_contribution_to_the_One_Summer_Program.mp4",
+    "label": 64.4716981132076
+  },
+  {
+    "filename": "ia-batch2/youtube-RaznefZ8vCI.mp4",
+    "label": 48.5178571428571
+  },
+  {
+    "filename": "ia-batch2/tvce1qc-St_Vincent_de_Paul.mp4",
+    "label": 72.3695652173913
+  },
+  {
+    "filename": "ia-batch2/youtube-uILCZARnzkE.mp4",
+    "label": 41.32
+  },
+  {
+    "filename": "ia-batch2/youtube-JckiHZbYLAA.mp4",
+    "label": 54.23076923076921
+  },
+  {
+    "filename": "ia-batch2/AliceInWonderland1903.mp4",
+    "label": 23.3207547169811
+  },
+  {
+    "filename": "ia-batch2/Polk_Place_Career_Sournce_Polk_Job_Fair.mp4",
+    "label": 54.46
+  },
+  {
+    "filename": "ia-batch2/Present_-_What_Is_God_part_two.mp4",
+    "label": 62.020408163265294
+  },
+  {
+    "filename": "ia-batch2/Planning_Commission_-_August_7_2017.mp4",
+    "label": 48.4561403508772
+  },
+  {
+    "filename": "ia-batch2/youtube-lOprK5w23cc.mp4",
+    "label": 39.58181818181821
+  },
+  {
+    "filename": "ia-batch2/12-28-11_Church_Fire.mp4",
+    "label": 52.1730769230769
+  },
+  {
+    "filename": "ia-batch2/blmtwpmiv-Cash_Flow_for_Business_Success.mp4",
+    "label": 66.73076923076921
+  },
+  {
+    "filename": "ia-batch2/9_Ways_to_Go_Green.mp4",
+    "label": 57.54
+  },
+  {
+    "filename": "ia-batch2/What_Do_You_Do_if_You_Do_Fall_Thru_the_Ice.mp4",
+    "label": 82.7391304347826
+  },
+  {
+    "filename": "ia-batch2/Authors_Revealed_-_Anna_Quinlin.mp4",
+    "label": 55.71428571428571
+  },
+  {
+    "filename": "ia-batch2/ucberkeley_webcast_RNZUrHBWuF0.mp4",
+    "label": 49.921568627451
+  },
+  {
+    "filename": "ia-batch2/Cub_Scout_Pack_24_at_CCTV.mp4",
+    "label": 76.5833333333333
+  },
+  {
+    "filename": "ia-batch2/3026_348_HopefortheCitiesofHopelessness_EP348_MayorKarlDean.mp4",
+    "label": 57.551020408163296
+  },
+  {
+    "filename": "ia-batch2/911_Working_Together.mp4",
+    "label": 66.265306122449
+  },
+  {
+    "filename": "ia-batch2/youtube-FKElEGkAc1Y.mp4",
+    "label": 69.2777777777778
+  },
+  {
+    "filename": "ia-batch2/wctvwiv-Summer_Reading_Program_2018_PSA.mp4",
+    "label": 56.8775510204082
+  },
+  {
+    "filename": "ia-batch2/Arrival_of_the_Post-Petroleum_Human.mp4",
+    "label": 66.6296296296296
+  },
+  {
+    "filename": "ia-batch2/Dr_Shohet_ThisDay_Interview_8_12_14.mp4",
+    "label": 59.17647058823529
+  },
+  {
+    "filename": "ia-batch2/Oshkosh_Today_Intro_6_24_15.mp4",
+    "label": 58.1320754716981
+  },
+  {
+    "filename": "ia-batch2/CEATEC2009-KDDICorp976.mp4",
+    "label": 70.17647058823529
+  },
+  {
+    "filename": "ia-batch2/Sherborn_School_Committee_Meeting_of_January_13_2015.mp4",
+    "label": 51.29411764705879
+  },
+  {
+    "filename": "ia-batch2/Davidleeking-OutTheTrainWindow418-2.mp4",
+    "label": 43.6603773584906
+  },
+  {
+    "filename": "ia-batch2/archiveteam_videobot_UCSD_TV_20161216_1050.mp4",
+    "label": 63.346153846153896
+  },
+  {
+    "filename": "ia-batch2/ctv3in-Frazee_Elementary_Christmas_2014.mp4",
+    "label": 51.9230769230769
+  },
+  {
+    "filename": "ia-batch2/Science_Conference_11May2008_wedding1_lowres.mp4",
+    "label": 49.19642857142861
+  },
+  {
+    "filename": "ia-batch2/ucberkeley_webcast_d9ud4ABU_Aw.mp4",
+    "label": 45.5
+  },
+  {
+    "filename": "ia-batch2/Parks_and_Recreation_7_10_17.mp4",
+    "label": 56.3272727272727
+  },
+  {
+    "filename": "ia-batch2/Robyn_Lightcap_Gives_an_Update_on_Preschool_Promise.mp4",
+    "label": 63.65384615384621
+  },
+  {
+    "filename": "ia-batch2/tv4satx-Fiesta_Flambeau_Parade_2008_Act_8.mp4",
+    "label": 55.019230769230795
+  },
+  {
+    "filename": "ia-batch2/ctv3in-CHS_Girls_Varsity_Basketball_vs_Franklin_County_1_17_2015.mp4",
+    "label": 37.6415094339623
+  },
+  {
+    "filename": "ia-batch2/AnArcadianMaidPreview.mp4",
+    "label": 37.543859649122794
+  },
+  {
+    "filename": "ia-batch2/WCBOL20130520.mp4",
+    "label": 45.74
+  },
+  {
+    "filename": "ia-batch2/Simsbury_Grange_Magic_Show_November_4_2013.mp4",
+    "label": 51.4081632653061
+  },
+  {
+    "filename": "ia-batch2/21_This_Week_Casey_Aiken_s_Opening_Monologue_June_22_2012.mp4",
+    "label": 60.038461538461505
+  },
+  {
+    "filename": "ia-batch2/Councilman_Green_Introduces_Resolution_on_50th_Anniversary_of_I_Am_a_Man_Protests_2-1-2018.mp4",
+    "label": 70.5689655172414
+  },
+  {
+    "filename": "ia-batch2/Valle_Catholic_School_Ste._Genevieve_Mo_ACA_2014_Video.mp4",
+    "label": 41.4782608695652
+  },
+  {
+    "filename": "ia-batch2/06-15-11_SFNews_pt1.mp4",
+    "label": 61.403846153846104
+  },
+  {
+    "filename": "ia-batch2/Mounds_View_Clean_Up_Day_Fall_2014.mp4",
+    "label": 60.6739130434783
+  },
+  {
+    "filename": "ia-batch2/Shannon_McNally_Can_t_Pin_a_Color_Live_at_KDHX_5_28_13.mp4",
+    "label": 60.8
+  },
+  {
+    "filename": "ia-batch3/Bob_Ross_Christmas_Greeting.mp4",
+    "label": 52.28571428571429
+  },
+  {
+    "filename": "ia-batch3/youtube-cTF8QQHgpYk.mp4",
+    "label": 45.375
+  },
+  {
+    "filename": "ia-batch3/Working_Women_of_Waldo_County.mp4",
+    "label": 41.5483870967742
+  },
+  {
+    "filename": "ia-batch3/punkcast1151.mp4",
+    "label": 55.8
+  },
+  {
+    "filename": "ia-batch3/Simsbury_Fly_In_and_Car_Show_2013.mp4",
+    "label": 48.961538461538495
+  },
+  {
+    "filename": "ia-batch3/youtube-O8PMABLDguA.mp4",
+    "label": 63.4333333333333
+  },
+  {
+    "filename": "ia-batch3/Arab_Stereotypes.mp4",
+    "label": 71.7241379310345
+  },
+  {
+    "filename": "ia-batch3/stgenmo-A_Message_from_Holy_Cross_Lutheran_Church_Ste._Genevieve_Mo_9_2_18.mp4",
+    "label": 57.3529411764706
+  },
+  {
+    "filename": "ia-batch3/Cedric_The_Entertainer_Interview_with_Carol_Daniel.mp4",
+    "label": 80.8529411764706
+  },
+  {
+    "filename": "ia-batch3/youtube-eQiinJtQ9jk.mp4",
+    "label": 67.375
+  },
+  {
+    "filename": "ia-batch3/TheOintment-GuestHillaryClintonPartII513.mp4",
+    "label": 65.3214285714286
+  },
+  {
+    "filename": "ia-batch3/youtube-Q-YpqaF9Li8.mp4",
+    "label": 54.6
+  },
+  {
+    "filename": "ia-batch3/DreamerUpdateOct12.mp4",
+    "label": 46.0
+  },
+  {
+    "filename": "ia-batch3/Planning_Commission_04_15_15.mp4",
+    "label": 54.59375
+  },
+  {
+    "filename": "ia-batch3/Around_the_Parish_-_Tennis_Play_Day.mp4",
+    "label": 65.7906976744186
+  },
+  {
+    "filename": "ia-batch3/youtube-lmGi7BZS5NM.mp4",
+    "label": 72.8709677419355
+  },
+  {
+    "filename": "ia-batch3/archiveteam_videobot_twitter_com_741052667783479297.mp4",
+    "label": 51.4333333333333
+  },
+  {
+    "filename": "ia-batch3/2012_SCV_High_School_Football_Preview_-_Trinity.mp4",
+    "label": 69.6333333333333
+  },
+  {
+    "filename": "ia-batch3/bctvct-Board_of_Finance_-_05_20_2019.mp4",
+    "label": 64.6060606060606
+  },
+  {
+    "filename": "ia-batch3/MikeBrownStrongArmRobberySurveillanceVideoTapeFull.mp4",
+    "label": 30.4
+  },
+  {
+    "filename": "ia-batch3/3020_010_FadeToBlack_Woodstok_EP010.mp4",
+    "label": 54.9310344827586
+  },
+  {
+    "filename": "ia-batch3/tvc22on-Chronique_Communautaire_-_Les_4_saisons_de_l_humour_2018.mp4",
+    "label": 74.7586206896552
+  },
+  {
+    "filename": "ia-batch3/coeor-City_Council_Work_Session_04-28-2014.mp4",
+    "label": 45.25
+  },
+  {
+    "filename": "ia-batch3/Senior_Circuit_10-21-14_Get_the_Lead_Out_of_Your_House.mp4",
+    "label": 57.9230769230769
+  },
+  {
+    "filename": "ia-batch3/30_Minutes_with_Special_Guest_Maestro_Valentin_Radu.mp4",
+    "label": 66.0333333333333
+  },
+  {
+    "filename": "ia-batch3/coatv-Coaches_Corner_-USNA_Volleyball.mp4",
+    "label": 66.71428571428571
+  },
+  {
+    "filename": "ia-batch3/yt-mariotehplumber-201505.mp4",
+    "label": 58.1212121212121
+  },
+  {
+    "filename": "ia-batch3/We_Are_Serious_About_Fun-_Presented_by_Concord_Parks_and_Rec.mp4",
+    "label": 63.6511627906977
+  },
+  {
+    "filename": "ia-batch3/youtube-Q_q_ZdDoTqk.mp4",
+    "label": 48.1666666666667
+  },
+  {
+    "filename": "ia-batch3/YMCA_Ground_Breaking_Ceremony_7_28_15.mp4",
+    "label": 54.25
+  },
+  {
+    "filename": "ia-batch3/The_Rick_Rock_Show_featuring_House_of_Freaks.mp4",
+    "label": 32.2258064516129
+  },
+  {
+    "filename": "ia-batch3/Video_Story_Telling.mp4",
+    "label": 53.1
+  },
+  {
+    "filename": "ia-batch3/Salt_Lake_City_s_Capital_City_News_Brief_-_April_2_2018.mp4",
+    "label": 70.0740740740741
+  },
+  {
+    "filename": "ia-batch3/Pam_O_Connor_-_Introduction.mp4",
+    "label": 72.8529411764706
+  },
+  {
+    "filename": "ia-batch3/Meth_Chef_-The_Key_to_Cooking.mp4",
+    "label": 63.387096774193495
+  },
+  {
+    "filename": "ia-batch3/youtube-5tnrI4D6_mc.mp4",
+    "label": 33.3396226415094
+  },
+  {
+    "filename": "ia-batch3/That_70_s_Band_-_Tonight_I_m_Alright.mp4",
+    "label": 53.6666666666667
+  },
+  {
+    "filename": "ia-batch3/youtube-hGvlV9fB2Iw.mp4",
+    "label": 69.1666666666667
+  },
+  {
+    "filename": "ia-batch3/youtube-AAEEOlNAtr0.mp4",
+    "label": 39.6060606060606
+  },
+  {
+    "filename": "ia-batch3/conpfl-2018_Recycling_Tips_-_North_Port_Solid_Waste.mp4",
+    "label": 73.2121212121212
+  },
+  {
+    "filename": "ia-batch3/SCVTV.com_2_2012_How_to_Use_Your_Santa_Clarita_Transit_TAP_Card.mp4",
+    "label": 69.46428571428571
+  },
+  {
+    "filename": "ia-batch3/21_This_Week_-_Maryland_District_19_Delegate_Race.mp4",
+    "label": 60.59375
+  },
+  {
+    "filename": "ia-batch3/Reign136.mp4",
+    "label": 49.4705882352941
+  },
+  {
+    "filename": "ia-batch3/ExtremeSportsPovStockFootage-Adventureimagery.com.mp4",
+    "label": 59.4117647058824
+  },
+  {
+    "filename": "ia-batch3/patma-PVMHS_Powder_Puff_Game_-_2019.mp4",
+    "label": 75.15625
+  },
+  {
+    "filename": "ia-batch4/AllAmerica_PSA_1_16x9.mp4",
+    "label": 52.3513513513514
+  },
+  {
+    "filename": "ia-batch4/f20110703mad.mp4",
+    "label": 48.6666666666667
+  },
+  {
+    "filename": "ia-batch4/Around_Athens_-_Kevin_Polk_s_Tiny_House_Chestnut_Tree_Planting.mp4",
+    "label": 47.5789473684211
+  },
+  {
+    "filename": "ia-batch4/FilmNumber74GaetanGosselin.mp4",
+    "label": 64.0
+  },
+  {
+    "filename": "ia-batch4/SPREADTHEIRSHAMEThisIsTheWorldTrumpsBigotryHasCreated.mp4",
+    "label": 59.472222222222214
+  },
+  {
+    "filename": "ia-batch4/nctv18ma-The_Painting_2017.mp4",
+    "label": 53.735294117647115
+  },
+  {
+    "filename": "ia-batch4/youtube-y-G2E0GFdpk.mp4",
+    "label": 62.864864864864906
+  },
+  {
+    "filename": "ia-batch4/Day_5_-_High_School_Reflections.mp4",
+    "label": 74.8684210526316
+  },
+  {
+    "filename": "ia-batch4/SPCA_Pet_Talk_-_ep_111.mp4",
+    "label": 58.459459459459495
+  },
+  {
+    "filename": "ia-batch4/stltvmo-STL_LIVE_St_Louis_Dental_Center_1_of_2.mp4",
+    "label": 59.277777777777786
+  },
+  {
+    "filename": "ia-batch4/youtube-O9BDMqcb-SA.mp4",
+    "label": 54.540540540540505
+  },
+  {
+    "filename": "ia-batch4/Wareham_High_School_2016_Powderpuff_Football_Game.mp4",
+    "label": 58.6666666666667
+  },
+  {
+    "filename": "ia-batch4/The_Beautiful_Heart_Show_-_Typhoon_Haiyan_Outreach.mp4",
+    "label": 50.2
+  },
+  {
+    "filename": "ia-batch4/youtube-Z3YPSoiVXyI.mp4",
+    "label": 42.657142857142894
+  },
+  {
+    "filename": "ia-batch4/youtube-HjOfMl9MEaY.mp4",
+    "label": 56.6666666666667
+  },
+  {
+    "filename": "ia-batch4/tr_dbzfighter1_20170615_1800.mp4",
+    "label": 72.0571428571429
+  },
+  {
+    "filename": "ia-batch4/3011_027b_ChangedLives_EP27b_TakingNashville.mp4",
+    "label": 49.43243243243239
+  },
+  {
+    "filename": "ia-batch4/Steering_Committee_-_September_4_2013.mp4",
+    "label": 59.6285714285714
+  },
+  {
+    "filename": "ia-batch4/Stoltzfus_House_Historic_Preservation_Trust_of_Berks_County_4-24-17.mp4",
+    "label": 60.527777777777786
+  },
+  {
+    "filename": "ia-batch4/SkyRiders.mp4",
+    "label": 37.1081081081081
+  },
+  {
+    "filename": "ia-batch4/youtube-7UNg2UZW2as.mp4",
+    "label": 54.128205128205096
+  },
+  {
+    "filename": "ia-batch4/CTV_News_6_26_14.mp4",
+    "label": 61.6111111111111
+  },
+  {
+    "filename": "ia-batch4/Senior_Recognition_Night_Musical_Selection.mp4",
+    "label": 56.5
+  },
+  {
+    "filename": "ia-batch4/youtube_UCv6RHvr4eoS0-l1xQWsvIWg_part_0018.mp4",
+    "label": 39.0
+  },
+  {
+    "filename": "ia-batch4/youtube-ows-PhilipGlassOWSLincolnCenter1of4-osUJ-XYBluA.mp4",
+    "label": 53.05882352941179
+  },
+  {
+    "filename": "ia-batch4/youtube-SePUMXugjPA.mp4",
+    "label": 54.3513513513514
+  },
+  {
+    "filename": "ia-batch4/Planning_Commission_Regular_Meeting_-_July_15_2015.mp4",
+    "label": 55.5
+  },
+  {
+    "filename": "ia-batch4/Sarasota_County_Phillippi_Farmhouse_Market.mp4",
+    "label": 61.0
+  },
+  {
+    "filename": "ia-batch4/The_Presidency_and_the_Constitution_5_of_5_2008.mp4",
+    "label": 55.44117647058821
+  },
+  {
+    "filename": "ia-batch4/CartoonClassics_201601.mp4",
+    "label": 45.722222222222214
+  },
+  {
+    "filename": "ia-batch4/12-13-2011_BOMA_Work_Session.mp4",
+    "label": 51.0882352941177
+  },
+  {
+    "filename": "ia-batch4/MonaLisaHorror.mp4",
+    "label": 40.2058823529412
+  },
+  {
+    "filename": "ia-batch4/Adoptable_Dogs_in_Clackamas_County_-_Dec._28_-_Jan._3.mp4",
+    "label": 73.81081081081079
+  },
+  {
+    "filename": "ia-batch4/sctvco-Summit_County_Animal_Shelter_Pets_of_the_Week_July_18_2018.mp4",
+    "label": 69.0909090909091
+  },
+  {
+    "filename": "ia-batch4/Council_On_Aging_February_Update_2017.mp4",
+    "label": 59.57142857142861
+  },
+  {
+    "filename": "ia-batch4/1981specialreportsouthbronx_201911.mp4",
+    "label": 40.0
+  },
+  {
+    "filename": "ia-batch4/3_MEN_IN_KILTS.mp4",
+    "label": 59.43243243243239
+  },
+  {
+    "filename": "ia-batch4/youtube-Yr0mHpoGp9w.mp4",
+    "label": 71.5277777777778
+  },
+  {
+    "filename": "ia-batch4/Page_Park.mp4",
+    "label": 73.82857142857141
+  },
+  {
+    "filename": "ia-batch4/bratt2vt-Putney_Selectboard_Mtg_4_24_13.mp4",
+    "label": 53.527777777777786
+  },
+  {
+    "filename": "ia-batch4/youtube-2q9guF65Dhs.mp4",
+    "label": 53.47368421052629
+  },
+  {
+    "filename": "ia-batch4/National_Letter_of_Intent_Day.mp4",
+    "label": 60.277777777777786
+  },
+  {
+    "filename": "ia-batch4/Epicness_ReChoired_of_Epic_Elementary.mp4",
+    "label": 58.1944444444444
+  },
+  {
+    "filename": "ia-batch4/cg_0130-Prescription_Opioids_Stories_-_One_Prescription_Can_Be_All_It_Takes.mp4",
+    "label": 72.3636363636364
+  },
+  {
+    "filename": "ia-batch4/North_Hennepin_Grant_-_Program_to_help_low_income_college_students_is_funded.mp4",
+    "label": 58.31578947368421
+  },
+  {
+    "filename": "ia-batch5/cg_0146-Mobile_Career_Center_for_Ex-Offenders.mp4",
+    "label": 65.1666666666667
+  },
+  {
+    "filename": "ia-batch5/bliptv-20131104-214009-BillCammack-FiveGuysInManhattan852.mp4",
+    "label": 55.540540540540505
+  },
+  {
+    "filename": "ia-batch5/MichaelDrivesIntoALakeTheOfficeUS.mp4",
+    "label": 69.9166666666667
+  },
+  {
+    "filename": "ia-batch5/youtube-lQVoBo84Pfk.mp4",
+    "label": 41.02777777777779
+  },
+  {
+    "filename": "ia-batch5/youtube-QufQEhZloqQ.mp4",
+    "label": 48.972222222222214
+  },
+  {
+    "filename": "ia-batch5/O_Sister_Brother-Babylon.mp4",
+    "label": 55.540540540540505
+  },
+  {
+    "filename": "ia-batch5/electricsheep-flock-244-2500-2.mp4",
+    "label": 75.6571428571429
+  },
+  {
+    "filename": "ia-batch5/012114CrimeBeat.mp4",
+    "label": 57.454545454545496
+  },
+  {
+    "filename": "ia-batch5/youtube_UCuRO6N_1hAKkxZeQZ7WLhaA.mp4",
+    "label": 34.7714285714286
+  },
+  {
+    "filename": "ia-batch5/youtube-x35P2wTX0zg.mp4",
+    "label": 53.9444444444444
+  },
+  {
+    "filename": "ia-batch5/Our_City-_Portuguese_Parade_5_7_12.mp4",
+    "label": 57.512820512820504
+  },
+  {
+    "filename": "ia-batch5/260sl.mp4",
+    "label": 36.0909090909091
+  },
+  {
+    "filename": "ia-batch5/051415_Berkley_vs_Lake_Orion_Girls_Soccer.mp4",
+    "label": 47.454545454545496
+  },
+  {
+    "filename": "ia-batch5/cofrmd-Motter_Ave_and_I-70_Phase_2D.mp4",
+    "label": 70.2
+  },
+  {
+    "filename": "ia-batch5/alctvoh-Adolescents_Alcohol_Part_1_-_Those_Who_Host_Lose_the_Most.mp4",
+    "label": 76.7096774193548
+  },
+  {
+    "filename": "ia-batch5/UHS_Homecoming_Parade_2015.mp4",
+    "label": 70.0
+  },
+  {
+    "filename": "ia-batch5/youtube-Fm5tDQharHs.mp4",
+    "label": 64.39473684210529
+  },
+  {
+    "filename": "ia-batch5/80594Tanks.mp4",
+    "label": 54.6216216216216
+  },
+  {
+    "filename": "ia-batch5/CTV_Sports_8_4_15_Citi_Open_Tennis.mp4",
+    "label": 61.9705882352941
+  },
+  {
+    "filename": "ia-batch5/youtube-wd1SUFzdFH8.mp4",
+    "label": 62.41935483870971
+  },
+  {
+    "filename": "ia-batch5/Digieffects-DELIRIUMPuffyCloudsFastMovingNightCloudsPreset127.mp4",
+    "label": 43.264705882352885
+  },
+  {
+    "filename": "ia-batch5/youtube-0aZwBVwLpPg.mp4",
+    "label": 58.9166666666667
+  },
+  {
+    "filename": "ia-batch5/bliptv-20131012-115344-Activetuts-CS5Video319.mp4",
+    "label": 50.3714285714286
+  },
+  {
+    "filename": "ia-batch5/youtube-jWEwgH4nPzw.mp4",
+    "label": 57.0
+  },
+  {
+    "filename": "ia-batch5/Pat_Clark.mp4",
+    "label": 81.9166666666667
+  },
+  {
+    "filename": "ia-batch5/Monona_Grove_High_School_Daily_Announcements_3_6_17.mp4",
+    "label": 77.3888888888889
+  },
+  {
+    "filename": "ia-batch5/youtube-RnQ86kahxJ4.mp4",
+    "label": 63.60526315789479
+  },
+  {
+    "filename": "ia-batch5/Fire_Safety_Prevention_Week_and_Essay_Award_Winners.mp4",
+    "label": 62.3611111111111
+  },
+  {
+    "filename": "ia-batch5/bratt2vt-BUHS-TV_2_7_12.mp4",
+    "label": 51.6470588235294
+  },
+  {
+    "filename": "ia-batch5/cg_0740-Fight_the_Bite_-_Spanish.mp4",
+    "label": 53.6285714285714
+  },
+  {
+    "filename": "ia-batch5/Community_Conversations_-_Chamber_of_Commerce.mp4",
+    "label": 73.2
+  },
+  {
+    "filename": "ia-batch5/youtube-7rYtt_cJkWg.mp4",
+    "label": 53.28571428571429
+  },
+  {
+    "filename": "ia-batch5/The_Veterans_Project_-_Bill_Cisko_and_Viet_Nam.mp4",
+    "label": 56.9117647058824
+  },
+  {
+    "filename": "ia-batch5/wotvcoh-City_Commission_Meeting.mp4",
+    "label": 57.864864864864906
+  },
+  {
+    "filename": "ia-batch5/youtube-hlnm4B4hwos.mp4",
+    "label": 56.3714285714286
+  },
+  {
+    "filename": "ia-batch5/Dances_for_Dayton_Greek_Fest.mp4",
+    "label": 53.9428571428571
+  },
+  {
+    "filename": "ia-batch5/youtube-4O0flXANmcE.mp4",
+    "label": 54.28571428571429
+  },
+  {
+    "filename": "ia-batch5/The_Exeter_Weekly_Report.mp4",
+    "label": 59.9117647058824
+  },
+  {
+    "filename": "ia-batch5/youtube-srFpqQZmLMs.mp4",
+    "label": 47.1212121212121
+  },
+  {
+    "filename": "ia-batch5/The_Convenings_Makes_Stop_in_Coon_Rapids.mp4",
+    "label": 85.30555555555559
+  },
+  {
+    "filename": "ia-batch5/Proper_Tree_Planting.mp4",
+    "label": 55.24324324324329
+  },
+  {
+    "filename": "ia-batch5/SF_News_2-2-11_pt2.mp4",
+    "label": 68.1176470588235
+  },
+  {
+    "filename": "ia-batch5/Play_of_the_Game_-_Prior_Lake_vs_Burnsville_-_5-13-14.mp4",
+    "label": 58.57142857142861
+  },
+  {
+    "filename": "ia-batch6/The_Entrepreneurs_Network_with_Special_Guest_Kenny_Dublin.mp4",
+    "label": 59.0789473684211
+  },
+  {
+    "filename": "ia-batch6/youtube-4EYy8niTzHM.mp4",
+    "label": 30.3235294117647
+  },
+  {
+    "filename": "ia-batch6/Abington_Finance_Committee_3-15-12_-_Part_2.mp4",
+    "label": 52.71428571428571
+  },
+  {
+    "filename": "ia-batch6/Bennington_Planning_Commission_-_7_21_14.mp4",
+    "label": 55.1944444444444
+  },
+  {
+    "filename": "ia-batch6/Pets_of_the_Week_-_November_17th_2016.mp4",
+    "label": 77.28571428571429
+  },
+  {
+    "filename": "ia-batch6/twitter-1212380455506513921.mp4",
+    "label": 47.0
+  },
+  {
+    "filename": "ia-batch6/youtube-Fkyq106eeJ0.mp4",
+    "label": 50.8888888888889
+  },
+  {
+    "filename": "ia-batch6/bliptv-20131114-103712-Beachwalks-beachwalk_344_070202831.mp4",
+    "label": 65.2058823529412
+  },
+  {
+    "filename": "ia-batch6/Minnesota_State_High_School_All_Star_Football.mp4",
+    "label": 52.3783783783784
+  },
+  {
+    "filename": "ia-batch6/Conceal_Carry_Debate.mp4",
+    "label": 41.8918918918919
+  },
+  {
+    "filename": "ia-batch6/Board_of_Selectmen_s_meeting_from_March_25_2013.mp4",
+    "label": 42.742857142857105
+  },
+  {
+    "filename": "ia-batch6/bliptv-20131014-093442-Bleedingedge-BleedingEdgeTV354UnibodyMacMiniVsAppleTVVsOriginalMa323.mp4",
+    "label": 77.9736842105263
+  },
+  {
+    "filename": "ia-batch6/uctvma-Be_My_Guest_09_13_17_Anita_Caruso_Author_4623.mp4",
+    "label": 66.4848484848485
+  },
+  {
+    "filename": "ia-batch6/ncgvtvca-Luxury_Homes_Show_-_April_2019.mp4",
+    "label": 55.25
+  },
+  {
+    "filename": "ia-batch6/Educandonos_En_Cristo4-17-13.mp4",
+    "label": 48.4444444444444
+  },
+  {
+    "filename": "ia-batch6/dni.ncaa.ICCR-1481-VHS.mp4",
+    "label": 13.194444444444402
+  },
+  {
+    "filename": "ia-batch6/cosmca-Antonella_Borjas_Pecha_Kucha_-_ClimateFest.mp4",
+    "label": 65.0555555555556
+  },
+  {
+    "filename": "ia-batch6/DeKalb_County_s_32nd_Annual_Dr._Martin_Luther_King_Jr._Celebration.mp4",
+    "label": 47.4705882352941
+  },
+  {
+    "filename": "ia-batch6/youtube-PeyXLF7RmN8.mp4",
+    "label": 69.18918918918922
+  },
+  {
+    "filename": "ia-batch6/mctvwi-Macci_Business_Profile_Episode_2_Quality_Tank_Soutions.mp4",
+    "label": 76.70270270270271
+  },
+  {
+    "filename": "ia-batch6/youtube-HIEbnCCSmQM.mp4",
+    "label": 64.37142857142861
+  },
+  {
+    "filename": "ia-batch6/AOC_Community_Quotes_-_Trevor_Chapman.mp4",
+    "label": 78.2571428571428
+  },
+  {
+    "filename": "ia-batch6/Storm_Stories_-_Huricane_Charley_2004.mp4",
+    "label": 58.17142857142861
+  },
+  {
+    "filename": "ia-batch6/archive_Arabic.mp4",
+    "label": 29.638888888888893
+  },
+  {
+    "filename": "ia-batch6/Ag_Fair_Volunteer.mov.mp4",
+    "label": 62.472222222222214
+  },
+  {
+    "filename": "ia-batch6/Msx_Longplay_030_Fantasy_Zone.mp4",
+    "label": 64.67647058823529
+  },
+  {
+    "filename": "ia-batch6/wctvma-PENTA_Marketing_Mentorship_Scholars_Preview_2017.mp4",
+    "label": 73.7297297297297
+  },
+  {
+    "filename": "ia-batch6/Sauk_Centre_City_Council_11-20-13.mp4",
+    "label": 61.75
+  },
+  {
+    "filename": "ia-batch6/Transportation_Update_385_HD.mp4",
+    "label": 62.0285714285714
+  },
+  {
+    "filename": "ia-batch6/youtube-Z424hhhap1o.mp4",
+    "label": 47.3055555555556
+  },
+  {
+    "filename": "ia-batch6/pctca-2019_World_Dog_Surf_Championship.mp4",
+    "label": 67.027027027027
+  },
+  {
+    "filename": "ia-batch6/teli1ns-Weekly_Update_January_25_2016.mp4",
+    "label": 59.8611111111111
+  },
+  {
+    "filename": "ia-batch6/cogtx-No_Shave_November_campaign_BLUEBEARDS.mp4",
+    "label": 83.82857142857141
+  },
+  {
+    "filename": "ia-batch6/terry-run.mp4",
+    "label": 69.4444444444444
+  },
+  {
+    "filename": "ia-batch6/youtube-dXfy5RzeyE.mp4",
+    "label": 70.4864864864865
+  },
+  {
+    "filename": "ia-batch6/electricsheep-flock-244-65000-9.mp4",
+    "label": 70.75
+  },
+  {
+    "filename": "ia-batch6/Pets_of_the_Week_for_September_7_2016.mp4",
+    "label": 75.5714285714286
+  },
+  {
+    "filename": "ia-batch6/News_From_Neptune_-_Episode_310.mp4",
+    "label": 61.7714285714286
+  },
+  {
+    "filename": "ia-batch6/Fill_the_Boot_Campaign.mp4",
+    "label": 54.7575757575758
+  },
+  {
+    "filename": "ia-batch6/Police_Commission_9.19.12.mp4",
+    "label": 43.6
+  },
+  {
+    "filename": "ia-batch6/youtube-0i4eS5pxVSc.mp4",
+    "label": 58.428571428571395
+  },
+  {
+    "filename": "ia-batch6/Town_Council_Meeting_06012015.mp4",
+    "label": 58.9189189189189
+  },
+  {
+    "filename": "ia-batch6/The_117th_Boston_Marathon_Start_in_Hopkinton.mp4",
+    "label": 49.57142857142861
+  },
+  {
+    "filename": "ia-batch6/bliptv-20131013-164931-AnnoyingOrange-EpicRapBattlesOfKitchenryFtNicePeter536.mp4",
+    "label": 68.6111111111111
+  },
+  {
+    "filename": "ia-batch6/tfnj-Franklin_Township_Human_Relations_Commission_January_28_2019.mp4",
+    "label": 55.8055555555556
+  },
+  {
+    "filename": "ia-batch7/vf_wiiu_launch_10_3500.mp4",
+    "label": 74.1388888888889
+  },
+  {
+    "filename": "ia-batch7/Flickr-35868275783.mp4",
+    "label": 69.6216216216216
+  },
+  {
+    "filename": "ia-batch7/youtube-nWzr6gMqC0w.mp4",
+    "label": 45.9705882352941
+  },
+  {
+    "filename": "ia-batch7/Rose_Krasnow_Democrat_Candidate_for_Montgomery_County_Executive.mp4",
+    "label": 74.82352941176471
+  },
+  {
+    "filename": "ia-batch7/BeThe1_-_Real_Time_Crime_Center_Analysts.mp4",
+    "label": 53.2894736842105
+  },
+  {
+    "filename": "ia-batch7/BRSchoolCOmmitteeApril2014.mp4",
+    "label": 48.4166666666667
+  },
+  {
+    "filename": "ia-batch7/BCTV_Presents_-_Honey_Bear_on_Berks_Youth_Live.mp4",
+    "label": 53.10526315789479
+  },
+  {
+    "filename": "ia-batch7/Cod_Mock_Bank_Robbery.mp4",
+    "label": 51.6666666666667
+  },
+  {
+    "filename": "ia-batch7/Beachwalks-beachwalk_302_061222778.mp4",
+    "label": 61.4634146341463
+  },
+  {
+    "filename": "ia-batch7/Black_History_Part_1_10-24-16.mp4",
+    "label": 54.540540540540505
+  },
+  {
+    "filename": "ia-batch7/youtube-jRn2Qt4Vd7A.mp4",
+    "label": 58.4117647058824
+  },
+  {
+    "filename": "ia-batch7/comid-This_Week_in_Meridian_-_June_6_-_13.mp4",
+    "label": 71.2058823529412
+  },
+  {
+    "filename": "ia-batch7/paraguayenllamasdatospreocupantesevidencianquevariasreservasnaturalesestanamenaz.mp4",
+    "label": 70.14285714285711
+  },
+  {
+    "filename": "ia-batch7/08.06.08-ScratchNSniffGodVIDEO.mp4",
+    "label": 57.5
+  },
+  {
+    "filename": "ia-batch7/youtube-iyjbhwq-pEk.mp4",
+    "label": 54.60526315789479
+  },
+  {
+    "filename": "ia-batch7/Pet_of_the_Week_-_September_18_2017.mp4",
+    "label": 72.7058823529412
+  },
+  {
+    "filename": "ia-batch7/Champaign_County_Freedom_Celebration_promotional_video_-_40_second_version.mp4",
+    "label": 69.9166666666667
+  },
+  {
+    "filename": "ia-batch7/youtube-HJqkE5f3HBo.mp4",
+    "label": 57.538461538461505
+  },
+  {
+    "filename": "ia-batch7/The_Jose_Aliaga_Show_-_Faith_In_Action.mp4",
+    "label": 77.1111111111111
+  },
+  {
+    "filename": "ia-batch7/A_Visionary_Program_Expands_to_DMPS_Middle_Schools.mp4",
+    "label": 75.2162162162162
+  },
+  {
+    "filename": "ia-batch7/bliptv-20131012-222128-Anewbreedcinema-NewDAILYShowWithChrisAndRuss505.mp4",
+    "label": 54.8571428571429
+  },
+  {
+    "filename": "ia-batch7/rbtvil-NB_District_Goals_Mission_Vision_05-14-19.mp4",
+    "label": 44.74285714285711
+  },
+  {
+    "filename": "ia-batch7/youtube-vduqY9jIRXo.mp4",
+    "label": 67.2941176470588
+  },
+  {
+    "filename": "ia-batch7/2011_-_2012_Budget_Hearings_-_June_20_2011.mp4",
+    "label": 54.8055555555556
+  },
+  {
+    "filename": "ia-batch7/Tree_Planting_Celebration_Timelapse.mp4",
+    "label": 63.7027027027027
+  },
+  {
+    "filename": "ia-batch7/youtube-sCJrD1fVuEY.mp4",
+    "label": 60.257142857142895
+  },
+  {
+    "filename": "ia-batch7/archiveteam_videobot_twitter_com_578484985881051136.mp4",
+    "label": 56.3888888888889
+  },
+  {
+    "filename": "ia-batch7/02ED2.mp4",
+    "label": 45.257142857142895
+  },
+  {
+    "filename": "ia-batch7/f20110721mad.mp4",
+    "label": 53.79411764705879
+  },
+  {
+    "filename": "ia-batch7/Merrimack_Flooding_May_15_2006.mp4",
+    "label": 46.70588235294121
+  },
+  {
+    "filename": "ia-batch7/stltvmo-STL_LIVE_Back_to_School_Immunizations_1_of_2.mp4",
+    "label": 52.5135135135135
+  },
+  {
+    "filename": "ia-batch7/ShoutingBlueTiger-FourSealsOfBuddhismFour236-3.mp4",
+    "label": 57.5135135135135
+  },
+  {
+    "filename": "ia-batch7/Red_Lake_vs._Maranatha_State_Class_A_Boys_High_School_Basketball.mp4",
+    "label": 57.2162162162162
+  },
+  {
+    "filename": "ia-batch7/youtube-SZXY5990xZs.mp4",
+    "label": 68.8918918918919
+  },
+  {
+    "filename": "ia-batch7/f20110204mak.mp4",
+    "label": 53.6285714285714
+  },
+  {
+    "filename": "ia-batch7/School_Committee_Meeting_5_24_10_Part_8.mp4",
+    "label": 48.5135135135135
+  },
+  {
+    "filename": "ia-batch7/Coral_Gables_Now_February_2011_Part_1.mp4",
+    "label": 50.8055555555556
+  },
+  {
+    "filename": "ia-batch7/Training_Sales_Employees_10-14-16.mp4",
+    "label": 62.0810810810811
+  },
+  {
+    "filename": "ia-batch7/youtube-4vJioAZ1oIY.mp4",
+    "label": 54.8918918918919
+  },
+  {
+    "filename": "ia-batch7/ucberkeley_webcast_DbJ8hsfy4UU.mp4",
+    "label": 52.257142857142895
+  },
+  {
+    "filename": "ia-batch7/Selectmen_Meeting_3_17_08_Part_13.mp4",
+    "label": 41.55
+  },
+  {
+    "filename": "ia-batch7/Coral_Gables_Now_-_June_2009_Part_3_of_6.mp4",
+    "label": 60.3055555555556
+  },
+  {
+    "filename": "ia-batch7/3_of_6_-_Chicago_s_Transportation_Needs_and_Funding.mp4",
+    "label": 53.5833333333333
+  },
+  {
+    "filename": "ia-batch8/2010_Grand_Wine_and_Food_Affair.mp4",
+    "label": 53.1351351351352
+  },
+  {
+    "filename": "ia-batch8/cmntv18-Winter_2013_Wednesday_Class_Interview_Show.mp4",
+    "label": 61.405405405405396
+  },
+  {
+    "filename": "ia-batch8/tbcama-United_States_Flag_Day_Ceremony_at_Brockton_City_Hall_6-14-16.mp4",
+    "label": 76.73684210526321
+  },
+  {
+    "filename": "ia-batch8/cg_0258-Gary_Freeze_-_Downtowns_and_Malls_In_Catawba_County.mp4",
+    "label": 59.975609756097604
+  },
+  {
+    "filename": "ia-batch8/Somerset_Berkley_Regional_Building_Committee_-_June_24_2014.mp4",
+    "label": 59.538461538461505
+  },
+  {
+    "filename": "ia-batch8/cobrco-3_25_19_City_Council_Meeting.mp4",
+    "label": 50.6923076923077
+  },
+  {
+    "filename": "ia-batch8/Shaftsbury_Select_Board_-_8_3_15.mp4",
+    "label": 57.1463414634146
+  },
+  {
+    "filename": "ia-batch8/tr_p3d_060718_3200.mp4",
+    "label": 71.0
+  },
+  {
+    "filename": "ia-batch8/tv4satx-San_Antonio_Nuclear_Power_plant_Protest.mp4",
+    "label": 48.540540540540505
+  },
+  {
+    "filename": "ia-batch8/Meet_Your_NL_Chamber_Members_Medina_Dale_Readfield_Lions_Club.mp4",
+    "label": 69.030303030303
+  },
+  {
+    "filename": "ia-batch8/bliptv-20131013-172511-Bgrella-MakeABandsawTensionGauge635.mp4",
+    "label": 60.20588235294121
+  },
+  {
+    "filename": "ia-batch8/ccmky-Campbell_County_The_Road_Not_Taken_10_5_13.mp4",
+    "label": 41.030303030303
+  },
+  {
+    "filename": "ia-batch8/spanishrevolution-Manifestacion_detenidos_acampadavlc_09-06-2011-hQlbZRNdOg4.mp4.mp4",
+    "label": 55.5
+  },
+  {
+    "filename": "ia-batch8/Dog_Rescued_from_Las_Vegas_Strip_Hotel_Room.mp4",
+    "label": 56.0
+  },
+  {
+    "filename": "ia-batch8/VibrantGujaratUnheardVoices8.flv.mp4",
+    "label": 62.9459459459459
+  },
+  {
+    "filename": "ia-batch8/2017_World_Singles_Quoit_Championship_semi-finals_11-27-17.mp4",
+    "label": 48.25
+  },
+  {
+    "filename": "ia-batch8/cctv17vt-Vermonters_Protest_the_Visit_of_Former_Wisconson_Governor_Scott_Walker_5-30-2019.mp4",
+    "label": 59.777777777777786
+  },
+  {
+    "filename": "ia-batch8/Senior_Olympics_Rock_Norfolk_Virginia.mp4",
+    "label": 50.84375
+  },
+  {
+    "filename": "ia-batch8/TheBlackMommieDearest.mp4",
+    "label": 47.026315789473706
+  },
+  {
+    "filename": "ia-batch8/youtube-vzfOEzJlUhc.mp4",
+    "label": 48.4705882352941
+  },
+  {
+    "filename": "ia-batch8/What_s_New_9_23_15.mp4",
+    "label": 55.60526315789479
+  },
+  {
+    "filename": "ia-batch8/archiveteam_videobot_twitter_com_792815818161684480.mp4",
+    "label": 56.7272727272727
+  },
+  {
+    "filename": "ia-batch8/cg_0168-Mt_Airy_Senior_and_Community_Center_Tour.mp4",
+    "label": 64.0833333333333
+  },
+  {
+    "filename": "ia-batch8/MobilierFidle-TheAutomaticMovingCompany.mp4",
+    "label": 31.1176470588235
+  },
+  {
+    "filename": "ia-batch8/RHS_v_Innovation_Charter_01-04-2016_HIGHLIGHTS.mp4",
+    "label": 55.264705882352885
+  },
+  {
+    "filename": "ia-batch8/trio_interv.mp4",
+    "label": 70.2162162162162
+  },
+  {
+    "filename": "ia-batch8/bctvpa-Wounded_Warrior_Benefit_Dance_7-5-12.mp4",
+    "label": 46.71428571428571
+  },
+  {
+    "filename": "ia-batch8/youtube-MDv8gY3CyuY.mp4",
+    "label": 77.9722222222222
+  },
+  {
+    "filename": "ia-batch8/4_24_18_-_Commissioners_of_St._Mary_s_County_Business_Meeting.mp4",
+    "label": 63.184210526315795
+  },
+  {
+    "filename": "ia-batch8/Ste._Genevieve_Mo_Board_of_Aldermen_Regular_Session_6_25_15.mp4",
+    "label": 41.15
+  },
+  {
+    "filename": "ia-batch8/FckedUpDreams2011.mp4",
+    "label": 66.96875
+  },
+  {
+    "filename": "ia-batch8/youtube-QaT5qJCV32s.mp4",
+    "label": 42.71875
+  },
+  {
+    "filename": "ia-batch8/youtube-udXnduDdZo0.mp4",
+    "label": 43.222222222222214
+  },
+  {
+    "filename": "ia-batch8/Economic_Development_11sept17.mp4",
+    "label": 45.8
+  },
+  {
+    "filename": "ia-batch8/Fallen_Officer_Memorial_Service.mp4",
+    "label": 57.1944444444444
+  },
+  {
+    "filename": "ia-batch8/archiveteam_videobot_twitter_com_642488989446832128.mp4",
+    "label": 61.97368421052629
+  },
+  {
+    "filename": "ia-batch8/cocnc-Tree-Mendous_Tips_for_Tree_Pruning.mp4",
+    "label": 69.0
+  },
+  {
+    "filename": "ia-batch8/Amazing_Adventures_EP.5_-_Boundary_Waters_GoPro.mp4",
+    "label": 61.4166666666667
+  },
+  {
+    "filename": "ia-batch8/Best_of_the_STL_-_Community_Wellness.mp4",
+    "label": 51.15
+  },
+  {
+    "filename": "ia-batch8/The_App_Generation_-_Howard_Gardner.mp4",
+    "label": 81.94594594594591
+  },
+  {
+    "filename": "ia-batch8/Cable20100412.mp4",
+    "label": 50.20512820512821
+  },
+  {
+    "filename": "ia-batch8/cobmd-5Brenee1wmv_wmv.mp4",
+    "label": 47.1388888888889
+  },
+  {
+    "filename": "ia-batch8/NES_Longplay_323_Ghoul_School.mp4",
+    "label": 63.472222222222214
+  },
+  {
+    "filename": "ia-batch9/Arthur_Bloom_on_Citizen_Artists_--_Aspen_Institute_Arts_Program.mp4",
+    "label": 58.0833333333333
+  },
+  {
+    "filename": "ia-batch9/youtube-sOE0f5kX6Ng.mp4",
+    "label": 52.0
+  },
+  {
+    "filename": "ia-batch9/uptv6il-CU_Immigration_Forum_-_Episode_170.mp4",
+    "label": 64.0
+  },
+  {
+    "filename": "ia-batch9/paul_sarbannes_final.mp4",
+    "label": 69.18918918918922
+  },
+  {
+    "filename": "ia-batch9/archiveteam_videobot_twitter_com_690573340965224449.mp4",
+    "label": 52.5789473684211
+  },
+  {
+    "filename": "ia-batch9/Flickr-20789164014.mp4",
+    "label": 57.56756756756761
+  },
+  {
+    "filename": "ia-batch9/Council_December_16th_2019.mp4",
+    "label": 58.5135135135135
+  },
+  {
+    "filename": "ia-batch9/youtube-cHhrKR3yMfw.mp4",
+    "label": 55.5
+  },
+  {
+    "filename": "ia-batch9/Public_Works_Planning_Committee_-_May_5_2015.mp4",
+    "label": 58.11428571428571
+  },
+  {
+    "filename": "ia-batch9/The_Local_Live_216_-_Pets_of_the_Week_-_06_14_2018.mp4",
+    "label": 68.39473684210529
+  },
+  {
+    "filename": "ia-batch9/Recycle_Reward_Winners.mp4",
+    "label": 48.0882352941177
+  },
+  {
+    "filename": "ia-batch9/Polar_Plunge_2010.mov.mp4",
+    "label": 48.0
+  },
+  {
+    "filename": "ia-batch9/Pets_of_the_Week_4-8-18.mp4",
+    "label": 76.9189189189189
+  },
+  {
+    "filename": "ia-batch9/youtube-j-UVQWvY7Sk.mp4",
+    "label": 28.1666666666667
+  },
+  {
+    "filename": "ia-batch9/youtube-HTlc6WvUn1I.mp4",
+    "label": 52.3333333333333
+  },
+  {
+    "filename": "ia-batch9/youtube-cZcs-gJYOhU.mp4",
+    "label": 61.2
+  },
+  {
+    "filename": "ia-batch9/Whist.mp4",
+    "label": 61.3823529411765
+  },
+  {
+    "filename": "ia-batch9/coffeehouse_Stewart_Schwartz_135.mp4",
+    "label": 59.6944444444444
+  },
+  {
+    "filename": "ia-batch9/Special_Olympic_Surprise_for_Local_Athlete.mp4",
+    "label": 72.73684210526321
+  },
+  {
+    "filename": "ia-batch9/Sports_Jam_March_11_2013.mp4",
+    "label": 64.4571428571429
+  },
+  {
+    "filename": "ia-batch9/Demolition_Report.mp4",
+    "label": 54.7837837837838
+  },
+  {
+    "filename": "ia-batch9/tndcco-Salisbury_Equestrian_Park.mp4",
+    "label": 48.5
+  },
+  {
+    "filename": "ia-batch9/bptvpa-Memorial_Day_Parade_Cemetery_Ceremony_5_28_18.mp4",
+    "label": 48.2702702702703
+  },
+  {
+    "filename": "ia-batch9/ExplosionsNotFireBroughtWTC7Down..UndeniableEvidenceOfExplosions.mp4",
+    "label": 46.485714285714295
+  },
+  {
+    "filename": "ia-batch9/cogrmi-Part_II_-_High_water_levels_on_Grand_River_in_Grand_Rapids_MI_2_22_18.mp4",
+    "label": 76.054054054054
+  },
+  {
+    "filename": "ia-batch9/District_1_Supervisorial_Candidates_Statement_Santa_Cruz_County.mp4",
+    "label": 58.1944444444444
+  },
+  {
+    "filename": "ia-batch9/youtube-cCSlPvau6tU.mp4",
+    "label": 58.027777777777786
+  },
+  {
+    "filename": "ia-batch9/cocoh-CTV_News_Briefs_-_5th_Annual_KickButt_Columbus_cigarette_litter_cleanup_event.mp4",
+    "label": 50.1176470588235
+  },
+  {
+    "filename": "ia-batch9/21_This_Week_Panel_Discusses_Federal_Government_Shutdown.mp4",
+    "label": 63.027777777777786
+  },
+  {
+    "filename": "ia-batch9/The_Passion_of_our_Lord_Savior_Jesus_Christ_2013.mp4",
+    "label": 49.675675675675706
+  },
+  {
+    "filename": "ia-batch9/Corporal_Elmer_Richard_s_Funeral.mp4",
+    "label": 50.43243243243239
+  },
+  {
+    "filename": "ia-batch9/2014_Northwest_Park_Fair.mp4",
+    "label": 50.657894736842096
+  },
+  {
+    "filename": "ia-batch9/EVERYDAY_TITAN--February_13_2015--VALENTINE_S_DAY_SPECIAL.mp4",
+    "label": 54.894736842105296
+  },
+  {
+    "filename": "ia-batch9/VisionOntv-NeighbourhoodDestroyedByGentrification204.mp4",
+    "label": 60.189189189189214
+  },
+  {
+    "filename": "ia-batch9/Aurora_News_Weekly_-_10-30-12.mp4",
+    "label": 58.1666666666667
+  },
+  {
+    "filename": "ia-batch9/bratt2vt-BUHS-TV_2_28_12.mp4",
+    "label": 38.975
+  },
+  {
+    "filename": "ia-batch9/youtube-jSu8OUGCD28.mp4",
+    "label": 47.4
+  },
+  {
+    "filename": "ia-batch9/accsac2-Top_Plays_-_Bradshaw_Christian_at_Vista_del_Lago_in_Game_of_the_Week.mp4",
+    "label": 57.9166666666667
+  },
+  {
+    "filename": "ia-batch9/youtube-AUwbtG6z6pI.mp4",
+    "label": 56.25
+  },
+  {
+    "filename": "ia-batch9/SevenStringBarbedWireFenceWith100ThousandPoetsForChangeSanAntonio2017_201712.mp4",
+    "label": 53.6486486486487
+  },
+  {
+    "filename": "ia-batch9/NewPaperOnQuantumOpticsAndPlancksConstant.mp4",
+    "label": 64.14285714285711
+  },
+  {
+    "filename": "ia-batch9/wycemi-The_Muteflutes_-_Full_Set_WYCE_s_Jammies_2015.mp4",
+    "label": 67.0588235294118
+  },
+  {
+    "filename": "ia-batch10/coaltx-Alice_Natatorium_Opening.mp4",
+    "label": 54.5
+  },
+  {
+    "filename": "ia-batch10/AOC5Parish.mp4",
+    "label": 59.8529411764706
+  },
+  {
+    "filename": "ia-batch10/youtube-JsnJftMy9po.mp4",
+    "label": 61.5789473684211
+  },
+  {
+    "filename": "ia-batch10/pmpc-Kidz_Newz_Ibzmbjw6-Ig.mp4",
+    "label": 68.7894736842105
+  },
+  {
+    "filename": "ia-batch10/youtube-ExewcVwAKzA.mp4",
+    "label": 55.82857142857139
+  },
+  {
+    "filename": "ia-batch10/cocoh-Westgate_Community_Center_Groundbreaking.mp4",
+    "label": 59.864864864864906
+  },
+  {
+    "filename": "ia-batch10/youtube-vK0SvwmqZK8.mp4",
+    "label": 55.222222222222214
+  },
+  {
+    "filename": "ia-batch10/youtube-nBnTYORaE4M.mp4",
+    "label": 40.9444444444444
+  },
+  {
+    "filename": "ia-batch10/cg_0146-Smith_Gets_Pumped_for_Pink.mp4",
+    "label": 62.59459459459461
+  },
+  {
+    "filename": "ia-batch10/Community_Update_6_27_11.mp4",
+    "label": 48.736842105263214
+  },
+  {
+    "filename": "ia-batch10/NSDBea-BSCC06649.mp4",
+    "label": 57.3888888888889
+  },
+  {
+    "filename": "ia-batch10/youtube-IYjkwh-BxVM.mp4",
+    "label": 29.0277777777778
+  },
+  {
+    "filename": "ia-batch10/Boston_Neighborhood_Sports_-_3_23_15.mp4",
+    "label": 58.5428571428571
+  },
+  {
+    "filename": "ia-batch10/youtube-bjkZ8yYmnXA.mp4",
+    "label": 28.7297297297297
+  },
+  {
+    "filename": "ia-batch10/Scituate_Summer_Adventures_-_Knights_of_Columbus_Pool_Opening_Day.mp4",
+    "label": 61.0
+  },
+  {
+    "filename": "ia-batch10/youtube-DY4gnkfKbSo.mp4",
+    "label": 59.972222222222214
+  },
+  {
+    "filename": "ia-batch10/CELL_Redo_11_14_12.mp4",
+    "label": 47.6923076923077
+  },
+  {
+    "filename": "ia-batch10/electricsheep-flock-244-82500-1.mp4",
+    "label": 63.57142857142861
+  },
+  {
+    "filename": "ia-batch10/Pets_on_Parade_May_22_2019.mp4",
+    "label": 70.7777777777778
+  },
+  {
+    "filename": "ia-batch10/punkcast908206.mp4",
+    "label": 37.2
+  },
+  {
+    "filename": "ia-batch10/O_Fallon_s_Most_Wanted_6-1-18_O_Fallon_Missouri.mp4",
+    "label": 58.9230769230769
+  },
+  {
+    "filename": "ia-batch10/ALS_Ice_Bucket_Challenge_-_DCTV_s_Director_Diamond_Lewis.mp4",
+    "label": 50.7894736842105
+  },
+  {
+    "filename": "ia-batch10/ctv3in-Statehouse_Access_March_2015.mp4",
+    "label": 67.4444444444444
+  },
+  {
+    "filename": "ia-batch10/Adopt_A_Pet_-_Valentino_-_A073427.mp4",
+    "label": 73.5277777777778
+  },
+  {
+    "filename": "ia-batch10/Council_Resolution_Celebrating_50th_Anniversary_of_CCP_1-21-2016.mp4",
+    "label": 54.3714285714286
+  },
+  {
+    "filename": "ia-batch10/ToonTime.mp4",
+    "label": 42.1764705882353
+  },
+  {
+    "filename": "ia-batch10/Atlantic_Ave._Drain_Project_Update_-_August_16_2013.mp4",
+    "label": 66.88571428571429
+  },
+  {
+    "filename": "ia-batch10/youtube-p5wUtd5C4gQ.mp4",
+    "label": 71.8611111111111
+  },
+  {
+    "filename": "ia-batch10/tvce1qc-Programme_d_aide_financiere_pour_la_plantation_d_arbres_a_Plessisville.mp4",
+    "label": 65.1388888888889
+  },
+  {
+    "filename": "ia-batch10/Second_Chance_Animal_Center_-_Pets_of_the_Week_-_5_15_17_Long.mp4",
+    "label": 68.2162162162162
+  },
+  {
+    "filename": "ia-batch10/youtube-72w0f-Ipc6Q.mp4",
+    "label": 62.0555555555556
+  },
+  {
+    "filename": "ia-batch10/New_Business_Part_02_091311.mp4",
+    "label": 60.027777777777786
+  },
+  {
+    "filename": "ia-batch10/Arts_and_Entertainment_10_4_13.mp4",
+    "label": 63.23076923076921
+  },
+  {
+    "filename": "ia-batch10/Aldeadle-HannuTakkulaOnExplanationsOfVoteII631.mp4",
+    "label": 57.4166666666667
+  },
+  {
+    "filename": "ia-batch10/OCTV_New_Phantom_Drone_-_Oxford_History_Facts.mp4",
+    "label": 74.7105263157895
+  },
+  {
+    "filename": "ia-batch10/youtube-h_R6BGO3ucg.mp4",
+    "label": 60.4864864864865
+  },
+  {
+    "filename": "ia-batch10/Andre_Le_Chef_-_Sept_2012.mp4",
+    "label": 57.3589743589744
+  },
+  {
+    "filename": "ia-batch10/fcatma-Sunderland_Selectboard_-_October_21_2019.mp4",
+    "label": 58.20512820512821
+  },
+  {
+    "filename": "ia-batch10/5BANNEDDisturbingUNEXPECTEDMomentsInKidsShows.mp4",
+    "label": 54.2105263157895
+  },
+  {
+    "filename": "ia-batch10/youtube-CeGWnEdoHhE.mp4",
+    "label": 49.722222222222214
+  },
+  {
+    "filename": "ia-batch10/youtube-XoEpzCYGQoM.mp4",
+    "label": 36.435897435897395
+  },
+  {
+    "filename": "ia-batch10/bliptv-20131011-180723-Alanm321-MitchDanielsTooMuchRegulationParalyzingUSEconomy263.mp4",
+    "label": 61.28571428571429
+  },
+  {
+    "filename": "ia-batch10/STL_LIVE_National_Preparedness_Month_1_of_2.mp4",
+    "label": 66.95
+  },
+  {
+    "filename": "ia-batch10/Black_Red_Blitz_6_16_17.mp4",
+    "label": 73.8205128205128
+  },
+  {
+    "filename": "ia-batch11/American_Rover_Kid_Cruises.mp4",
+    "label": 55.842105263157904
+  },
+  {
+    "filename": "ia-batch11/ucberkeley_webcast_07BJiMIJZqo.mp4",
+    "label": 57.94117647058821
+  },
+  {
+    "filename": "ia-batch11/youtube-n11lp1D1Mkw.mp4",
+    "label": 31.3823529411765
+  },
+  {
+    "filename": "ia-batch11/youtube-OXtdQo6hhhk.mp4",
+    "label": 45.5
+  },
+  {
+    "filename": "ia-batch11/Podcast100FelizNavidadYFeliz2018ArdForEver.mp4",
+    "label": 53.7894736842105
+  },
+  {
+    "filename": "ia-batch11/West_Bank_Tour_Part_II.mp4",
+    "label": 48.6470588235294
+  },
+  {
+    "filename": "ia-batch11/youtube-WNuA9ybj9-M.mp4",
+    "label": 50.405405405405396
+  },
+  {
+    "filename": "ia-batch11/2013_Tree_Lighting_Mountain_View.mp4",
+    "label": 52.846153846153896
+  },
+  {
+    "filename": "ia-batch11/youtube-FGT6xOaY-fc.mp4",
+    "label": 43.5135135135135
+  },
+  {
+    "filename": "ia-batch11/Abington_Mayor_For_A_Day_Contest_5-8-12.mp4",
+    "label": 56.027027027026996
+  },
+  {
+    "filename": "ia-batch11/Waupaca_Senior_Center_-_Caring_for_you_-_Massage_and_Herbal_Supplements.mp4",
+    "label": 52.71428571428571
+  },
+  {
+    "filename": "ia-batch11/01TheGrandManeuvers.mp4",
+    "label": 54.6486486486487
+  },
+  {
+    "filename": "ia-batch11/youtube-sRaSU0fVFtg.mp4",
+    "label": 52.82352941176471
+  },
+  {
+    "filename": "ia-batch11/Bowls_for_Hunger_2012.mp4",
+    "label": 54.29411764705879
+  },
+  {
+    "filename": "ia-batch11/2014_Sports_Jam_Boys_Basketball_Team_-.mp4",
+    "label": 57.3611111111111
+  },
+  {
+    "filename": "ia-batch11/stltvmo-STL_LIVE_St_Louis_Teen_Talent_Competition_2_of_2.mp4",
+    "label": 60.0833333333333
+  },
+  {
+    "filename": "ia-batch11/New_Ice_Rink.mp4",
+    "label": 56.0285714285714
+  },
+  {
+    "filename": "ia-batch11/youtube-3RMJwwl0h0U.mp4",
+    "label": 32.314285714285695
+  },
+  {
+    "filename": "ia-batch11/Ballgame.mp4",
+    "label": 62.8484848484849
+  },
+  {
+    "filename": "ia-batch11/The_Westchester_Humane_Society.mp4",
+    "label": 66.6388888888889
+  },
+  {
+    "filename": "ia-batch11/youtube-F_uuNA_sLfE.mp4",
+    "label": 40.5588235294118
+  },
+  {
+    "filename": "ia-batch11/archiveteam_videobot_twitter_com_724610033799974912.mp4",
+    "label": 69.0555555555556
+  },
+  {
+    "filename": "ia-batch11/youtube-8DU5Z75vZiw.mp4",
+    "label": 55.0
+  },
+  {
+    "filename": "ia-batch11/youtube-ufieeFcZqdc.mp4",
+    "label": 62.157894736842096
+  },
+  {
+    "filename": "ia-batch11/Saint_Louis_Cardinals_Opening_Day_2011v2.mp4",
+    "label": 56.9166666666667
+  },
+  {
+    "filename": "ia-batch11/alpcmi-LaPorte_Board_of_Public_Works_and_Safety_5-8-19.mp4",
+    "label": 65.8787878787879
+  },
+  {
+    "filename": "ia-batch11/Discover_Community_Development_2-24-2012.mp4",
+    "label": 67.14705882352939
+  },
+  {
+    "filename": "ia-batch11/MWIR_1041_Graduates_and_work_05_10_2012.mp4",
+    "label": 60.6
+  },
+  {
+    "filename": "ia-batch11/archiveteam_videobot_twitter_com_732586796547104769.mp4",
+    "label": 67.6666666666667
+  },
+  {
+    "filename": "ia-batch11/youtube-P1i5W07UDhQ.mp4",
+    "label": 46.7714285714286
+  },
+  {
+    "filename": "ia-batch11/EberbachAmNeckar.mp4",
+    "label": 69.71428571428571
+  },
+  {
+    "filename": "ia-batch11/Recycling_is_Easy.mp4",
+    "label": 49.428571428571395
+  },
+  {
+    "filename": "ia-batch11/toothpiccreation.mp4",
+    "label": 61.9189189189189
+  },
+  {
+    "filename": "ia-batch11/Peanut_Butter_Salmonella_Scare.mp4",
+    "label": 51.2972972972973
+  },
+  {
+    "filename": "ia-batch11/ALL_ABOUT_BOOKS_6_20_17.mp4",
+    "label": 58.57142857142861
+  },
+  {
+    "filename": "ia-batch11/cocnc-Runway_5K_Run.mp4",
+    "label": 66.85714285714289
+  },
+  {
+    "filename": "ia-batch11/youtube-uCa9C5VRGrk.mp4",
+    "label": 59.2894736842105
+  },
+  {
+    "filename": "ia-batch11/Montgomery_County_Silver_Spring_Swings_Concerts_July_13.mp4",
+    "label": 61.4571428571429
+  },
+  {
+    "filename": "ia-batch11/2014_Calaveras_County_Superior_Court_Judge_Candidates_Department_Two.mp4",
+    "label": 64.9117647058823
+  },
+  {
+    "filename": "ia-batch11/Conversation_With_Caleb_Carver.mp4",
+    "label": 79.97142857142859
+  },
+  {
+    "filename": "ia-batch11/MusicalChairs.GUNPLAEtcBusouShinkiMicroman.mp4",
+    "label": 61.2
+  },
+  {
+    "filename": "ia-batch11/D1_Boys_400_Free_Relay_Heat_2.mp4",
+    "label": 64.15151515151521
+  },
+  {
+    "filename": "ia-batch11/Stillwater_s_Summer_Tuesdays_7_15_14_Moors_McCumber.mp4",
+    "label": 77.25
+  },
+  {
+    "filename": "ia-batch12/cogco-Learn_More_About_Greeley_Sales_Use_Tax.mp4",
+    "label": 53.1212121212121
+  },
+  {
+    "filename": "ia-batch12/Terry_Tuma_Tip_-_crankbaits_for_walleyes.mp4",
+    "label": 69.4411764705882
+  },
+  {
+    "filename": "ia-batch12/youtube-Io1ZOvHUlVU.mp4",
+    "label": 76.3030303030303
+  },
+  {
+    "filename": "ia-batch12/youtube-qsA8qh9TAaQ.mp4",
+    "label": 47.5
+  },
+  {
+    "filename": "ia-batch12/youtube-DLXiFItLxAU.mp4",
+    "label": 56.212121212121204
+  },
+  {
+    "filename": "ia-batch12/archiveteam_videobot_twitter_com_754086295186661376.mp4",
+    "label": 48.914285714285704
+  },
+  {
+    "filename": "ia-batch12/ucberkeley_webcast_-lyAtGCjC9c.mp4",
+    "label": 46.157894736842096
+  },
+  {
+    "filename": "ia-batch12/dalma-Stretch.mp4",
+    "label": 58.485714285714295
+  },
+  {
+    "filename": "ia-batch12/blmtwpmiv-James_Robert_Redford_Mike_McCready_and_Lisa_Langton.mp4",
+    "label": 65.5
+  },
+  {
+    "filename": "ia-batch12/youtube-aoxG5-chXxA.mp4",
+    "label": 56.55882352941179
+  },
+  {
+    "filename": "ia-batch12/MFRD_Trained_Paramedics_Newsbreak.mp4",
+    "label": 77.2727272727273
+  },
+  {
+    "filename": "ia-batch12/youtube-mRBwwkySqxk.mp4",
+    "label": 51.485714285714295
+  },
+  {
+    "filename": "ia-batch12/ccpania-5_13_19_BOE.mp4",
+    "label": 52.7575757575758
+  },
+  {
+    "filename": "ia-batch12/youtube-xfysGN68BS0.mp4",
+    "label": 52.5428571428571
+  },
+  {
+    "filename": "ia-batch12/Finance_Committee_-_January_25th_2016.mp4",
+    "label": 54.875
+  },
+  {
+    "filename": "ia-batch12/2017_Bunny_Bop_Promo.mp4",
+    "label": 71.3428571428571
+  },
+  {
+    "filename": "ia-batch12/youtube-2lixNOq5B9M.mp4",
+    "label": 49.0571428571429
+  },
+  {
+    "filename": "ia-batch12/Arlington_Community_Preservation_Act_-_Part_4.mp4",
+    "label": 76.91428571428571
+  },
+  {
+    "filename": "ia-batch12/The_People_s_Clerk_-_August_2013.mp4",
+    "label": 64.70270270270271
+  },
+  {
+    "filename": "ia-batch12/3073_058_VietnameseandNashville_EP58_AdultChristmasSongs_Dec13_Jan3_13.mp4",
+    "label": 51.184210526315795
+  },
+  {
+    "filename": "ia-batch12/Business_Spotlight_-_Inland_Arts_and_Graphics.mp4",
+    "label": 63.184210526315795
+  },
+  {
+    "filename": "ia-batch12/Pitkin_County_Healthy_Rivers_Whitewater_Feature_Construction_5.mp4",
+    "label": 76.9428571428571
+  },
+  {
+    "filename": "ia-batch12/youtube-c5w7cxc9kuY.mp4",
+    "label": 56.4
+  },
+  {
+    "filename": "ia-batch12/Wsw_Walk_Prom_30_1.mp4",
+    "label": 51.3888888888889
+  },
+  {
+    "filename": "ia-batch12/twitter-1203560870212562947.mp4",
+    "label": 80.30555555555559
+  },
+  {
+    "filename": "ia-batch12/CMAC_n_with_Jimmy_O_-_Part_1.mp4",
+    "label": 60.4117647058824
+  },
+  {
+    "filename": "ia-batch12/coffeehouse_David_Rocah_138.mp4",
+    "label": 65.1666666666667
+  },
+  {
+    "filename": "ia-batch12/electricsheep-flock-244-57500-4.mp4",
+    "label": 68.0
+  },
+  {
+    "filename": "ia-batch12/SCVTV.com_1949_Winged_Victory_On_Foot_-_The_43rd_Infantry_Division_Battleground_Ep._7b.mp4",
+    "label": 37.054054054054106
+  },
+  {
+    "filename": "ia-batch12/Quinn_Cook_Basketball_Camp.mp4",
+    "label": 50.0
+  },
+  {
+    "filename": "ia-batch12/bliptv-20131013-074020-Apex81-MacgasmQTweeterIsPrettySweet471.mp4",
+    "label": 55.421052631579
+  },
+  {
+    "filename": "ia-batch12/Tampa_Bay_Insiders_-_Linda_Saul-Sena.mp4",
+    "label": 63.11428571428571
+  },
+  {
+    "filename": "ia-batch12/Anti-Trafficking_Training_Launch_-_Part_I.mp4",
+    "label": 48.2068965517241
+  },
+  {
+    "filename": "ia-batch12/30_Minutes_with_Special_Guest_Bill_Ronayne_of_the_Mario_Lanza_Institute.mp4",
+    "label": 60.0285714285714
+  },
+  {
+    "filename": "ia-batch12/RockTalk_1_-_Sandstone.mp4",
+    "label": 60.0571428571429
+  },
+  {
+    "filename": "ia-batch12/Cracking_Down_on_Online_Drug_Sales.mp4",
+    "label": 61.1428571428571
+  },
+  {
+    "filename": "ia-batch12/youtube-Rd36RWiPfr0.mp4",
+    "label": 75.02564102564101
+  },
+  {
+    "filename": "ia-batch12/Soapbox_March_13_2014.mp4",
+    "label": 57.3055555555556
+  },
+  {
+    "filename": "ia-batch12/2013_Revere_Beach_Sand_Sculpting_Festival_July_17_update_full_show.mp4",
+    "label": 68.4
+  },
+  {
+    "filename": "ia-batch12/El_Nino_Preparations_Madrona_Marsh_-_Torrance_CitiCABLE_PSA.mp4",
+    "label": 69.0909090909091
+  },
+  {
+    "filename": "ia-batch12/youtube-Tfn0q2FjJQ0.mp4",
+    "label": 50.777777777777786
+  },
+  {
+    "filename": "ia-batch12/Senior_Scene_11.12_-_Multi-Generational_Living_-_Torrance_CitiCABLE_-_November_2012.mp4",
+    "label": 66.9117647058823
+  },
+  {
+    "filename": "ia-batch12/NES_Longplay_394_Milons_Secret_Castle.mp4",
+    "label": 68.9166666666667
+  },
+  {
+    "filename": "ia-batch12/Crotch_Launch_animation_test_2.mp4",
+    "label": 64.53125
+  },
+  {
+    "filename": "ia-batch13/18_Holes_of_Fun.mp4",
+    "label": 58.3783783783784
+  },
+  {
+    "filename": "ia-batch13/facebook-1913837282193438.mp4",
+    "label": 55.9166666666667
+  },
+  {
+    "filename": "ia-batch13/youtube-iWhYjokbyd0.mp4",
+    "label": 58.1428571428571
+  },
+  {
+    "filename": "ia-batch13/archiveteam_videobot_twitter_com_787943382341545984.mp4",
+    "label": 60.684210526315795
+  },
+  {
+    "filename": "ia-batch13/Washington_Spirit_Stop_Play_During_49th_Minute_of_Orlando_Pride_Game.mp4",
+    "label": 63.857142857142804
+  },
+  {
+    "filename": "ia-batch13/Rec_Room_-_North_Fulton_Libraries.mp4",
+    "label": 57.88571428571429
+  },
+  {
+    "filename": "ia-batch13/Stillwater_vs_Hastings_Softball_Highlights_-_May_16_2018.mp4",
+    "label": 70.2631578947369
+  },
+  {
+    "filename": "ia-batch13/cosmca-Sustainable_Works_10th_Annual_Poster_Contest.mp4",
+    "label": 79.4210526315789
+  },
+  {
+    "filename": "ia-batch13/Cruise_Night_D_Arcy_Buick_GMC_Dealership._Joliet_Illinois.mp4",
+    "label": 50.5526315789474
+  },
+  {
+    "filename": "ia-batch13/Buttonwood_Park_Walk_Hoopla.mp4",
+    "label": 55.68571428571429
+  },
+  {
+    "filename": "ia-batch13/conmi-After_The_Gavel_-_April_23_2018.mp4",
+    "label": 80.44736842105259
+  },
+  {
+    "filename": "ia-batch13/Flickr-34963850412.mp4",
+    "label": 64.4210526315789
+  },
+  {
+    "filename": "ia-batch13/wgtvct-Throwback_Tracks_-_Crossings_Video_Magazine_1983.mp4",
+    "label": 41.075
+  },
+  {
+    "filename": "ia-batch13/youtube-UeWIFasM-kI.mp4",
+    "label": 47.8684210526316
+  },
+  {
+    "filename": "ia-batch13/Capitals_Victory_Parade.mp4",
+    "label": 55.675675675675706
+  },
+  {
+    "filename": "ia-batch13/NRHA_-_Staying_The_Course.mp4",
+    "label": 74.45714285714291
+  },
+  {
+    "filename": "ia-batch13/01KamenRider16.mp4",
+    "label": 73.3421052631579
+  },
+  {
+    "filename": "ia-batch13/2018-03-12_Hingham_School_Committee.mp4",
+    "label": 52.5853658536586
+  },
+  {
+    "filename": "ia-batch13/MITPE.810S07.mp4",
+    "label": 52.0833333333333
+  },
+  {
+    "filename": "ia-batch13/At_Your_Library_-_Concert_on_the_Lawn_-_Sweet_Wednesday.mp4",
+    "label": 58.0
+  },
+  {
+    "filename": "ia-batch13/Congestion_Hot_Spot_Program_Newsbreak.mp4",
+    "label": 79.6111111111111
+  },
+  {
+    "filename": "ia-batch13/BliptvLearningCenter-ComedyHaydenBlackGoodNightBurbank996.mp4",
+    "label": 59.810810810810786
+  },
+  {
+    "filename": "ia-batch13/tndcco-KidsTalk_-_Devil_s_Head_part_4.mp4",
+    "label": 61.0555555555556
+  },
+  {
+    "filename": "ia-batch13/NCC_Performs_Cats.mp4",
+    "label": 59.487179487179496
+  },
+  {
+    "filename": "ia-batch13/ode_to_joy_video.mp4",
+    "label": 58.472222222222214
+  },
+  {
+    "filename": "ia-batch13/PAC_14_Salisbury_Md_Mayor_Jim_Ireton_-_April_29_2015_Press_Conference.mp4",
+    "label": 47.684210526315795
+  },
+  {
+    "filename": "ia-batch13/youtube-uoF8K7jgCHo.mp4",
+    "label": 63.1081081081081
+  },
+  {
+    "filename": "ia-batch13/cohca-Sports_Corner_-_West_Torrance_vs_Leuzinger_Boys_Basketball_2_6_18.mp4",
+    "label": 82.5
+  },
+  {
+    "filename": "ia-batch13/ahmedshowsartoftalentofkillingandhiredforpaytokillingeniesworldbillionsofisraeli.mp4",
+    "label": 53.472222222222214
+  },
+  {
+    "filename": "ia-batch13/Election_Calaveras_2018_Supervisorial_District_PATV_Studio_Debate_4_24_2018.mp4",
+    "label": 58.9189189189189
+  },
+  {
+    "filename": "ia-batch13/Anna_Deavere_Smith_Offers_an_Artistic_Interlude_2007.mp4",
+    "label": 44.96875
+  },
+  {
+    "filename": "ia-batch13/f20110530mad.mp4",
+    "label": 51.3783783783784
+  },
+  {
+    "filename": "ia-batch13/FallbackVideoByG.mp4",
+    "label": 51.3611111111111
+  },
+  {
+    "filename": "ia-batch13/youtube-moUxrrcGsJc.mp4",
+    "label": 58.459459459459495
+  },
+  {
+    "filename": "ia-batch13/youtube-83oK5JEu6gs.mp4",
+    "label": 58.20588235294121
+  },
+  {
+    "filename": "ia-batch13/BoomGenTV-BGTVDailyEpisode7IsIranImmuneToSanctions512.mp4",
+    "label": 59.43243243243239
+  },
+  {
+    "filename": "ia-batch13/youtube-r3lOsfdUhFE.mp4",
+    "label": 54.75
+  },
+  {
+    "filename": "ia-batch13/Northshire_Merger_Study_Committee_09.29.16.mp4",
+    "label": 63.1212121212121
+  },
+  {
+    "filename": "ia-batch13/So_Much_For_Seniors_Season_2_Episode_1.mp4",
+    "label": 47.6285714285714
+  },
+  {
+    "filename": "ia-batch13/New_Disc_Golf_Feature_at_Dewey_Park.mp4",
+    "label": 68.3684210526316
+  },
+  {
+    "filename": "ia-batch13/Comicweb-BrickBradfordMovieSerialChapter1Of15799-2.mp4",
+    "label": 49.9428571428571
+  },
+  {
+    "filename": "ia-batch13/AskPlano_Episode_13_Road_Repairs.mp4",
+    "label": 78.10526315789471
+  },
+  {
+    "filename": "ia-batch13/youtube-tP_1z9ktX0k.mp4",
+    "label": 57.236842105263214
+  },
+  {
+    "filename": "ia-batch14/San_Joaquin_Spotlight_-_Kayla_Wilson.mp4",
+    "label": 74.3939393939394
+  },
+  {
+    "filename": "ia-batch14/2013_HARTFORD_FIRE_DEPT_PROMOTIONS.mp4",
+    "label": 68.3888888888889
+  },
+  {
+    "filename": "ia-batch14/Culture_Vultures_-_Tampa_s_Public_Art_Photographer_Laureate_Programs.mp4",
+    "label": 59.56756756756761
+  },
+  {
+    "filename": "ia-batch14/The_Kween_s_Roundtable_-_Episode_8.mp4",
+    "label": 59.322580645161295
+  },
+  {
+    "filename": "ia-batch14/Two_New_Businesses_in_Wright-Dunbar.mp4",
+    "label": 59.540540540540505
+  },
+  {
+    "filename": "ia-batch14/youtube-DEOKPDJ4AOg.mp4",
+    "label": 53.43243243243239
+  },
+  {
+    "filename": "ia-batch14/Zoning_Board_of_Appeals_-_August_20_2015.mp4",
+    "label": 52.263157894736786
+  },
+  {
+    "filename": "ia-batch14/A_Tribute_to_Bert_Muhly.mp4",
+    "label": 56.2972972972973
+  },
+  {
+    "filename": "ia-batch14/New_Hope_photographer_captures_story_behind_old_buildings.mp4",
+    "label": 52.3529411764706
+  },
+  {
+    "filename": "ia-batch14/pandatv23ny-Judge_Jonah_Triebwasser_for_Red_Hook_Town_Justice.mp4",
+    "label": 53.7567567567568
+  },
+  {
+    "filename": "ia-batch14/Square_Dance_Live_-_Episode_22.mp4",
+    "label": 40.945945945945894
+  },
+  {
+    "filename": "ia-batch14/wrokmi-Police_Chase_in_Royal_Oak.mp4",
+    "label": 74.3529411764706
+  },
+  {
+    "filename": "ia-batch14/FelixTheCat-AllBalledUp.mp4",
+    "label": 45.4848484848485
+  },
+  {
+    "filename": "ia-batch14/ucberkeley_webcast_bzDlbvrFjc4.mp4",
+    "label": 55.342105263157904
+  },
+  {
+    "filename": "ia-batch14/bctvpa-RSD_Board_of_Directors_candidate_Becky_Ellis.mp4",
+    "label": 71.8421052631579
+  },
+  {
+    "filename": "ia-batch14/youtube-hy_XWLsDhIE.mp4",
+    "label": 48.5428571428571
+  },
+  {
+    "filename": "ia-batch14/SMCHD_8_6_14_-_San_Mateo_County_Harbor_District_Meeting_-_August_6_2014.mp4",
+    "label": 53.81578947368421
+  },
+  {
+    "filename": "ia-batch14/STL_TV_LIVE_-_Mrs_Independent_2_of_2.mp4",
+    "label": 55.257142857142895
+  },
+  {
+    "filename": "ia-batch14/Summer_Reading_Program..mp4",
+    "label": 78.8888888888889
+  },
+  {
+    "filename": "ia-batch14/ehmma-Southampton_2_11_14.mp4",
+    "label": 55.7567567567568
+  },
+  {
+    "filename": "ia-batch14/002Autumn.mp4",
+    "label": 53.85
+  },
+  {
+    "filename": "ia-batch14/Bellevue_College_-_Issaquah_Campus_Flyover.mp4",
+    "label": 55.972972972973004
+  },
+  {
+    "filename": "ia-batch14/youtube-wL4wZMmbVdc.mp4",
+    "label": 67.3783783783784
+  },
+  {
+    "filename": "ia-batch14/youtube-hBMtA3glqL4.mp4",
+    "label": 48.71875
+  },
+  {
+    "filename": "ia-batch14/2014_Forest_Lake_High_School_FFA_Open_House.mp4",
+    "label": 47.23076923076921
+  },
+  {
+    "filename": "ia-batch14/youtube-AmF8BClFXeI.mp4",
+    "label": 69.5294117647059
+  },
+  {
+    "filename": "ia-batch14/World_Beat_2011_-_Hafla_Dancer_with_Americanistan_2.mp4",
+    "label": 58.257142857142895
+  },
+  {
+    "filename": "ia-batch14/youtube-1UQjbS3agRQ.mp4",
+    "label": 70.1944444444444
+  },
+  {
+    "filename": "ia-batch14/bevcamma-Angie_Miller_-_God_Bless_America.mp4",
+    "label": 42.974358974359
+  },
+  {
+    "filename": "ia-batch14/2012_-_2013_-_City_of_Allen_Year_in_Review.mp4",
+    "label": 69.2285714285714
+  },
+  {
+    "filename": "ia-batch14/absinthecad.mp4",
+    "label": 67.69230769230771
+  },
+  {
+    "filename": "ia-batch14/electricsheep-flock-244-0-3.mp4",
+    "label": 73.0
+  },
+  {
+    "filename": "ia-batch14/Dodgeball_-_Game_2.mp4",
+    "label": 59.9428571428571
+  },
+  {
+    "filename": "ia-batch14/2012_Illinois_Legislative_Softball_Game.mp4",
+    "label": 46.461538461538495
+  },
+  {
+    "filename": "ia-batch14/2013_Plant-A-Tree_Month.mp4",
+    "label": 45.051282051281994
+  },
+  {
+    "filename": "ia-batch14/Amp_It_Up_24_featuring_Slow_Spokes.mp4",
+    "label": 66.3783783783784
+  },
+  {
+    "filename": "ia-batch14/youtube-Phn0KSuT_Lk.mp4",
+    "label": 28.138888888888893
+  },
+  {
+    "filename": "ia-batch14/necvtv-Turkey_Legs_Osso_Bucco_269.mp4",
+    "label": 58.763157894736786
+  },
+  {
+    "filename": "ia-batch14/Easter_Egg_Hunt.mp4",
+    "label": 53.3333333333333
+  },
+  {
+    "filename": "ia-batch14/vf_sodadrinkerprosss_1800.mp4",
+    "label": 62.8888888888889
+  },
+  {
+    "filename": "ia-batch14/ectpa-Lackawanna_County_Salary_Board_October_3_2018.mp4",
+    "label": 57.027777777777786
+  },
+  {
+    "filename": "ia-batch14/ExposingTheSatanicWeb1990VHSSatanicPanic.mp4",
+    "label": 44.657894736842096
+  },
+  {
+    "filename": "ia-batch14/Doll_Circus.mp4",
+    "label": 56.43243243243239
+  },
+  {
+    "filename": "ia-batch15/Burning_Issues_October_2013.mp4",
+    "label": 57.7714285714286
+  },
+  {
+    "filename": "ia-batch15/SGHS_Homecoming_Parade10_02_15.mp4",
+    "label": 54.625
+  },
+  {
+    "filename": "ia-batch15/youtube-PBrI-HvcAd4.mp4",
+    "label": 51.8181818181818
+  },
+  {
+    "filename": "ia-batch15/PCN_Whole_Episode_5-22-14.mp4",
+    "label": 66.1666666666667
+  },
+  {
+    "filename": "ia-batch15/colrar-Therapuetic_Recreation_Christmas_2018.mp4",
+    "label": 59.222222222222214
+  },
+  {
+    "filename": "ia-batch15/Pupia-FirenzeOperazioneAcaroVenditaPortaAPortaDiAspirapolvere482-2.mp4",
+    "label": 60.0285714285714
+  },
+  {
+    "filename": "ia-batch15/cpaz-2019_Phoenix_Employee_Memorial_Ceremony.mp4",
+    "label": 75.969696969697
+  },
+  {
+    "filename": "ia-batch15/youtube-cXoLK4d1Kyg.mp4",
+    "label": 34.2222222222222
+  },
+  {
+    "filename": "ia-batch15/Old_Business_Part_03_061212.mp4",
+    "label": 57.88571428571429
+  },
+  {
+    "filename": "ia-batch15/pmca-NewsRap_-_August_9_2019.mp4",
+    "label": 79.1842105263158
+  },
+  {
+    "filename": "ia-batch15/7_on_7_prep_passing_league_keeps_skills_sharp.mp4",
+    "label": 59.085714285714296
+  },
+  {
+    "filename": "ia-batch15/Flickr-18382398860.mp4",
+    "label": 56.1944444444444
+  },
+  {
+    "filename": "ia-batch15/World_Beat_2012_Mexico_en_la_piel_9.mp4",
+    "label": 61.24324324324329
+  },
+  {
+    "filename": "ia-batch15/youtube-Gi31ZPQOik0.mp4",
+    "label": 57.222222222222214
+  },
+  {
+    "filename": "ia-batch15/Real_or_Rumor_-_Edition_15.mp4",
+    "label": 62.189189189189214
+  },
+  {
+    "filename": "ia-batch15/accsac-Keith_Bachmann_-_Access_Sacramento.mp4",
+    "label": 47.9459459459459
+  },
+  {
+    "filename": "ia-batch15/ucberkeley_webcast_tfTD0B8dX7I.mp4",
+    "label": 58.75
+  },
+  {
+    "filename": "ia-batch15/youtube-8lJUquoJDvQ.mp4",
+    "label": 54.7714285714286
+  },
+  {
+    "filename": "ia-batch15/bliptv-20131012-221132-711yuri-711RTRDay16Finale180.mp4",
+    "label": 71.4722222222222
+  },
+  {
+    "filename": "ia-batch15/nwctc-Wayzata_Eliminates_Armstrong_In_6AAAA_Softball.mp4",
+    "label": 68.0833333333333
+  },
+  {
+    "filename": "ia-batch15/youtube-VEp07Q-t4KI.mp4",
+    "label": 62.25
+  },
+  {
+    "filename": "ia-batch15/am-Amherst_Planning_Board_-_7-9-14.mp4",
+    "label": 65.37142857142861
+  },
+  {
+    "filename": "ia-batch15/Movember_-_Conversations_About_Health_Starting_At_The_Mo.mp4",
+    "label": 64.4411764705882
+  },
+  {
+    "filename": "ia-batch15/PCN_A_E_Priscilla_Beach_Theatre_Love_Letters.mp4",
+    "label": 57.027027027026996
+  },
+  {
+    "filename": "ia-batch15/cobmd-CH_Rm_243.mp4",
+    "label": 60.5151515151515
+  },
+  {
+    "filename": "ia-batch15/Waterloo_City_Council_Meeting_-_Monday_July_7.mp4",
+    "label": 57.47368421052629
+  },
+  {
+    "filename": "ia-batch15/youtube-70j1LOzaPW0.mp4",
+    "label": 50.74285714285711
+  },
+  {
+    "filename": "ia-batch15/ehmma-Soho_1_14_14_1.mp4",
+    "label": 51.53125
+  },
+  {
+    "filename": "ia-batch15/rbtvil-Rep._Professional_Development_Summary_01-22-19.mp4",
+    "label": 47.59459459459461
+  },
+  {
+    "filename": "ia-batch15/Dog_of_the_Week_-_Jelly_Bean_the_Miniature_Pinscher_Mix.mp4",
+    "label": 75.3333333333333
+  },
+  {
+    "filename": "ia-batch15/Rainbow_Bridge_covers_Working_for_A_Living_-_July_20_2013.mp4",
+    "label": 77.8
+  },
+  {
+    "filename": "ia-batch15/waya72913.mp4",
+    "label": 29.888888888888893
+  },
+  {
+    "filename": "ia-batch15/Board_of_Selectmen_6_23_15.mp4",
+    "label": 49.133333333333304
+  },
+  {
+    "filename": "ia-batch15/Oshkosh_Today_December_4_2013.mp4",
+    "label": 59.3333333333333
+  },
+  {
+    "filename": "ia-batch15/12_News_July_12_2016.mp4",
+    "label": 62.4166666666667
+  },
+  {
+    "filename": "ia-batch15/City_Commission_Meeting_9-16-15.mp4",
+    "label": 46.428571428571395
+  },
+  {
+    "filename": "ia-batch15/cotga-Tucker_FUMC_Preschool_Parade_of_Nations_January_26_2017.mp4",
+    "label": 50.0294117647059
+  },
+  {
+    "filename": "ia-batch15/bliptv-20131104-221741-Black5video-AllAboardSearchForNarrowGaugeMikados375.mp4",
+    "label": 57.2702702702703
+  },
+  {
+    "filename": "ia-batch15/bptvpa-1_Minute_Book_Recommendation_At_Home_by_Bill_Bryson.mp4",
+    "label": 64.5142857142857
+  },
+  {
+    "filename": "ia-batch15/coeor-City_Council_Public_Hearing_09-19-2011.mp4",
+    "label": 53.31428571428571
+  },
+  {
+    "filename": "ia-batch15/Story_Time_with_Stu_and_Ginny_Fraser_7-19-11.mp4",
+    "label": 58.189189189189214
+  },
+  {
+    "filename": "ia-batch15/youtube-PZBISmQSLdY.mp4",
+    "label": 57.2285714285714
+  },
+  {
+    "filename": "ia-batch15/Sports_and_Movements_Arts.mp4",
+    "label": 18.7567567567568
+  },
+  {
+    "filename": "ia-batch15/youtube-vPPxA59lup4.mp4",
+    "label": 63.4117647058824
+  },
+  {
+    "filename": "ia-batch16/LifeMemory.mp4",
+    "label": 50.954545454545496
+  },
+  {
+    "filename": "ia-batch16/Lion_Around_CT_E281_Berlin_Fair_pt2.mp4",
+    "label": 54.1176470588235
+  },
+  {
+    "filename": "ia-batch16/Home_energy_efficiency_project_financing_options_and_incentives_discussion.mp4",
+    "label": 62.1944444444444
+  },
+  {
+    "filename": "ia-batch16/Kantel-BrieskowerFunnyDogsJrgKantelUndZebu1942-2.mp4",
+    "label": 66.7297297297297
+  },
+  {
+    "filename": "ia-batch16/Lions_Senior_Bowl_-_4th_Quarter_-_CTV_Sports_Presents.mp4",
+    "label": 56.71428571428571
+  },
+  {
+    "filename": "ia-batch16/Alena_Neves_Talks_Wizards_on_The_Roundball_Report.mp4",
+    "label": 43.0909090909091
+  },
+  {
+    "filename": "ia-batch16/GRITtv_Daily_Newsmaker_November_26_2008_-_Reverend_Billy_of_the_Church_of_Stop_Shopping.mp4",
+    "label": 52.60526315789479
+  },
+  {
+    "filename": "ia-batch16/Kevin_Baginski_-_Spring_2017_Commercial_-_Sponge.mp4",
+    "label": 71.9428571428571
+  },
+  {
+    "filename": "ia-batch16/Girl_Scout_Troop_30510_Cookie_Sale_PSA.mp4",
+    "label": 52.777777777777786
+  },
+  {
+    "filename": "ia-batch16/Joe_Johnson_at_the_Smooth_Jazz_in_the_Park_Festival.mp4",
+    "label": 57.8125
+  },
+  {
+    "filename": "ia-batch16/2014_Spotsylvania_Parade_2.mp4",
+    "label": 49.7567567567568
+  },
+  {
+    "filename": "ia-batch16/41st_McAllen_Police_Academy_Graduation.mp4",
+    "label": 62.236842105263214
+  },
+  {
+    "filename": "ia-batch16/Board_of_Works_Meeting_10-12-2010.mp4",
+    "label": 45.4146341463415
+  },
+  {
+    "filename": "ia-batch16/1030_020_BillyBlock_10_30_12_EP020.mp4",
+    "label": 52.421052631579
+  },
+  {
+    "filename": "ia-batch16/GbOperationCIn1105.57ByVentuz.mp4",
+    "label": 55.678571428571395
+  },
+  {
+    "filename": "ia-batch16/How.Boonaa.Mohammed.came.to.the.love.of.Islam.mp4",
+    "label": 72.8571428571429
+  },
+  {
+    "filename": "ia-batch16/Conservation_Commission_-_June_27_2016.mp4",
+    "label": 47.28125
+  },
+  {
+    "filename": "ia-batch16/Life_of_the_Party_-_Guest_Matt_Proft_01.26.14.mp4",
+    "label": 71.1621621621622
+  },
+  {
+    "filename": "ia-batch16/Abington_Girls_Junior_Varsity_Basketball_vs._Rockland_-_12_20_16.mp4",
+    "label": 53.6486486486487
+  },
+  {
+    "filename": "ia-batch16/Job_Hunting_101_-_Successfully_Answering_Common_Interview_Questions.mp4",
+    "label": 60.1944444444444
+  },
+  {
+    "filename": "ia-batch16/AHS_Show_Choir_Winter_Warm_Up_2017.mp4",
+    "label": 54.4571428571429
+  },
+  {
+    "filename": "ia-batch16/Jen_McDonnell_-_Avenue_Mortgage.mp4",
+    "label": 61.6944444444444
+  },
+  {
+    "filename": "ia-batch16/Local_Players_Participating_in_NCCA_Tourney.mp4",
+    "label": 41.971428571428596
+  },
+  {
+    "filename": "ia-batch16/Hanson_s_Special_Town_Meeting_-_Oct_5_2015.mp4",
+    "label": 50.2285714285714
+  },
+  {
+    "filename": "ia-batch16/Council_Meeting_12.16.14_Recess_Meetings.mp4",
+    "label": 50.4838709677419
+  },
+  {
+    "filename": "ia-batch16/coelptx-Winter_Safety.mp4",
+    "label": 63.735294117647115
+  },
+  {
+    "filename": "ia-batch16/etvmn-Eagan_High_School_Wrestling_vs_Lakeville_North_1-25-18.mp4",
+    "label": 59.5151515151515
+  },
+  {
+    "filename": "ia-batch16/Evel_Knievel_Snake_River_Canyon_Jump_-_Rare_Super_8mm_Home_Movie_Footage.mp4",
+    "label": 32.4324324324324
+  },
+  {
+    "filename": "ia-batch16/20140130NewWorldNextWeek180.mp4",
+    "label": 58.625
+  },
+  {
+    "filename": "ia-batch16/ctv3in-School_Board_March_18_2014.mp4",
+    "label": 57.79411764705879
+  },
+  {
+    "filename": "ia-batch16/19011902MassiveCongregationsLeavingChurchEnglandspeedCorrectedWAddedSound_201808.mp4",
+    "label": 38.23684210526321
+  },
+  {
+    "filename": "ia-batch16/I_See_Grey_11_12_15.mp4",
+    "label": 56.97368421052629
+  },
+  {
+    "filename": "ia-batch16/colrar-12th_Street_Jump_off_Presser_2018.mp4",
+    "label": 60.2285714285714
+  },
+  {
+    "filename": "ia-batch16/Infrastructure_Update_-_Walker_Canal_Pump_Station.mp4",
+    "label": 44.71428571428571
+  },
+  {
+    "filename": "ia-batch16/HerFirstAdventure1908.mp4",
+    "label": 40.8125
+  },
+  {
+    "filename": "ia-batch16/411Show-FiestaFlambeauParade2008Act3767.mp4",
+    "label": 57.2972972972973
+  },
+  {
+    "filename": "ia-batch16/Lincoln_University_Homecoming_Parade_2018.mp4",
+    "label": 52.89743589743589
+  },
+  {
+    "filename": "ia-batch16/ctv3in-City_Council_February_2_2015.mp4",
+    "label": 59.526315789473706
+  },
+  {
+    "filename": "ia-batch16/cmntv18-CMNtv_Sports_Girls_Swim_Dive_Rochester_vs_Berkley_-_Sept_17_2013.mp4",
+    "label": 51.43243243243239
+  },
+  {
+    "filename": "ia-batch16/ftamtnj-Public_Comment_10.19.16.mp4",
+    "label": 61.6666666666667
+  },
+  {
+    "filename": "ia-batch16/GlennaKohlPreview-Untitled_MPEG-2.mpeg.mp4",
+    "label": 50.777777777777786
+  },
+  {
+    "filename": "ia-batch16/2013_Martin_Luther_King_Day_parade_in_Houston_Texas.mp4",
+    "label": 64.7352941176471
+  },
+  {
+    "filename": "ia-batch16/Liposuction_-_The_Good_Stuff.mp4",
+    "label": 78.2222222222222
+  },
+  {
+    "filename": "ia-batch16/archiveteam_videobot_twitter_com_954443622484791301.mp4",
+    "label": 38.3513513513514
+  },
+  {
+    "filename": "ia-batch16/2008_Plymouth_Annual_Town_Meeting.mp4",
+    "label": 59.17647058823529
+  },
+  {
+    "filename": "ia-batch16/Cyber-dissidents_-_Google_s_Jared_Cohen_and_Eric_Schmidt_on_Technology_s_role_in_a_Revolution.mp4",
+    "label": 61.32352941176471
+  },
+  {
+    "filename": "ia-batch17/lctvca-2013_LAWNDALE_YOUTH_DAY_PARADE.mp4",
+    "label": 50.6388888888889
+  },
+  {
+    "filename": "ia-batch17/124_E_Main_15B013.mp4",
+    "label": 61.6
+  },
+  {
+    "filename": "ia-batch17/islamway_1142.mp4",
+    "label": 58.5882352941177
+  },
+  {
+    "filename": "ia-batch17/archiveteam_videobot_twitter_com_954733542843600897.mp4",
+    "label": 47.6
+  },
+  {
+    "filename": "ia-batch17/kuwait20110914-1280-i.mp4",
+    "label": 77.4411764705882
+  },
+  {
+    "filename": "ia-batch17/Judy_Brenner_local_Artist.mp4",
+    "label": 54.921052631579
+  },
+  {
+    "filename": "ia-batch17/Heritage_vs._Benilde-St._Margaret_s_Girls_High_School_Volleyball.mp4",
+    "label": 51.027027027026996
+  },
+  {
+    "filename": "ia-batch17/Flickr-5600608618.mp4",
+    "label": 76.73134328358209
+  },
+  {
+    "filename": "ia-batch17/Girls_D1_100_Breast_Heat_4.mp4",
+    "label": 50.05882352941179
+  },
+  {
+    "filename": "ia-batch17/Linda_McAnany_Show_visits_the_Jeff_City_Salvation_Army_Thrift_Store_2015.mp4",
+    "label": 57.90625
+  },
+  {
+    "filename": "ia-batch17/Lakeville_Kids_Government_March_2010.mp4",
+    "label": 60.184210526315795
+  },
+  {
+    "filename": "ia-batch17/Anderson_Township_Trustees_Meeting_8_16_18.mp4",
+    "label": 56.0789473684211
+  },
+  {
+    "filename": "ia-batch17/Founders_Day_Festival_Highlights_2013.mp4",
+    "label": 71.7894736842105
+  },
+  {
+    "filename": "ia-batch17/Issaquah_City_Council_-_June_17_2013.mp4",
+    "label": 51.264705882352885
+  },
+  {
+    "filename": "ia-batch17/DarioGrandinettiEnSpamNacionalRockCAMvZ7NK0.mp4",
+    "label": 63.761904761904795
+  },
+  {
+    "filename": "ia-batch17/BBGirls_Shoreline_02-11-14.mp4",
+    "label": 52.257142857142895
+  },
+  {
+    "filename": "ia-batch17/Fracking_in_Marcellus_Shale_4-Part_Series.mp4",
+    "label": 69.1842105263158
+  },
+  {
+    "filename": "ia-batch17/Bennington_School_District_-_Budget_Results_-_6_11_13.mp4",
+    "label": 60.0833333333333
+  },
+  {
+    "filename": "ia-batch17/Lancaster_County_Board_Wind_Energy_Public_Hearing_10-20-2015_pt._1.mp4",
+    "label": 57.3055555555556
+  },
+  {
+    "filename": "ia-batch17/BYFS_Parenting_Lecture_Series_-_Bullying.mp4",
+    "label": 63.82857142857139
+  },
+  {
+    "filename": "ia-batch17/ctv3in-2015_Fayette_County_Free_Fair_Parade.mp4",
+    "label": 57.05882352941179
+  },
+  {
+    "filename": "ia-batch17/Lancaster_County_Board_of_Commissioners_July_7_2015.mp4",
+    "label": 61.82352941176471
+  },
+  {
+    "filename": "ia-batch17/Football_-_Andover_vs_Spring_Lake_Park_4AAAAA_Semi-Final.mp4",
+    "label": 50.914285714285704
+  },
+  {
+    "filename": "ia-batch17/LeDirigeableFantastiqueOuLeCauchemarDunInventeur.mp4",
+    "label": 40.9444444444444
+  },
+  {
+    "filename": "ia-batch17/hc18ma-Brooks_Free_Library_December_2018_Update.mp4",
+    "label": 65.4375
+  },
+  {
+    "filename": "ia-batch17/2017_Sports_Jam_Football_Offense_Team.mp4",
+    "label": 58.6388888888889
+  },
+  {
+    "filename": "ia-batch17/Around_Athens_-_Electric_Vehicles_Home_Made.mp4",
+    "label": 38.921052631579
+  },
+  {
+    "filename": "ia-batch17/cofrmd-Snow_Tips_and_Reminders_for_City_Residents.mp4",
+    "label": 59.55882352941179
+  },
+  {
+    "filename": "ia-batch17/lawin-Groomsville_Popcorn_at_the_Fort_Ben_Farmers_Market.mp4",
+    "label": 81.71875
+  },
+  {
+    "filename": "ia-batch17/Adoptable_Pet_of_the_Week_-_Bella.mp4",
+    "label": 71.80555555555559
+  },
+  {
+    "filename": "ia-batch17/hcamma-Hopkinton_Little_League_Parade_2018.mp4",
+    "label": 71.1818181818182
+  },
+  {
+    "filename": "ia-batch17/coeor-City_Council_Public_Hearing_06-15-2015.mp4",
+    "label": 38.342857142857106
+  },
+  {
+    "filename": "ia-batch17/kmvt-In_Our_Community_-_Duon_and_Bob_Zeroun_Fuller_Center_Armenia.mp4",
+    "label": 62.0909090909091
+  },
+  {
+    "filename": "ia-batch17/csdmd-Anne_Arundel_CC_vs_Harford_CC_Soccer.mp4",
+    "label": 37.0
+  },
+  {
+    "filename": "ia-batch17/LHS_GB_vs._Tomah_2-21-14.mp4",
+    "label": 56.9166666666667
+  },
+  {
+    "filename": "ia-batch17/Goffstown_Zoning_Board_-_6_4_2013.mp4",
+    "label": 30.588235294117602
+  },
+  {
+    "filename": "ia-batch17/01UltramanTaro17.mp4",
+    "label": 55.3333333333333
+  },
+  {
+    "filename": "ia-batch17/Batavia_Municipal_Minute_3-18-10.mp4",
+    "label": 61.8
+  },
+  {
+    "filename": "ia-batch17/Janesville_Farmer_s_Market_Report_July_23_2011.mp4",
+    "label": 72.8378378378378
+  },
+  {
+    "filename": "ia-batch17/April_27_2017_Police_Fire_Commission_Meeting.mp4",
+    "label": 56.4117647058824
+  },
+  {
+    "filename": "ia-batch17/Go_inside_the_light_rail_cars_control_center_and_garage_-_July_2011.mp4",
+    "label": 62.5555555555556
+  },
+  {
+    "filename": "ia-batch17/Lecture_-_Audubon_Tea.mp4",
+    "label": 50.0833333333333
+  },
+  {
+    "filename": "ia-batch17/Flickr-4079467980.mp4",
+    "label": 55.5428571428571
+  },
+  {
+    "filename": "ia-batch17/08-20-15_Proclamation_for_Kenner_All-Stars.mp4",
+    "label": 51.6944444444444
+  },
+  {
+    "filename": "ia-batch17/2010_Census_A_New_Portrait_of_America_English.mp4",
+    "label": 44.4166666666667
+  },
+  {
+    "filename": "ia-batch18/Frame_Episode_Two_Fiber_Arts.mp4",
+    "label": 68.8285714285714
+  },
+  {
+    "filename": "ia-batch18/Giants_vs_Bridgewater_A_Team_09_09_12.mp4",
+    "label": 55.527777777777786
+  },
+  {
+    "filename": "ia-batch18/Cupp_House_Project.mp4",
+    "label": 58.6111111111111
+  },
+  {
+    "filename": "ia-batch18/dni.ncaa.IGRMS-3B_404-BC.mp4",
+    "label": 56.5833333333333
+  },
+  {
+    "filename": "ia-batch18/Flickr-5309747897.mp4",
+    "label": 63.375
+  },
+  {
+    "filename": "ia-batch18/Evening_at_NB_Airport.mp4",
+    "label": 55.514285714285705
+  },
+  {
+    "filename": "ia-batch18/Board_of_Education_-_July_23_2012.mp4",
+    "label": 54.264705882352885
+  },
+  {
+    "filename": "ia-batch18/cofvtn-11_10_14_Planning_Commission.mp4",
+    "label": 38.4324324324324
+  },
+  {
+    "filename": "ia-batch18/Flickr-3413989137.mp4",
+    "label": 62.0571428571429
+  },
+  {
+    "filename": "ia-batch18/Issaquah_s_Past_-_Remembering_the_Rodeo.mp4",
+    "label": 49.55882352941179
+  },
+  {
+    "filename": "ia-batch18/Guilford_s_375th_Generation_Jubilee.mp4",
+    "label": 55.612903225806505
+  },
+  {
+    "filename": "ia-batch18/Game_of_the_Week_Play_of_the_Game_-_Titans_Rakim_Butler_Basket_and_1.mp4",
+    "label": 56.17142857142861
+  },
+  {
+    "filename": "ia-batch18/Crime_Solvers.mp4",
+    "label": 58.3823529411765
+  },
+  {
+    "filename": "ia-batch18/Kids_News.mp4",
+    "label": 72.3513513513513
+  },
+  {
+    "filename": "ia-batch18/ehmma-Southampton_Select_Board_4_12_2011.mp4",
+    "label": 58.972222222222214
+  },
+  {
+    "filename": "ia-batch18/bliptv-20131013-200342-AppJudgment-DatabaseSolutionsOnYourIPhoneOrIPodTouchWithBentoAppJ296.mp4",
+    "label": 71.4166666666667
+  },
+  {
+    "filename": "ia-batch18/blmtwpmiv-Latin_Cardio_Strength_Training.mp4",
+    "label": 51.125
+  },
+  {
+    "filename": "ia-batch18/hcamma-Senior_View_-_Soul_Singer_Amanda_Maffei.mp4",
+    "label": 62.4705882352941
+  },
+  {
+    "filename": "ia-batch18/2016_Simply_Chef_Renee_-_Crepes.mp4",
+    "label": 58.17647058823529
+  },
+  {
+    "filename": "ia-batch18/archiveteam_videobot_twitter_com_783802437748584448.mp4",
+    "label": 51.472222222222214
+  },
+  {
+    "filename": "ia-batch18/Flickr-40138322365.mp4",
+    "label": 66.2325581395349
+  },
+  {
+    "filename": "ia-batch18/Big_E_class_53.mp4",
+    "label": 59.8611111111111
+  },
+  {
+    "filename": "ia-batch18/25_Vernon_St_Open_Studios.mp4",
+    "label": 53.4705882352941
+  },
+  {
+    "filename": "ia-batch18/Alice_Jazz_Cultural_Society.mp4",
+    "label": 76.0
+  },
+  {
+    "filename": "ia-batch18/blmtwpmiv-18th_Annual_Cultural_Arts_Award.mp4",
+    "label": 60.514285714285705
+  },
+  {
+    "filename": "ia-batch18/Fulton_Today_-_February_9th_2015.mp4",
+    "label": 60.5135135135135
+  },
+  {
+    "filename": "ia-batch18/Brexit_-_The_Cultural_Response_BBC_R4_Front_Row_John_Wilson.mp4",
+    "label": 63.3611111111111
+  },
+  {
+    "filename": "ia-batch18/gmtvct-WWI_and_America_-_The_Great_War_-_Through_the_Periscope.mp4",
+    "label": 47.363636363636395
+  },
+  {
+    "filename": "ia-batch18/Former_Astronaut_Inspires_Jefferson-Houston_Students.mp4",
+    "label": 46.6944444444444
+  },
+  {
+    "filename": "ia-batch18/fcoga-Fulton_Today_7-29-2019.mp4",
+    "label": 62.3055555555556
+  },
+  {
+    "filename": "ia-batch18/JLevyMJBJrdaFifthPart3CandyLand.mp4",
+    "label": 40.8055555555556
+  },
+  {
+    "filename": "ia-batch18/Football_-_Blaine_vs_Mounds_View_4_5AAAAAA_Crossover.mp4",
+    "label": 50.871794871794904
+  },
+  {
+    "filename": "ia-batch18/GNMHealth-MaPoTofuHHTV796.mp4",
+    "label": 47.277777777777786
+  },
+  {
+    "filename": "ia-batch18/Inside_Wellesley_-_A_look_at_genetics_and_personalized_medicine.mp4",
+    "label": 55.5833333333333
+  },
+  {
+    "filename": "ia-batch18/Hellgate_Roller_Girls_Vs_Helena_Hel_z_Belles_2015.mp4",
+    "label": 60.6285714285714
+  },
+  {
+    "filename": "ia-batch18/Conversations_in_Marin_-_Al_Boro_2_of_2.mp4",
+    "label": 48.9117647058824
+  },
+  {
+    "filename": "ia-batch18/3_1101_n._tamarind_ave_and_10th_Converted.mp4",
+    "label": 37.7027027027027
+  },
+  {
+    "filename": "ia-batch18/Local_Sustainability_-_Hobbit_Sauna.mp4",
+    "label": 67.91891891891889
+  },
+  {
+    "filename": "ia-batch18/Flickr-9672398281.mp4",
+    "label": 57.67647058823529
+  },
+  {
+    "filename": "ia-batch18/bliptv-20131013-033057-AccursedFarms-FreemansMindEpisode36241.mp4",
+    "label": 62.0625
+  },
+  {
+    "filename": "ia-batch18/archiveteam_videobot_twitter_com_687676499474944000.mp4",
+    "label": 68.8611111111111
+  },
+  {
+    "filename": "ia-batch18/FirstChurch03-10-2013.mp4",
+    "label": 44.6944444444444
+  },
+  {
+    "filename": "ia-batch18/cogco-Real_or_Rumor_-_Greeley_is_Headed_to_Outer_Space_115.mp4",
+    "label": 54.3783783783784
+  },
+  {
+    "filename": "ia-batch19/Harwich_Recreation_Update_August_2017.mp4",
+    "label": 67.14705882352939
+  },
+  {
+    "filename": "ia-batch19/Big_Brothers_Big_Sisters_Will_and_Grundy_Counties_Thank_You_event_Guest_speaker_Darrin_Smith.mp4",
+    "label": 51.88571428571429
+  },
+  {
+    "filename": "ia-batch19/HBA_Seminar_-_Artistic_Wall_Finishes.mp4",
+    "label": 69.2432432432432
+  },
+  {
+    "filename": "ia-batch19/Humane_Touch_-_February_2019_-_St._Charles_County_Government_MO.mp4",
+    "label": 69.7894736842105
+  },
+  {
+    "filename": "ia-batch19/2011_Greenville_Poinsettia_Christmas_Parade_Part_3.mp4",
+    "label": 45.8333333333333
+  },
+  {
+    "filename": "ia-batch19/bctvpa-New_Berks_County_Voting_System_2-25-19.mp4",
+    "label": 68.6666666666667
+  },
+  {
+    "filename": "ia-batch19/Amazing_Art_Show_96_-_Youth_Art_Encounters_2015.mp4",
+    "label": 62.914285714285704
+  },
+  {
+    "filename": "ia-batch19/Franklin_Township_NJ_Somerset_County_December_6_2017_Planning_Board_Meeting.mp4",
+    "label": 59.75
+  },
+  {
+    "filename": "ia-batch19/2011Gilroy_Garlic_Festival_-_Rotary.mp4",
+    "label": 59.5454545454546
+  },
+  {
+    "filename": "ia-batch19/Holiday_Bash_Tree_Lighting.mp4",
+    "label": 65.2162162162162
+  },
+  {
+    "filename": "ia-batch19/CinemaEuropeOnVimeo.mp4",
+    "label": 36.3333333333333
+  },
+  {
+    "filename": "ia-batch19/cobor-Vactor_Truck_Stormwater_Operations.mp4",
+    "label": 52.1388888888889
+  },
+  {
+    "filename": "ia-batch19/Bloomington_HRA_-_How_to_Install_a_Replacement_Window.mp4",
+    "label": 61.74285714285711
+  },
+  {
+    "filename": "ia-batch19/Highlight_Boys_Basketball_Cooper_vs_Spring_Lake_Park.mp4",
+    "label": 55.9459459459459
+  },
+  {
+    "filename": "ia-batch19/10-26-2010_Part_1_of_2_Board_of_Mayor_and_Alderman_Work_Session.mp4",
+    "label": 48.527777777777786
+  },
+  {
+    "filename": "ia-batch19/Every_Movie_Ever_-_You_Don_t_Know_Jack.mp4",
+    "label": 65.0
+  },
+  {
+    "filename": "ia-batch19/lctvca-Basketball_Game_Of_The_Week_-_Leuzinger_vs_Culver_City_-_January_31_2000.mp4",
+    "label": 53.9705882352941
+  },
+  {
+    "filename": "ia-batch19/Balloon_Fest_2013_Man_on_the_Street.mp4",
+    "label": 70.5675675675676
+  },
+  {
+    "filename": "ia-batch19/cactvma-A_Plethora_of_Pride_on_the_Plaza.mp4",
+    "label": 60.97368421052629
+  },
+  {
+    "filename": "ia-batch19/bratt2vt-At_Brattleboro_Memorial_Library_-_In_Praise_of_Public_Libraries.mp4",
+    "label": 53.810810810810786
+  },
+  {
+    "filename": "ia-batch19/GRITtv_-_Jeff_Biggers_-_Uprising_Against_Coal_Mining.mp4",
+    "label": 46.82352941176471
+  },
+  {
+    "filename": "ia-batch19/lexgtv3ky-2nd_Sunday-Aug-14-2011_in_Lexington_Kentucky_with_Tamara_Deckard.mp4",
+    "label": 66.1875
+  },
+  {
+    "filename": "ia-batch19/Destination_Frederick_County_-_Monocacy_National_Battlefield.mp4",
+    "label": 52.972222222222214
+  },
+  {
+    "filename": "ia-batch19/Every_Movie_Ever_-_Jumanji.mp4",
+    "label": 77.8571428571429
+  },
+  {
+    "filename": "ia-batch19/InFocus_Video_Vault_-_Episode_042.mp4",
+    "label": 54.2
+  },
+  {
+    "filename": "ia-batch19/bctvpa-School_Safety_and_SERAPH_01-21-20.mp4",
+    "label": 59.8055555555556
+  },
+  {
+    "filename": "ia-batch19/Home_School_Fair.mp4",
+    "label": 52.6
+  },
+  {
+    "filename": "ia-batch19/Finance_-_9_18_2014.mp4",
+    "label": 67.3783783783784
+  },
+  {
+    "filename": "ia-batch19/Ifnotnowdotnet-HaveYouEverStolenAnything841.mp4",
+    "label": 65.62857142857139
+  },
+  {
+    "filename": "ia-batch19/lightingstrikeleaves15footholeinfortworthparkinglot.mp4",
+    "label": 59.1315789473684
+  },
+  {
+    "filename": "ia-batch19/hcmedia-FORESTRY.mp4",
+    "label": 69.3333333333333
+  },
+  {
+    "filename": "ia-batch19/archiveteam_videobot_twitter_com_979752738354548737.mp4",
+    "label": 48.0555555555556
+  },
+  {
+    "filename": "ia-batch19/Concerts_on_the_Common_-_Ball_in_the_House_-_July_14th_2016.mp4",
+    "label": 59.657142857142894
+  },
+  {
+    "filename": "ia-batch19/LeeGarrison-Painter.mp4",
+    "label": 68.0555555555556
+  },
+  {
+    "filename": "ia-batch19/i20110109mak.mp4",
+    "label": 44.8823529411765
+  },
+  {
+    "filename": "ia-batch19/am-Tim_Kennedy_-_Medicine_Man.mp4",
+    "label": 39.9444444444444
+  },
+  {
+    "filename": "ia-batch19/Feaster_Five_Road_Race_2015.mp4",
+    "label": 53.3589743589744
+  },
+  {
+    "filename": "ia-batch19/gctvct-EE_113_total.mp4",
+    "label": 46.8529411764706
+  },
+  {
+    "filename": "ia-batch19/2010_Census_Be_Counted.mp4",
+    "label": 60.3333333333333
+  },
+  {
+    "filename": "ia-batch19/bratt2vt-BUHS-TV_9_25_12.mp4",
+    "label": 53.1794871794872
+  },
+  {
+    "filename": "ia-batch19/Historical_Interviews_11_23_1996_and_More.mp4",
+    "label": 55.741935483871
+  },
+  {
+    "filename": "ia-batch19/blmtwpmiv-Matt_Prentice_P.3.mp4",
+    "label": 64.2222222222222
+  },
+  {
+    "filename": "ia-batch19/archiveteam_videobot_twitter_com_724692835816103936.mp4",
+    "label": 74.2285714285714
+  },
+  {
+    "filename": "ia-batch19/Consent_Agenda_091013.mp4",
+    "label": 54.0526315789474
+  },
+  {
+    "filename": "ia-batch19/Flickr-4284037823.mp4",
+    "label": 28.2702702702703
+  },
+  {
+    "filename": "ia-batch20/youtube-VAvZT9Bjk5c.mp4",
+    "label": 46.684210526315795
+  },
+  {
+    "filename": "ia-batch20/youtube-dfsRsaNMCZ0.mp4",
+    "label": 52.4
+  },
+  {
+    "filename": "ia-batch20/MCHS_Choirs_Spring_Concert_5_14.mp4",
+    "label": 49.7027027027027
+  },
+  {
+    "filename": "ia-batch20/Start_Smart_Program_-_Teen_Drinking_and_Driving.mp4",
+    "label": 77.8823529411765
+  },
+  {
+    "filename": "ia-batch20/sf17ut-Matilda_Highlights_Spanish_Fork_Drama_Dons.mp4",
+    "label": 60.0789473684211
+  },
+  {
+    "filename": "ia-batch20/youtube-pORjZsVXEjM.mp4",
+    "label": 68.421052631579
+  },
+  {
+    "filename": "ia-batch20/WUHS_Boy_s_Basketball_vs_Windsor_-_December_12_2011.mp4",
+    "label": 46.8684210526316
+  },
+  {
+    "filename": "ia-batch20/youtube-53c8kVyl9lU.mp4",
+    "label": 68.3243243243243
+  },
+  {
+    "filename": "ia-batch20/mcama-FINCOM_Public_Hearing_-_November_12_2014.mp4",
+    "label": 49.94117647058821
+  },
+  {
+    "filename": "ia-batch20/tbcama-Shoe_City_Scoop_-_151.mp4",
+    "label": 62.10526315789479
+  },
+  {
+    "filename": "ia-batch20/Parks_Learn_to_Skate.mp4",
+    "label": 57.189189189189214
+  },
+  {
+    "filename": "ia-batch20/Up_Close_with_Your_County_-_Pitt_County_Schools_STEM_Labs.mp4",
+    "label": 78.4411764705882
+  },
+  {
+    "filename": "ia-batch20/youtube-Mj298o3kiWE.mp4",
+    "label": 31.5
+  },
+  {
+    "filename": "ia-batch20/m20110628mad.mp4",
+    "label": 53.0810810810811
+  },
+  {
+    "filename": "ia-batch20/youtube-mbZZjZyOWNg.mp4",
+    "label": 47.3611111111111
+  },
+  {
+    "filename": "ia-batch20/Puyallup_gives_flag_to_Stryker_2-2.mp4",
+    "label": 60.34285714285711
+  },
+  {
+    "filename": "ia-batch20/youtube-JVwyma4FkIw.mp4",
+    "label": 46.44117647058821
+  },
+  {
+    "filename": "ia-batch20/mctvmd-The_Hague_-_Modern_Philosophy.mp4",
+    "label": 63.3513513513514
+  },
+  {
+    "filename": "ia-batch20/Special_Presentation.mp4",
+    "label": 60.4
+  },
+  {
+    "filename": "ia-batch20/Rolesville_Flea_Market.mp4",
+    "label": 37.375
+  },
+  {
+    "filename": "ia-batch20/youtube-GMvkhBUsP8o.mp4",
+    "label": 72.02857142857141
+  },
+  {
+    "filename": "ia-batch20/youtube-q2BZ5mnLDZA.mp4",
+    "label": 63.6410256410256
+  },
+  {
+    "filename": "ia-batch20/LookingForLoveCindyBuddYouTube.mp4",
+    "label": 61.810810810810786
+  },
+  {
+    "filename": "ia-batch20/TheBandPerry-IfIDieYoungAcousticCoverLive-DonnieSands.mp4",
+    "label": 66.6176470588235
+  },
+  {
+    "filename": "ia-batch20/youtube-EPFngQfbncs.mp4",
+    "label": 42.5428571428571
+  },
+  {
+    "filename": "ia-batch20/lpama-HickoryHills2012.mp4",
+    "label": 51.085714285714296
+  },
+  {
+    "filename": "ia-batch20/youtube-S6WgZkecqME.mp4",
+    "label": 51.6944444444444
+  },
+  {
+    "filename": "ia-batch20/Poets_Corner_-_1-26-16.mp4",
+    "label": 47.6216216216216
+  },
+  {
+    "filename": "ia-batch20/Sports_Jam_-_January_30_2017.mp4",
+    "label": 54.4117647058824
+  },
+  {
+    "filename": "ia-batch20/PAC_14_Wicomico_County_Council_Meeting_9.1.15.mp4",
+    "label": 51.0810810810811
+  },
+  {
+    "filename": "ia-batch20/m20110329mak.mp4",
+    "label": 51.1111111111111
+  },
+  {
+    "filename": "ia-batch20/youtube-ZywWXs33c0I.mp4",
+    "label": 28.5555555555556
+  },
+  {
+    "filename": "ia-batch20/Mi_Gente_Tampa_Bay_-_Florida_Covering_Kids_Families.mp4",
+    "label": 56.2972972972973
+  },
+  {
+    "filename": "ia-batch20/tncma-Shade_Tree_Public_Hearing.mp4",
+    "label": 54.94117647058821
+  },
+  {
+    "filename": "ia-batch20/Wareham_Finance_Committee_Budget_Hearing_Part_2_2-11-2016.mp4",
+    "label": 54.7105263157895
+  },
+  {
+    "filename": "ia-batch20/spnn-disc_5_mpeg.mp4",
+    "label": 67.5882352941177
+  },
+  {
+    "filename": "ia-batch20/Rocket_Club_Band.mp4",
+    "label": 61.222222222222214
+  },
+  {
+    "filename": "ia-batch20/Selectmen_-_07-22-2010.mp4",
+    "label": 48.5789473684211
+  },
+  {
+    "filename": "ia-batch20/School_Family_Community_Partnership.mp4",
+    "label": 57.277777777777786
+  },
+  {
+    "filename": "ia-batch20/STL_TV_LIVE_-_Marc_Schreiber_Part_1_of_2.mp4",
+    "label": 56.675675675675706
+  },
+  {
+    "filename": "ia-batch20/nwctc-Friends_Ease_Brooklyn_Park_Family_s_Snow_Removal_Burden.mp4",
+    "label": 78.55555555555559
+  },
+  {
+    "filename": "ia-batch20/youtube-5IA2-D4HQAs.mp4",
+    "label": 44.7894736842105
+  },
+  {
+    "filename": "ia-batch20/Old_Business_052212.mp4",
+    "label": 58.0789473684211
+  },
+  {
+    "filename": "ia-batch20/youtube-r1cNGMLfyj0.mp4",
+    "label": 55.60526315789479
+  },
+  {
+    "filename": "ia-batch21/Wellesley_High_School_Sports_Report_-_10_31_14.mp4",
+    "label": 68.41176470588239
+  },
+  {
+    "filename": "ia-batch21/Making_the_Transportation_Connection.mp4",
+    "label": 67.2051282051282
+  },
+  {
+    "filename": "ia-batch21/m20110216mad.mp4",
+    "label": 50.5135135135135
+  },
+  {
+    "filename": "ia-batch21/Winton_Woods_Board_of_Education_Meeting_of_January_25_2016.mp4",
+    "label": 55.9473684210526
+  },
+  {
+    "filename": "ia-batch21/youtube-Rte8hlIAtQA.mp4",
+    "label": 49.8333333333333
+  },
+  {
+    "filename": "ia-batch21/youtube-yC9Nwn0BgVc.mp4",
+    "label": 69.9375
+  },
+  {
+    "filename": "ia-batch21/Mom_Doesn_t_Play.mp4",
+    "label": 61.85
+  },
+  {
+    "filename": "ia-batch21/Pitt_County_Board_of_Commissioners_meeting_for_1_09_2012.mp4",
+    "label": 67.6
+  },
+  {
+    "filename": "ia-batch21/nctv18ma-Nantucket_Conservation_Commission_-_3_25_19.mp4",
+    "label": 59.1111111111111
+  },
+  {
+    "filename": "ia-batch21/The_Process_for_Reviewing_Complaints_Against_Police_Officers.mp4",
+    "label": 80.29729729729729
+  },
+  {
+    "filename": "ia-batch21/youtube-hYeI08p2AMw.mp4",
+    "label": 82.5142857142857
+  },
+  {
+    "filename": "ia-batch21/Pets_Personalities_on_Parade_November_10_2016.mp4",
+    "label": 62.7714285714286
+  },
+  {
+    "filename": "ia-batch21/Red_Hot_Riot_part_2.mp4",
+    "label": 44.4571428571429
+  },
+  {
+    "filename": "ia-batch21/Marty_the_Pirate.mp4",
+    "label": 41.1538461538462
+  },
+  {
+    "filename": "ia-batch21/youtube-5_XJs3x3SRQ.mp4",
+    "label": 65.4571428571429
+  },
+  {
+    "filename": "ia-batch21/Public_Works_July_2_2014.mp4",
+    "label": 50.3076923076923
+  },
+  {
+    "filename": "ia-batch21/Made_in_Bloomington_-_The_Works_Museum.mp4",
+    "label": 66.4210526315789
+  },
+  {
+    "filename": "ia-batch21/YourSCV.com_-_Talkin_With_Felicia_Guest_-_Rev._Julius_Harper.mp4",
+    "label": 62.10526315789479
+  },
+  {
+    "filename": "ia-batch21/SHERBORN_ZONING_BOARD_MEETING_JU_01_Title_01.mp4",
+    "label": 55.79411764705879
+  },
+  {
+    "filename": "ia-batch21/Sports_Jam_Spotlight_-_Greg_Arnold.mp4",
+    "label": 63.1111111111111
+  },
+  {
+    "filename": "ia-batch21/youtube-WDvMJZMZghI.mp4",
+    "label": 32.8108108108108
+  },
+  {
+    "filename": "ia-batch21/Sunderland_Selectboard_-_January_11_2016.mp4",
+    "label": 44.675
+  },
+  {
+    "filename": "ia-batch21/Mt._Airy_Planning_Commission_Meeting_7-27-15.mp4",
+    "label": 52.6315789473684
+  },
+  {
+    "filename": "ia-batch21/youtube-mt_muCQhu60.mp4",
+    "label": 44.3783783783784
+  },
+  {
+    "filename": "ia-batch21/Oshkosh_Common_Council_7_28_15.mp4",
+    "label": 61.5135135135135
+  },
+  {
+    "filename": "ia-batch21/What_s_New_In_Burbank_-_December_13_2014.mp4",
+    "label": 55.44117647058821
+  },
+  {
+    "filename": "ia-batch21/Sarah_M_Long_Bridge_Maine_NH_DOT_Meeting.mp4",
+    "label": 53.0
+  },
+  {
+    "filename": "ia-batch21/Maple_Grove_girls_hoopsters_keep_shooting.mp4",
+    "label": 60.8378378378378
+  },
+  {
+    "filename": "ia-batch21/youtube-cvtXOatsYVo.mp4",
+    "label": 42.4324324324324
+  },
+  {
+    "filename": "ia-batch21/The_CHIC_Chat_Jan10.mp4",
+    "label": 63.6969696969697
+  },
+  {
+    "filename": "ia-batch21/lpama-St._Boniface_Mass_07.07.19.mp4",
+    "label": 61.8684210526316
+  },
+  {
+    "filename": "ia-batch21/Mayville_ICE_Festival_2010_-_Randy_Burt_Jumping_Into_The_Water.mp4",
+    "label": 56.3714285714286
+  },
+  {
+    "filename": "ia-batch21/mctpa-Multiple_Sclerosis_Part_1.mp4",
+    "label": 44.24324324324329
+  },
+  {
+    "filename": "ia-batch21/Mo_omomi_Community_Beach_Cleanup_sponsored_by_Sustainable_Coastlines_Hawaii_-_August_1st_2015.mp4",
+    "label": 63.5
+  },
+  {
+    "filename": "ia-batch21/Tour_of_City_s_Day_of_Caring_project_Part_3.mp4",
+    "label": 60.8684210526316
+  },
+  {
+    "filename": "ia-batch21/Nekoosa_Football_vs_Columbus_9-12-14.mp4",
+    "label": 47.5833333333333
+  },
+  {
+    "filename": "ia-batch21/youtube-y4JMstG6PX4.mp4",
+    "label": 49.764705882352885
+  },
+  {
+    "filename": "ia-batch21/Parks_Landing_Start_Over_Speak_Differently.mp4",
+    "label": 78.027027027027
+  },
+  {
+    "filename": "ia-batch21/m20101008mak.mp4",
+    "label": 50.0810810810811
+  },
+  {
+    "filename": "ia-batch21/News_Conference_-_State_Basketball.mp4",
+    "label": 64.7435897435898
+  },
+  {
+    "filename": "ia-batch21/youtube-UC5TfiLZJ2g.mp4",
+    "label": 44.684210526315795
+  },
+  {
+    "filename": "ia-batch21/tyson.mp4",
+    "label": 53.459459459459495
+  },
+  {
+    "filename": "ia-batch21/MeetCleaverTheatreIronmaster.mp4",
+    "label": 52.8888888888889
+  },
+  {
+    "filename": "ia-batch21/youtube-lWvP7GDO_f8.mp4",
+    "label": 62.4444444444444
+  },
+  {
+    "filename": "ia-batch21/youtube-Qm2ZKUoJ34U.mp4",
+    "label": 70.8181818181818
+  },
+  {
+    "filename": "ia-batch22/Northampton_School_Committee_7_2_13.mp4",
+    "label": 52.6111111111111
+  },
+  {
+    "filename": "ia-batch22/youtube-GQ4plUxsTPc.mp4",
+    "label": 53.75
+  },
+  {
+    "filename": "ia-batch22/PSA_Restore_Make_A_Volunteer_Out_Of_You.mp4",
+    "label": 52.29411764705879
+  },
+  {
+    "filename": "ia-batch22/youtube-caCnKIEhj1s.mp4",
+    "label": 65.7222222222222
+  },
+  {
+    "filename": "ia-batch22/youtube-BWSOdGDkvJY.mp4",
+    "label": 55.514285714285705
+  },
+  {
+    "filename": "ia-batch22/lictvma-ZBA_09-20-2018.mp4",
+    "label": 49.1388888888889
+  },
+  {
+    "filename": "ia-batch22/mbtvmev-Summerfest.mp4",
+    "label": 57.2727272727273
+  },
+  {
+    "filename": "ia-batch22/What_s_Up_Boulder_2018.mp4",
+    "label": 69.6571428571429
+  },
+  {
+    "filename": "ia-batch22/youtube-WppPBlZ05Lo.mp4",
+    "label": 58.6486486486487
+  },
+  {
+    "filename": "ia-batch22/Topic_Time_-_Wes_Williams_II_-_07_06_16.mp4",
+    "label": 45.7027027027027
+  },
+  {
+    "filename": "ia-batch22/youtube-vqHt-xQ6S4U.mp4",
+    "label": 58.4864864864865
+  },
+  {
+    "filename": "ia-batch22/youtube-Xu79Nczn0o.mp4",
+    "label": 46.57142857142861
+  },
+  {
+    "filename": "ia-batch22/Ste._Genevieve_Mo_Board_of_Aldermen_9_22_16.mp4",
+    "label": 59.1428571428571
+  },
+  {
+    "filename": "ia-batch22/Real_Talk_-_Show_Promo_-_Vintage_TVSB.mp4",
+    "label": 41.72222222222221
+  },
+  {
+    "filename": "ia-batch22/youtube-etAnt4RlXGo.mp4",
+    "label": 42.4117647058824
+  },
+  {
+    "filename": "ia-batch22/youtube-3Q6Ve6KVrJk.mp4",
+    "label": 52.8571428571429
+  },
+  {
+    "filename": "ia-batch22/Town_Talk_135.mp4",
+    "label": 31.742857142857105
+  },
+  {
+    "filename": "ia-batch22/uptv6il-Restoration_Urban_Ministries_-_Episode_173.mp4",
+    "label": 59.9166666666667
+  },
+  {
+    "filename": "ia-batch22/youtube-zFoevGmvYqw.mp4",
+    "label": 38.027027027027
+  },
+  {
+    "filename": "ia-batch22/Needham_Hockey_vs_Weymouth.mp4",
+    "label": 57.44117647058821
+  },
+  {
+    "filename": "ia-batch22/pctca-CCWD_5_14_19_-_Coastside_County_Water_District_Meeting_-_May_14_2019.mp4",
+    "label": 50.512820512820504
+  },
+  {
+    "filename": "ia-batch22/Soldier_Homecoming_-_Andrew_and_Ryan_Griffin.mp4",
+    "label": 55.0
+  },
+  {
+    "filename": "ia-batch22/ntvva-2018_Norfolk_Peace_Officers_Memorial_Day_Service.mp4",
+    "label": 58.9714285714286
+  },
+  {
+    "filename": "ia-batch22/Your_Courthouse_at_Work_-_Veterans_Court.mp4",
+    "label": 57.31578947368421
+  },
+  {
+    "filename": "ia-batch22/ltcma-City_Council_and_School_Committee_Joint_Finance_Subcommittee.mp4",
+    "label": 56.7567567567568
+  },
+  {
+    "filename": "ia-batch22/Urban_Outdoors_Program.mp4",
+    "label": 60.969696969697
+  },
+  {
+    "filename": "ia-batch22/St._Charles_Parish_Thanks_Employees_Citizens.mp4",
+    "label": 43.514285714285705
+  },
+  {
+    "filename": "ia-batch22/youtube-N156jNKxOlU.mp4",
+    "label": 41.6111111111111
+  },
+  {
+    "filename": "ia-batch22/youtube-VzGR9hsOd2U.mp4",
+    "label": 34.4864864864865
+  },
+  {
+    "filename": "ia-batch22/youtube-Ko4k-OuAxLc.mp4",
+    "label": 42.6216216216216
+  },
+  {
+    "filename": "ia-batch22/wtvma-Good_Morning_Wareham_Episode_20.mp4",
+    "label": 61.7567567567568
+  },
+  {
+    "filename": "ia-batch22/Melissa_Osborne_for_State_Senate.mp4",
+    "label": 59.512820512820504
+  },
+  {
+    "filename": "ia-batch22/NCN_Sports_Update_11-05-09.mp4",
+    "label": 53.974358974359
+  },
+  {
+    "filename": "ia-batch22/TwoWhiteAustraliansRaciallyAttackedA77YrsOldAboriginalElderTheyYelledAtHimOhBroWereInAboLand.HoldOn.mp4",
+    "label": 64.0
+  },
+  {
+    "filename": "ia-batch22/youtube-cAe-0sullHg.mp4",
+    "label": 50.9459459459459
+  },
+  {
+    "filename": "ia-batch22/SportsDesk_26.10_PART_1.mp4",
+    "label": 48.363636363636395
+  },
+  {
+    "filename": "ia-batch22/lpama-Band_Concert_07.23.18.mp4",
+    "label": 61.514285714285705
+  },
+  {
+    "filename": "ia-batch22/youtube-o2LD0hZRTCk.mp4",
+    "label": 58.88571428571429
+  },
+  {
+    "filename": "ia-batch22/youtube--zH96rwceBo.mp4",
+    "label": 68.8157894736842
+  },
+  {
+    "filename": "ia-batch22/youtube-PqPbJ9rCNZQ.mp4",
+    "label": 56.17142857142861
+  },
+  {
+    "filename": "ia-batch22/youtube-axTthxE-z6A.mp4",
+    "label": 61.3611111111111
+  },
+  {
+    "filename": "ia-batch22/LTC_municipal_channel_is_moving.mp4",
+    "label": 44.9444444444444
+  },
+  {
+    "filename": "ia-batch22/youtube-HatqylmoSfE.mp4",
+    "label": 30.352941176470605
+  },
+  {
+    "filename": "ia-batch22/Meet_Your_New_London_Chamber_Member_Hair_Company.mp4",
+    "label": 53.74285714285711
+  },
+  {
+    "filename": "ia-batch23/youtube-71C-YMNSSk0.mp4",
+    "label": 61.3529411764706
+  },
+  {
+    "filename": "ia-batch23/lpama-St._Boniface_Mass_06.25.17.mp4",
+    "label": 44.7567567567568
+  },
+  {
+    "filename": "ia-batch23/Whitman_Library_Lecture_1968_pt.3_-_Presidential_Campaigns.mp4",
+    "label": 59.8571428571429
+  },
+  {
+    "filename": "ia-batch23/theaspen-4_Corporate_Priorities_for_United_Airlines_Global_Workforce.mp4",
+    "label": 77.7272727272727
+  },
+  {
+    "filename": "ia-batch23/New_Traffic_Signal_at_Flat_Shoals_Pkwy..mp4",
+    "label": 50.085714285714296
+  },
+  {
+    "filename": "ia-batch23/youtube-nkwLPRWxcS4.mp4",
+    "label": 68.7297297297297
+  },
+  {
+    "filename": "ia-batch23/Tri-District_-_Boys_vs_Crescent_02-16-12.mp4",
+    "label": 55.6451612903226
+  },
+  {
+    "filename": "ia-batch23/Occupy_Quad_Cities_Rally.mp4",
+    "label": 37.6060606060606
+  },
+  {
+    "filename": "ia-batch23/ltvma-The_Honey_Do_List_-_Show_2_-_Raised_Garden_Beds.mp4",
+    "label": 61.4375
+  },
+  {
+    "filename": "ia-batch23/The_Budget_Impasse_and_Impact_on_Social_Services.mp4",
+    "label": 63.3030303030303
+  },
+  {
+    "filename": "ia-batch23/mctpa-Chronic_Health_Problems.mp4",
+    "label": 63.5294117647059
+  },
+  {
+    "filename": "ia-batch23/youtube--KNgDXShaQg.mp4",
+    "label": 57.25
+  },
+  {
+    "filename": "ia-batch23/North_Reading_Candidates_Forum_10_27_04_part_1.mp4",
+    "label": 51.2285714285714
+  },
+  {
+    "filename": "ia-batch23/youtube-lpqHl9z8pmM.mp4",
+    "label": 75.02941176470591
+  },
+  {
+    "filename": "ia-batch23/SCTV_Presents_R_C_Farms_Landscape_6-6-1.mp4",
+    "label": 62.5
+  },
+  {
+    "filename": "ia-batch23/Metro_Digest_-_Worldfest_Favorites.mp4",
+    "label": 55.5
+  },
+  {
+    "filename": "ia-batch23/Transportation_Commerce_Meeting.mp4",
+    "label": 49.8333333333333
+  },
+  {
+    "filename": "ia-batch23/Manton_Michigan_Harvest_Parade.mp4",
+    "label": 56.82352941176471
+  },
+  {
+    "filename": "ia-batch23/youtube-Dl_2ZSaLUFk.mp4",
+    "label": 53.2105263157895
+  },
+  {
+    "filename": "ia-batch23/lpama-YULE_LOG.mp4",
+    "label": 62.375
+  },
+  {
+    "filename": "ia-batch23/mctvmd-The_Avalon_Theatre_Presents_-_MuleTrain_-_2_Wharf_Rat_Big_River.mp4",
+    "label": 57.657142857142894
+  },
+  {
+    "filename": "ia-batch23/scctvmn-Vadnais_Heights_Parade_2017.mp4",
+    "label": 62.025
+  },
+  {
+    "filename": "ia-batch23/mccmd-Made_in_Montgomery_19.mp4",
+    "label": 74.7058823529412
+  },
+  {
+    "filename": "ia-batch23/youtube-_4NXFa8AFuU.mp4",
+    "label": 54.8529411764706
+  },
+  {
+    "filename": "ia-batch23/Pedo7NoTeAprovechesDeLaGente.mp4",
+    "label": 55.151515151515206
+  },
+  {
+    "filename": "ia-batch23/youtube-nNSieLozkOQ.mp4",
+    "label": 58.5555555555556
+  },
+  {
+    "filename": "ia-batch23/youtube-s7vwOVsfu7k.mp4",
+    "label": 58.485714285714295
+  },
+  {
+    "filename": "ia-batch23/Wastefull_Weekends_en_espanol.mp4",
+    "label": 50.6176470588235
+  },
+  {
+    "filename": "ia-batch23/Mardi_Gras_Parade_2013.mp4",
+    "label": 53.6388888888889
+  },
+  {
+    "filename": "ia-batch23/youtube-fUgYri64Q5s.mp4",
+    "label": 58.514285714285705
+  },
+  {
+    "filename": "ia-batch23/youtube-B4TZW1uVNQQ.mp4",
+    "label": 67.9705882352941
+  },
+  {
+    "filename": "ia-batch23/wbrtvmi-WBRW_News_-_Week_of_May_12_2010_Pt._2.mp4",
+    "label": 48.6486486486487
+  },
+  {
+    "filename": "ia-batch23/Present_-_Bruce_Beasley_at_the_Palo_Alto_Art_Center.mp4",
+    "label": 44.342105263157904
+  },
+  {
+    "filename": "ia-batch23/youtube-QApK8FY5Aw8.mp4",
+    "label": 58.6969696969697
+  },
+  {
+    "filename": "ia-batch23/NH_Council_on_Aging_Conference_Public_Service_Announcement.mp4",
+    "label": 47.94117647058821
+  },
+  {
+    "filename": "ia-batch23/Top_10_2015.mp4",
+    "label": 52.972222222222214
+  },
+  {
+    "filename": "ia-batch23/wtvma-Wareham_Board_of_Selectmen_Meeting_5-21-2019.mp4",
+    "label": 51.9444444444444
+  },
+  {
+    "filename": "ia-batch23/nctv11ma-Northbridge_MA_Proposed_Historic_District_Meeting_11_15_2016.mp4",
+    "label": 51.1470588235294
+  },
+  {
+    "filename": "ia-batch23/Tammy_s_Window_on_Calaveras_48_with_Pat_Kaunert_as_Mark_Twain_and_David_Rainwater_Champion_Fiddle.mp4",
+    "label": 61.5625
+  },
+  {
+    "filename": "ia-batch23/lwvtca-Emeritus_Institute_1.29.18.mp4",
+    "label": 79.9090909090909
+  },
+  {
+    "filename": "ia-batch23/NPS_-_Welcome_Every_Baby_-_Vintage_TVSB.mp4",
+    "label": 63.4
+  },
+  {
+    "filename": "ia-batch23/youtube-vVHiaPDexxs.mp4",
+    "label": 47.3333333333333
+  },
+  {
+    "filename": "ia-batch23/youtube-Ke8vsgPfFGo.mp4",
+    "label": 79.1176470588236
+  },
+  {
+    "filename": "ia-batch23/Montgomery_County_Executive_Isiah_Leggett_-_A_Year_in_Review.mp4",
+    "label": 73.0833333333333
+  },
+  {
+    "filename": "ia-batch24/youtube-sdzxySLsj78.mp4",
+    "label": 50.74285714285711
+  },
+  {
+    "filename": "ia-batch24/DeuxCentMillesSousLesMers.mp4",
+    "label": 35.3
+  },
+  {
+    "filename": "ia-batch24/The_George_Washington_Comedy_Hour.mp4",
+    "label": 47.3076923076923
+  },
+  {
+    "filename": "ia-batch24/Spirit_Of_Shrewsbury_Fishing_Derby_2008.mp4",
+    "label": 60.410256410256395
+  },
+  {
+    "filename": "ia-batch24/TF-14.mp4",
+    "label": 39.7142857142857
+  },
+  {
+    "filename": "ia-batch24/youtube-hNrmPFAQ6VQ.mp4",
+    "label": 27.974358974359003
+  },
+  {
+    "filename": "ia-batch24/PreviewTheGirlsAndDaddy.mp4",
+    "label": 48.5952380952381
+  },
+  {
+    "filename": "ia-batch24/waya12613.mp4",
+    "label": 35.2439024390244
+  },
+  {
+    "filename": "ia-batch24/Teresa_Ruhland_2006_Award_Winner.mp4",
+    "label": 49.475
+  },
+  {
+    "filename": "ia-batch24/18_10_19_11_01_15PM.mp4",
+    "label": 56.1951219512195
+  },
+  {
+    "filename": "ia-batch24/youtube-RW4X9szZU6E.mp4",
+    "label": 37.4878048780488
+  },
+  {
+    "filename": "ia-batch24/Kids_Rebuild_a_Dune.mp4",
+    "label": 41.2142857142857
+  },
+  {
+    "filename": "ia-batch24/youtube-0chgJ37rb7c.mp4",
+    "label": 34.9302325581395
+  },
+  {
+    "filename": "ia-batch24/youtube-_bCOmEhXxCE.mp4",
+    "label": 40.125
+  },
+  {
+    "filename": "ia-batch24/youtube-lRseYo4IjdM.mp4",
+    "label": 33.3513513513514
+  },
+  {
+    "filename": "ia-batch24/youtube-1uCWzX8H-Ks.mp4",
+    "label": 48.97368421052629
+  },
+  {
+    "filename": "ia-batch24/TheLumiereBrothersCinematography.mp4",
+    "label": 55.3846153846154
+  },
+  {
+    "filename": "ia-batch24/youtube-3Zv56-bmg5Y.mp4",
+    "label": 27.7
+  },
+  {
+    "filename": "ia-batch24/youtube-drWZE8F81RI.mp4",
+    "label": 57.8
+  }
+]
