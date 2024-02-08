@@ -32,7 +32,6 @@ from synthetic_datasets import SyntheticDataset
 from synthetic_lsvd_datasets import LSVDDataset
 
 from niqe_loss import *
-from reference_loss import *
 from itertools import chain, cycle
 from collections import OrderedDict
 from swin_backbone import SwinTransformer3D as VideoBackbone
