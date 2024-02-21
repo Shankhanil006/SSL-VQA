@@ -5,5 +5,6 @@ In this work, we address the challenge of requirement of large scale human annot
 
 ![SSL-VQA](https://github.com/Shankhanil006/SSL-VQA/blob/main/sslvqa.png?raw=true)
 
-## ** Installation **
+## Installation 
 >conda env create -f environment.yml
+
