@@ -11,6 +11,7 @@ In this work, we address the challenge of requirement of large scale human annot
 ## Generating Syntheitc distortion for UGC Videos
 Download LSVQ database from [LSVQ](https://github.com/baidut/PatchVQ?raw=true) . Randomly choose 200 or more videos and generate 12 distorted version of each scene by running the file LSVQ Synthetic/script.py. On the other hand user can also download synthetically distorted databases like LIVE-VQA, EPFL-PoLiMI, LIVE Mobile, CSIQ VQD, ECVQ and EVVQ for training ST_VQRL.
 
+## Training Self-supervised Video Quality Representation Learning (ST-VQRL) Model
 To train self-supervised video feature model (ST-VQRL) using LSVQ videos run following:
 >python3 STVQRL/self_supervised_train.py
 
