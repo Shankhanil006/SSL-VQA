@@ -8,3 +8,8 @@ In this work, we address the challenge of requirement of large scale human annot
 ## Installation 
 >conda env create -f environment.yml
 
+## Generating Syntheitc distortion for UGC Videos
+Download LSVQ database from ![LSVQ](https://github.com/baidut/PatchVQ?raw=true) . Randomly choose 200 or more videos and generate 12 distorted version of each scene by running the file LSVQ Synthetic/script.py. On the other hand user can also download synthetically distorted databases like LIVE-VQA, EPFL-PoLiMI, LIVE Mobile, CSIQ VQD, ECVQ and EVVQ for training ST_VQRL.
+
+We provide Pre-trained ST-VQRL models weights on 200x12 synthetically distorted LSVQ videos.
+![pretrained-stvqrl](https://drive.google.com/file/d/1uE0QgCZAsjXrvRHP_bdC8xVu5xb4eZUa/view?usp=drive_link)
