@@ -13,4 +13,4 @@ Download LSVQ database from [LSVQ](https://github.com/baidut/PatchVQ?raw=true) .
 
 We provide Pre-trained ST-VQRL models weights on 200x12 synthetically distorted LSVQ videos.
 
-[pretrained-stvqrl](https://drive.google.com/file/d/1uE0QgCZAsjXrvRHP_bdC8xVu5xb4eZUa/view?usp=drive_link)
+Google Drive: [pretrained-stvqrl](https://drive.google.com/file/d/1uE0QgCZAsjXrvRHP_bdC8xVu5xb4eZUa/view?usp=drive_link)
