@@ -13,7 +13,7 @@ Download LSVQ database from [LSVQ](https://github.com/baidut/PatchVQ?raw=true) .
 
 ## Pristine Clip generation
 Download pristine fragmented video clip from:
-[pris_clip]()
+[pristine_clips](https://drive.google.com/file/d/1pCABOnY2K5STtGW3XXQsFEmJIYZElWtT/view?usp=drive_link)
 Alternatively, you can run pristine_clip_generator.py on any pristine videos to generate pristine fragmented video clips.
 ## Training Self-supervised Video Quality Representation Learning (ST-VQRL) Model
 To train self-supervised video feature model (ST-VQRL) using LSVQ synthetically generated videos run following:
