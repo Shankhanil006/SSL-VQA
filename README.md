@@ -11,6 +11,10 @@ In this work, we address the challenge of requirement of large scale human annot
 ## Generating Syntheitc distortion for UGC Videos
 Download LSVQ database from [LSVQ](https://github.com/baidut/PatchVQ?raw=true) . Randomly choose 200 or more videos and generate 12 distorted version of each scene by running the file LSVQ Synthetic/script.py. On the other hand user can also download synthetically distorted databases like LIVE-VQA, EPFL-PoLiMI, LIVE Mobile, CSIQ VQD, ECVQ and EVVQ for training ST_VQRL.
 
+## Pristine Clip generation
+Download pristine fragmented video clip from:
+[pris_clip]()
+Alternatively, you can run pristine_clip_generator.py on any pristine videos to generate pristine fragmented video clips.
 ## Training Self-supervised Video Quality Representation Learning (ST-VQRL) Model
 To train self-supervised video feature model (ST-VQRL) using LSVQ synthetically generated videos run following:
 >python3 STVQRL/self_supervised_train.py
@@ -26,3 +30,6 @@ To train SSL-VQA with 500 labelled and 1500 unlabelled samples from LSVQ officia
 > python3 SemiSupervised Learning Module/semisupervised_training.py
 
 We have provided 2000 video names in semisupervised.json files and randomly chosen 500 labelled samples from this 2000. User can choose any other set of labelled and unlabelled videos from entire LSVQ train set of 28053 in LSVQ_train.json file. 
+
+Pre-trained weights of SSL-VQA trained on 1 random split of 500 labelled and 1500 unlabelled video in semisupervised.json:
+[weights](https://drive.google.com/file/d/1EHtMEXPpQZAu2GRxG8jgVKxeGrv9JrII/view?usp=drive_link)
