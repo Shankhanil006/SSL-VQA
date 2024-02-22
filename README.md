@@ -32,4 +32,5 @@ To train SSL-VQA with 500 labelled and 1500 unlabelled samples from LSVQ officia
 We have provided 2000 video names in semisupervised.json files and randomly chosen 500 labelled samples from this 2000. User can choose any other set of labelled and unlabelled videos from entire LSVQ train set of 28053 in LSVQ_train.json file. 
 
 Pre-trained weights of SSL-VQA trained on 1 random split of 500 labelled and 1500 unlabelled video in semisupervised.json:
-[weights](https://drive.google.com/file/d/1EHtMEXPpQZAu2GRxG8jgVKxeGrv9JrII/view?usp=drive_link)
+
+[pretrained SSL-VQA](https://drive.google.com/file/d/1EHtMEXPpQZAu2GRxG8jgVKxeGrv9JrII/view?usp=drive_link)
