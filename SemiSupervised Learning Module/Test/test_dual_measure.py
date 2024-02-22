@@ -189,7 +189,7 @@ reg_score = []
 niqe_score = []
 
 
-tau = 0.1
+tau = 0.01
 start = time.time()
 for i in range(len(flickr_id)): #  vid_names # video_list  # vid_id # flickr_id test_lsvd_names
 
