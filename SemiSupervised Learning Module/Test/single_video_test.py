@@ -181,7 +181,7 @@ sampler = FragmentSampleFrames(depth//t_frag,t_frag,2,num_clips)
 mean, std = torch.FloatTensor([123.675, 116.28, 103.53]), torch.FloatTensor([58.395, 57.12, 57.375])     
 
 
-tau = 0.01   # Tune the tau between 0.01 to 0.1 for optimal performance
+tau = 0.1   # Tune the tau between 0.01 to 0.1 for optimal performance
 start = time.time()
 
 
