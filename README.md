@@ -40,7 +40,7 @@ Video fragment generation code is taken from FAST-VQA [link](https://github.com/
 
 ## Citation
 If you find this work useful for your research, please cite our paper:
->@misc{mitra2023knowledge,
+> @misc{mitra2023knowledge,
 
       title={Knowledge Guided Semi-Supervised Learning for Quality Assessment of User Generated Videos}, 
       
@@ -52,6 +52,4 @@ If you find this work useful for your research, please cite our paper:
       
       archivePrefix={arXiv},
       
-      primaryClass={cs.CV}
-      
-}
+      primaryClass={cs.CV} }
