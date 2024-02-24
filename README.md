@@ -35,11 +35,23 @@ Pre-trained weights of SSL-VQA trained on 1 random split of 500 labelled and 150
 
 [pretrained SSL-VQA](https://drive.google.com/file/d/1EHtMEXPpQZAu2GRxG8jgVKxeGrv9JrII/view?usp=drive_link)
 
+## Acknowledgement 
+Video fragment generation code is taken from FAST-VQA [link](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/tree/dev?tab=readme-ov-file)
+
+## Citation
+If you find this work useful for your research, please cite our paper:
 >@misc{mitra2023knowledge,
+>
       title={Knowledge Guided Semi-Supervised Learning for Quality Assessment of User Generated Videos}, 
+      
       author={Shankhanil Mitra and Rajiv Soundararajan},
+      
       year={2023},
+      
       eprint={2312.15425},
+      
       archivePrefix={arXiv},
+      
       primaryClass={cs.CV}
+      
 }
