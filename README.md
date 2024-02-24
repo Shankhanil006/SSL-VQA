@@ -34,3 +34,12 @@ We have provided 2000 video names in semisupervised.json files and randomly chos
 Pre-trained weights of SSL-VQA trained on 1 random split of 500 labelled and 1500 unlabelled video in semisupervised.json:
 
 [pretrained SSL-VQA](https://drive.google.com/file/d/1EHtMEXPpQZAu2GRxG8jgVKxeGrv9JrII/view?usp=drive_link)
+
+>@misc{mitra2023knowledge,
+      title={Knowledge Guided Semi-Supervised Learning for Quality Assessment of User Generated Videos}, 
+      author={Shankhanil Mitra and Rajiv Soundararajan},
+      year={2023},
+      eprint={2312.15425},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
